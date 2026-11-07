@@ -1,0 +1,278 @@
+{
+  "assembly": "TU",
+  "reason": "full new libraries have extreme fragmentation and CL2 fixed-template adjudication is needed. Prior to examining alternation, test all fixed tiles intersecting directly labelled CL2 TRF tracts; add boundaries/interiors of two largest tracts of each family. On receipt of other fixed-only CL2 evidence, review if additional coverage is needed.",
+  "source": "evidence/trf_family_union.tsv",
+  "panels": [
+    "reverse",
+    "rot92"
+  ],
+  "same_native_grid": "fixed/plan.json",
+  "tiles": {
+    "T00085": [
+      "direct_CL2_tandem"
+    ],
+    "T00086": [
+      "direct_CL2_tandem"
+    ],
+    "T00174": [
+      "direct_CL2_tandem"
+    ],
+    "T00175": [
+      "direct_CL2_tandem"
+    ],
+    "T00185": [
+      "direct_CL2_tandem"
+    ],
+    "T00186": [
+      "direct_CL2_tandem"
+    ],
+    "T00187": [
+      "direct_CL2_tandem"
+    ],
+    "T00226": [
+      "direct_CL2_tandem"
+    ],
+    "T00227": [
+      "direct_CL2_tandem"
+    ],
+    "T00321": [
+      "CL2_representative",
+      "direct_CL2_tandem"
+    ],
+    "T00322": [
+      "direct_CL2_tandem"
+    ],
+    "T00323": [
+      "CL2_representative",
+      "direct_CL2_tandem"
+    ],
+    "T00324": [
+      "CL2_representative",
+      "direct_CL2_tandem"
+    ],
+    "T00336": [
+      "direct_CL2_tandem"
+    ],
+    "T00337": [
+      "direct_CL2_tandem"
+    ],
+    "T00339": [
+      "direct_CL2_tandem"
+    ],
+    "T00380": [
+      "direct_CL2_tandem"
+    ],
+    "T00462": [
+      "direct_CL2_tandem"
+    ],
+    "T00463": [
+      "direct_CL2_tandem"
+    ],
+    "T00468": [
+      "direct_CL2_tandem"
+    ],
+    "T00470": [
+      "direct_CL2_tandem"
+    ],
+    "T00471": [
+      "direct_CL2_tandem"
+    ],
+    "T00472": [
+      "direct_CL2_tandem"
+    ],
+    "T00483": [
+      "direct_CL2_tandem"
+    ],
+    "T00484": [
+      "direct_CL2_tandem"
+    ],
+    "T00530": [
+      "direct_CL2_tandem"
+    ],
+    "T00531": [
+      "direct_CL2_tandem"
+    ],
+    "T00537": [
+      "direct_CL2_tandem"
+    ],
+    "T00538": [
+      "direct_CL2_tandem"
+    ],
+    "T00544": [
+      "direct_CL2_tandem"
+    ],
+    "T00549": [
+      "direct_CL2_tandem"
+    ],
+    "T00550": [
+      "direct_CL2_tandem"
+    ],
+    "T00551": [
+      "direct_CL2_tandem"
+    ],
+    "T00583": [
+      "direct_CL2_tandem"
+    ],
+    "T00641": [
+      "CL2_representative",
+      "direct_CL2_tandem"
+    ],
+    "T00642": [
+      "CL2_representative",
+      "direct_CL2_tandem"
+    ],
+    "T00643": [
+      "CL2_representative",
+      "direct_CL2_tandem"
+    ],
+    "T00743": [
+      "direct_CL2_tandem"
+    ],
+    "T00744": [
+      "direct_CL2_tandem"
+    ],
+    "T00784": [
+      "direct_CL2_tandem"
+    ],
+    "T00794": [
+      "direct_CL2_tandem"
+    ],
+    "T00795": [
+      "direct_CL2_tandem"
+    ],
+    "T00839": [
+      "direct_CL2_tandem"
+    ],
+    "T00850": [
+      "direct_CL2_tandem"
+    ],
+    "T00852": [
+      "direct_CL2_tandem"
+    ],
+    "T00853": [
+      "direct_CL2_tandem"
+    ],
+    "T00854": [
+      "direct_CL2_tandem"
+    ],
+    "T00895": [
+      "direct_CL2_tandem"
+    ],
+    "T00896": [
+      "direct_CL2_tandem"
+    ],
+    "T00897": [
+      "direct_CL2_tandem"
+    ],
+    "T00905": [
+      "direct_CL2_tandem"
+    ],
+    "T00906": [
+      "direct_CL2_tandem"
+    ],
+    "T00938": [
+      "direct_CL2_tandem"
+    ],
+    "T00969": [
+      "direct_CL2_tandem"
+    ],
+    "T00970": [
+      "direct_CL2_tandem"
+    ],
+    "T00971": [
+      "direct_CL2_tandem"
+    ],
+    "T01043": [
+      "direct_CL2_tandem"
+    ],
+    "T01044": [
+      "direct_CL2_tandem"
+    ],
+    "T01045": [
+      "direct_CL2_tandem"
+    ],
+    "T01053": [
+      "direct_CL2_tandem"
+    ],
+    "T01054": [
+      "direct_CL2_tandem"
+    ],
+    "T01059": [
+      "direct_CL2_tandem"
+    ],
+    "T01102": [
+      "direct_CL2_tandem"
+    ],
+    "T01103": [
+      "direct_CL2_tandem"
+    ],
+    "T01176": [
+      "direct_CL2_tandem"
+    ],
+    "T01187": [
+      "direct_CL2_tandem"
+    ],
+    "T01188": [
+      "direct_CL2_tandem"
+    ],
+    "T01256": [
+      "direct_CL2_tandem"
+    ],
+    "T01257": [
+      "direct_CL2_tandem"
+    ],
+    "T01265": [
+      "direct_CL2_tandem"
+    ],
+    "T01304": [
+      "direct_CL2_tandem"
+    ],
+    "T01305": [
+      "direct_CL2_tandem"
+    ],
+    "T01323": [
+      "direct_CL2_tandem"
+    ],
+    "T01325": [
+      "direct_CL2_tandem"
+    ],
+    "T01339": [
+      "direct_CL2_tandem"
+    ],
+    "T01340": [
+      "direct_CL2_tandem"
+    ],
+    "T01390": [
+      "direct_CL2_tandem"
+    ],
+    "T01391": [
+      "direct_CL2_tandem"
+    ],
+    "T01392": [
+      "direct_CL2_tandem"
+    ],
+    "T01393": [
+      "direct_CL2_tandem"
+    ],
+    "T00688": [
+      "CL1_representative"
+    ],
+    "T00689": [
+      "CL1_representative"
+    ],
+    "T00690": [
+      "CL1_representative"
+    ],
+    "T00634": [
+      "CL1_representative"
+    ],
+    "T00635": [
+      "CL1_representative"
+    ],
+    "T00636": [
+      "CL1_representative"
+    ]
+  },
+  "marked_tiles": 86,
+  "core_bp": 86000000
+}

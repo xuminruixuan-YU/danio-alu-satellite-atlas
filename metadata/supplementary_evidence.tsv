@@ -1,0 +1,25 @@
+item	repository_path	purpose
+S35	data/manuscript_evidence/array_alternation.tsv	复现既有补充表与相关复核统计；本轮未重算
+S35完整分布	data/manuscript_evidence/alternation_null_draws.tsv.gz	复现既有补充表与相关复核统计；本轮未重算
+S36	data/manuscript_evidence/TU_copy_representation.tsv	复现既有补充表与相关复核统计；本轮未重算
+S37	data/manuscript_evidence/TU_filter_reasons.tsv	复现既有补充表与相关复核统计；本轮未重算
+S38	data/manuscript_evidence/TU_sample_size_sensitivity.tsv	复现既有补充表与相关复核统计；本轮未重算
+S39	data/manuscript_evidence/congener_common_region_comparison.tsv	复现既有补充表与相关复核统计；本轮未重算
+S40	data/manuscript_evidence/family_methylation_denominators.tsv	复现既有补充表与相关复核统计；本轮未重算
+S41	data/manuscript_evidence/family_methylation_threshold_summary.tsv	复现既有补充表与相关复核统计；本轮未重算
+S42	data/manuscript_evidence/chr11_and_units/chr11_substate_counts.tsv	复现既有补充表与相关复核统计；本轮未重算
+S42逐单元	data/manuscript_evidence/chr11_and_units/chr11_units_with_substates.tsv.gz	复现既有补充表与相关复核统计；本轮未重算
+S43—S48原始与汇总结果	data/sequence_sensitivity/results	复现阈值、相位、保留覆盖、共同集合及扩展取样
+固定输入	data/sequence_sensitivity/inputs	固定区域、原始分解单元、模板及软件版本
+序列分析代码	data/sequence_sensitivity/code	重建筛选与相位表示、编辑距离、独立核验和图S7
+核验结果	data/sequence_sensitivity/checks	核对原结果复现、原序列保留及新集合计数
+参数	data/sequence_sensitivity/parameters.json	明确统计分母、坐标、阈值与复现命令
+版本对应	data/sequence_sensitivity/input_code_result_versions.json	固定输入、代码和结果对应
+图S7绘图代码	data/sequence_sensitivity/code/plot_sequence_sensitivity.py	使用results/all_regions.tsv生成图S7；成品图随稿件提供
+S49	data/region_id_mapping.tsv	大型区域编号与坐标对应
+S50	data/template_controls/coverage_summary.tsv	模板输入次序与循环起点重新分解对照
+S50原生结果	data/template_controls/native_output_index.tsv	原生分解表与核验记录索引
+S31 当前轨道	data/regional_methylation/windows.tsv	全读段区域窗口；有效状态与占位零分别保存
+S51	data/regional_methylation/array_coverage.tsv	逐阵列逐个体覆盖及读段数
+S52	data/regional_methylation/coordinate_example/coordinate_sensitivity_quantification.tsv	指定窗口在扩大竞争搜索后的坐标及比例敏感性
+S53	data/regional_methylation/model_metadata_limited_windows.tsv	模型名称受限观测占多数的窗口；version=new对应区域轨道

@@ -1,0 +1,24 @@
+{
+  "returncode": 0,
+  "records": 6225,
+  "records_touching_core": 6108,
+  "core_bp_scanned": 1000000,
+  "decompressed_sha256": {
+    "final_decomposition.tsv.gz": "1f319e0b23d294a44d67cf0b158f9a0c9cadd10cf0de4f2347b3803d766c4291",
+    "final_decomposition_raw.tsv.gz": "0b93a93de98aab5227ebff309de336ecb4eda33770298f75c3d6096c2e2bc59b",
+    "final_decomposition_alt.tsv.gz": "b58d16dba306f617412ac3291dc07f804a508c82f65321f9e7e52ee7fc7f4c8d"
+  },
+  "command": [
+    "/home/op1/miniconda3/envs/stringdecomposer/bin/stringdecomposer",
+    "/data/workspace_op1/2026-10-29_centrowork/output/danio_cl1_cl2_execution_2026-11-03/genomes/TU/phase_controls/T00744/working.fa",
+    "/data/workspace_op1/2026-10-29_centrowork/output/danio_cl1_cl2_execution_2026-11-03/inputs/reverse.fa",
+    "-t",
+    "4",
+    "-i",
+    "0",
+    "--second-best",
+    "-o",
+    "/data/workspace_op1/2026-10-29_centrowork/output/danio_cl1_cl2_execution_2026-11-03/genomes/TU/phase_controls/T00744/reverse"
+  ],
+  "common_input_sha256": "c08a2ed8dcb61e98e273710a01bf5065fdd94bcc162ccf0f37d8ca7998a1b014"
+}

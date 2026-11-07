@@ -1,0 +1,31 @@
+{
+  "reference": "GCF_049306965.1",
+  "congeners": [
+    "GCA_903798145.1",
+    "GCA_903798195.1"
+  ],
+  "methylation_project": "PRJEB108899",
+  "methylation_runs": [
+    "ERR16782314",
+    "ERR16782315",
+    "ERR16782316",
+    "ERR16782317",
+    "ERR16782318",
+    "ERR16782319"
+  ],
+  "software": {
+    "python": "3.12.3",
+    "numpy": "1.26.4",
+    "edlib": "1.3.8.post2"
+  },
+  "coordinates": "start0 is zero-based inclusive, end0 exclusive; manuscript and Excel coordinates are one-based inclusive",
+  "families": {
+    "CL1": "AT-rich AluI",
+    "CL2": "GC-rich AluI"
+  },
+  "distance": "global Levenshtein unit cost, sum edits / sum max lengths per array; equal weight across arrays",
+  "permutation": "999, count-preserving within each contiguous typed segment; empirical P=(1+count_ge)/1000; unadjusted across arrays/statistics; maximum search matched to observed region",
+  "methylation": "m/(C+m+h) within individual; six individuals equally weighted; confidence 0.95 is encoding diagnostic only",
+  "availability": "Data accompanying the manuscript; existing published repository version is identified separately in the audit index.",
+  "chr11_substate_audit": "Original stored per-unit states; no normalization/threshold rerun. Original-record auditing script requires the project paths recorded in unit_audit.json; all 8077 extracted rows are supplied for independent tallying."
+}

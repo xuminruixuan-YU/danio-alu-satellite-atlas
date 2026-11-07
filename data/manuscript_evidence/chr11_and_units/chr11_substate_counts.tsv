@@ -1,0 +1,10 @@
+array_id	original_status	normalization_substatus	final_status	units
+TU.NC_133186.1.CL1.R002	ambiguous_bases	(not_attempted)	ambiguous_bases	221
+TU.NC_133186.1.CL1.R002	ambiguous_bases	(not_attempted)	overlap	1
+TU.NC_133186.1.CL1.R002	normalized	+	normalized	15
+TU.NC_133186.1.CL1.R002	normalized	+	overlap	2
+TU.NC_133186.1.CL1.R002	not_expected_single_unit_span	(not_attempted)	not_expected_single_unit_span	59
+TU.NC_133186.1.CL1.R002	source_family_only	cycle_offset_or_span_tie	overlap	27
+TU.NC_133186.1.CL1.R002	source_family_only	cycle_offset_or_span_tie	source_family_only	7698
+TU.NC_133186.1.CL1.R002	source_family_unresolved_or_conflicting	(not_attempted)	source_family_unresolved_or_conflicting	53
+TU.NC_133186.1.CL1.R002	truncated_at_piece_end	(not_attempted)	truncated_at_piece_end	1

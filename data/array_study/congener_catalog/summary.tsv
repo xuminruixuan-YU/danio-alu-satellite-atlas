@@ -1,0 +1,5 @@
+species	assembly	family	supported_regions	large_regions	supported_bp	large_supported_bp	maximum_supported_region_bp	unresolved_source_records	interpretation
+aesculapii	GCA_903798145.1	CL1	5	3	58977	56252	22304	416	observed assembly evidence; non-detection under size rule is not species-level absence
+aesculapii	GCA_903798145.1	CL2	141	23	808947	328824	25664	178	observed assembly evidence; non-detection under size rule is not species-level absence
+kyathit	GCA_903798195.1	CL1	1	0	424	0	424	215	observed assembly evidence; non-detection under size rule is not species-level absence
+kyathit	GCA_903798195.1	CL2	63	9	325321	136203	27542	82	observed assembly evidence; non-detection under size rule is not species-level absence

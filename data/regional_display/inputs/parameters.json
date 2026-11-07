@@ -1,0 +1,67 @@
+{
+  "baseline": "v4.3",
+  "assembly": "GCF_049306965.1",
+  "runs": [
+    "ERR16782314",
+    "ERR16782315",
+    "ERR16782316",
+    "ERR16782317",
+    "ERR16782318",
+    "ERR16782319"
+  ],
+  "window_step_bp": [
+    [
+      10000,
+      10000
+    ],
+    [
+      10000,
+      5000
+    ],
+    [
+      20000,
+      5000
+    ],
+    [
+      50000,
+      10000
+    ],
+    [
+      100000,
+      20000
+    ]
+  ],
+  "main_min_CpGs": [
+    10,
+    20
+  ],
+  "exploratory_min_CpGs": 5,
+  "exploratory_schemes": [
+    [
+      10000,
+      10000
+    ],
+    [
+      20000,
+      5000
+    ]
+  ],
+  "min_read_IDs": [
+    1,
+    3,
+    5
+  ],
+  "array_flank_bp": 200000,
+  "local_flank_bp": 30000,
+  "exploratory_drop_percentage_points": 20,
+  "statistics": "mean of per-reference-CpG m/(C+m+h); unique read/reference/CpG observations",
+  "large_gap_fraction": 0.5,
+  "empty_central_fraction": [
+    0.25,
+    0.75
+  ],
+  "replication_rule": "same 10kb reference anchor in >=3 individuals each supported by >=3 distinct window widths at main CpG thresholds, >=5 read IDs and no edge flags; metadata-majority windows excluded; descriptive, not significance",
+  "partial_windows": "clipped to v4.3 plotting domain; explicitly flagged",
+  "input_call_filters": "unchanged from inputs/new_config.json; plot missingness overrides missing_plot in that archived file",
+  "model_sensitivity": "exclude model_metadata containing modbase_model_version_id only for separate sensitivity; does not recalibrate calls"
+}

@@ -1,0 +1,17 @@
+{
+  "coordinates": "0-based half-open; end0 excluded",
+  "mean": "100*mean_reference_CpG[m/(C+m+h)]",
+  "weighted": "100*sum(m)/sum(C+m+h)",
+  "reads": "distinct read IDs throughout the window",
+  "observations": "valid unique read-reference-CpG observations",
+  "q1_q4": "distinct CpGs in consecutive window quarters",
+  "max_gap": "longest interval without a valid CpG, including edges; bp",
+  "edge_flag": "max_gap > actual_window_length/2 or central_CpGs == 0",
+  "display3": "CpGs>=10 and reads>=3",
+  "support5": "display3 and reads>=5",
+  "opaque_fraction": "model-name-limited valid observations / all valid window observations",
+  "missing": "NaN display value; measured zero kept only with valid support",
+  "S53": "model_name_limited_observations / total_valid_observations; 10 kb baseline",
+  "gap_coordinates": "B chr3 [52190000,52860000); C chr3 [58500000,58920000)",
+  "anchor": "independent sequence tract outside the satellite fragment catalogue, including possible internal interruptions"
+}

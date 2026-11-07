@@ -1,0 +1,21 @@
+{
+  "core": [
+    "NC_133180.1",
+    63000000,
+    64000000,
+    62990000,
+    64010000
+  ],
+  "working_sha256": "1e52b88e812628b631c9e50b413be1c14c2fbd4f4e3998497cd37d78cce2e231",
+  "subtype_calls": {
+    "B": 15,
+    "unknown": 1218,
+    "A": 21
+  },
+  "rotation_nearest_same_strand": {
+    "exact": 571,
+    "82..102": 55,
+    "1..10": 1
+  },
+  "scope": "family coverage counts use mutually exclusive winning families and common core, diagnostic subtype/shift use CL2 rows >=75 with start owned by core; distance alone does not diagnose phase or establish a dimer"
+}

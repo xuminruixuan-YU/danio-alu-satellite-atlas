@@ -1,0 +1,29 @@
+{
+  "regional_display": "20 kb/5 kb; >=10 reference CpGs, >=3 reads, >=5 subset; missing values break curves",
+  "unchanged": [
+    "reference GCF_049306965.1",
+    "alignment and modification filters",
+    "family and independent-anchor estimates",
+    "sequence sensitivity and cross-species statistics",
+    "array coordinates and structure matrices"
+  ],
+  "geometry": "equal coordinate scale; layouts resized without stretching",
+  "baseline_tables": "S31/S51 retained; S54-S58 provide new display and diagnostics",
+  "corrections": [
+    "S53 subset versus total observation counts",
+    "isolated windows handled for every curve",
+    "sample14 and17 chr21 AT gaps 533188 and685220 bp",
+    "nearest-center ties select the right center; computational results unchanged",
+    "Fig. 4 footer spacing checked from rendered text bounding boxes"
+  ],
+  "wording": {
+    "command_literal": "--secondary=yes",
+    "regional_scope": "Array interiors and adjacent sequence; continuous profiles limited by long missing intervals.",
+    "family_and_region": "Different read sets and weighting; regional profiles reveal spatial variation.",
+    "chr21_AT_local_decreases": "Observed in some individuals, with different positions."
+  },
+  "documentation": {
+    "article": "Condensed data availability points to the README; detailed directories and rerun record names remain in README.",
+    "tables": "Threshold, template and normalization sensitivity details retained in supplementary tables; no data or figure changes."
+  }
+}

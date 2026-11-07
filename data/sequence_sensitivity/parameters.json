@@ -1,0 +1,77 @@
+{
+  "reference": "GCF_049306965.1; 25 nuclear chromosomes; frozen TU 49 large regions",
+  "scenario_count": 24,
+  "family_score_margin": [
+    [
+      0.7,
+      0.1
+    ],
+    [
+      0.75,
+      0.1
+    ],
+    [
+      0.8,
+      0.1
+    ],
+    [
+      0.9,
+      0.1
+    ],
+    [
+      0.75,
+      0.05
+    ],
+    [
+      0.75,
+      0.15
+    ]
+  ],
+  "score_definition": "reciprocal periodic edit similarity; not SD native alignment identity",
+  "phase_modes": [
+    "strict",
+    "equivalent",
+    "min_option",
+    "max_option"
+  ],
+  "copy_quality": {
+    "relative_length": [
+      0.72,
+      1.28
+    ],
+    "alphabet": "ACGT",
+    "overlap": "exclude",
+    "truncated": "exclude",
+    "direction_tie": "exclude",
+    "any_optimal_origin_not_crossed": "exclude"
+  },
+  "normalized_edit_distance": "sum pairwise global Levenshtein distances / sum pairwise maximum sequence lengths; then equal weighting of regional estimates",
+  "retained_coverage": "all eligible copies / annotated satellite bases within frozen large regions; distinct from sampled sequence coverage",
+  "sampling": {
+    "up_to": 32,
+    "expanded_equivalent": 128,
+    "within_between_matched": 4,
+    "order": "SHA256(copy20261103|chromosome:start0-end0), first 8 digest bytes"
+  },
+  "coordinates": "TSV raw unit start0/end0 are zero-based, half-open; manuscript coordinates are one-based inclusive",
+  "reproduction_commands": [
+    "python code/sequence_sensitivity.py --workers 12",
+    "python code/verify_and_extend.py",
+    "python code/validate_sequences.py",
+    "python code/plot_sequence_sensitivity.py"
+  ],
+  "fresh_recomputation": "Extract into a new directory with inputs and code. Omit existing results and checks, or move them aside before executing; completed per-chromosome results are otherwise reused.",
+  "limits": [
+    "Existing decomposition boundaries and templates retained",
+    "Fixed Edlib NW path within each optimal start/span pair; not all tied gap paths enumerated",
+    "Descriptive region summaries; no claim of homogenization rate or functional centromere activity"
+  ],
+  "software": {
+    "edlib": "1.3.8.post2",
+    "biopython": "1.84",
+    "numpy": "1.26.4",
+    "matplotlib": "3.6.3",
+    "openpyxl": "3.1.2",
+    "pypdf": "5.0.0"
+  }
+}

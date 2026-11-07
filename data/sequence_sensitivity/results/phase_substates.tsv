@@ -1,0 +1,9 @@
+family	original_status	phase_state	equivalent_sequence	units
+CL1	normalized	unique	True	59619
+CL1	source_family_only	offset_and_span_tie	False	981
+CL1	source_family_only	origin_not_covered	False	541
+CL1	source_family_only	span_tie	True	108412
+CL2	normalized	unique	True	300332
+CL2	source_family_only	offset_and_span_tie	False	3307
+CL2	source_family_only	origin_not_covered	False	1540
+CL2	source_family_only	span_tie	True	48864

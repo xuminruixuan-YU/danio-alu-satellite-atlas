@@ -1,0 +1,24 @@
+{
+  "returncode": 0,
+  "records": 9494,
+  "records_touching_core": 9324,
+  "core_bp_scanned": 1000000,
+  "decompressed_sha256": {
+    "final_decomposition.tsv.gz": "a1c91cf1fdfa72df35979a52d72cfeaa13e81ca1f624c9af7b17802a827ef74c",
+    "final_decomposition_raw.tsv.gz": "e10f8c775e5589be5f4e509fdf37a75cda7b0bb2fc8b0ede36b6ebf3c5f6b0f6",
+    "final_decomposition_alt.tsv.gz": "8773ee97cd6da14e0c7751d3620c400dba7ba72beed1ca00b30553f522c566ce"
+  },
+  "command": [
+    "/home/op1/miniconda3/envs/stringdecomposer/bin/stringdecomposer",
+    "/data/workspace_op1/2026-10-29_centrowork/output/danio_cl1_cl2_execution_2026-11-03/genomes/TU/fixed/T00643/working.fa",
+    "/data/workspace_op1/2026-10-29_centrowork/output/danio_cl1_cl2_execution_2026-11-03/inputs/three.fa",
+    "-t",
+    "4",
+    "-i",
+    "0",
+    "--second-best",
+    "-o",
+    "/data/workspace_op1/2026-10-29_centrowork/output/danio_cl1_cl2_execution_2026-11-03/genomes/TU/fixed/T00643/three"
+  ],
+  "common_input_sha256": "82f02ba139bef5426e8d581149bbe30888a7917fc4c2248de2328d5f8f00137c"
+}

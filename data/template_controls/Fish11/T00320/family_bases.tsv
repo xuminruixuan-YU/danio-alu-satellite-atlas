@@ -1,0 +1,97 @@
+family	method	cutoff	coverage_class	covered_bp	sum_hundredth_identity_bp	weighted_identity	comparison
+CL1	two	0	common	614725	3438876870	55.941711659685225	two_rot92
+CL1	two	0	unique	3450	18448075	53.47268115942029	two_rot92
+CL1	rot92	0	common	614725	3438778985	55.94011932164789	two_rot92
+CL1	rot92	0	unique	4094	22065827	53.89796531509526	two_rot92
+CL2	two	0	common	372139	3256498994	87.50759780619607	two_rot92
+CL2	two	0	unique	4312	24156197	56.020865027829316	two_rot92
+CL2	rot92	0	common	372139	3256624446	87.51096891215379	two_rot92
+CL2	rot92	0	unique	4009	22409554	55.898114242953355	two_rot92
+CL1	two	65	common	0	0		two_rot92
+CL1	two	65	unique	0	0		two_rot92
+CL1	rot92	65	common	0	0		two_rot92
+CL1	rot92	65	unique	0	0		two_rot92
+CL2	two	65	common	344317	3103924963	90.14730504157507	two_rot92
+CL2	two	65	unique	869	6405159	73.70723820483315	two_rot92
+CL2	rot92	65	common	344317	3104020231	90.15007191047785	two_rot92
+CL2	rot92	65	unique	712	5450364	76.55005617977528	two_rot92
+CL1	two	75	common	0	0		two_rot92
+CL1	two	75	unique	0	0		two_rot92
+CL1	rot92	75	common	0	0		two_rot92
+CL1	rot92	75	unique	0	0		two_rot92
+CL2	two	75	common	341693	3085858254	90.31084201315215	two_rot92
+CL2	two	75	unique	276	2492372	90.30333333333333	two_rot92
+CL2	rot92	75	common	341693	3085816477	90.30961936592205	two_rot92
+CL2	rot92	75	unique	276	2506816	90.82666666666667	two_rot92
+CL1	two	80	common	0	0		two_rot92
+CL1	two	80	unique	0	0		two_rot92
+CL1	rot92	80	common	0	0		two_rot92
+CL1	rot92	80	unique	0	0		two_rot92
+CL2	two	80	common	341014	3080659638	90.33821596767288	two_rot92
+CL2	two	80	unique	276	2492372	90.30333333333333	two_rot92
+CL2	rot92	80	common	341014	3080632470	90.33741928483875	two_rot92
+CL2	rot92	80	unique	276	2506816	90.82666666666667	two_rot92
+CL1	two	85	common	0	0		two_rot92
+CL1	two	85	unique	0	0		two_rot92
+CL1	rot92	85	common	0	0		two_rot92
+CL1	rot92	85	unique	0	0		two_rot92
+CL2	two	85	common	338673	3061083284	90.38462717724767	two_rot92
+CL2	two	85	unique	460	4072380	88.53	two_rot92
+CL2	rot92	85	common	338673	3061017907	90.38269679011908	two_rot92
+CL2	rot92	85	unique	825	7243995	87.806	two_rot92
+CL1	two	90	common	0	0		two_rot92
+CL1	two	90	unique	0	0		two_rot92
+CL1	rot92	90	common	0	0		two_rot92
+CL1	rot92	90	unique	0	0		two_rot92
+CL2	two	90	common	191969	1760512100	91.70814558600607	two_rot92
+CL2	two	90	unique	6809	61766516	90.71305037450433	two_rot92
+CL2	rot92	90	common	191969	1760322124	91.69824940485182	two_rot92
+CL2	rot92	90	unique	8273	75048557	90.71504532817599	two_rot92
+CL1	three	0	common	605992	3395752949	56.03626696392032	three_reverse
+CL1	three	0	unique	30	168900	56.3	three_reverse
+CL1	reverse	0	common	605992	3395750575	56.036227788485654	three_reverse
+CL1	reverse	0	unique	0	0		three_reverse
+CL2	three	0	common	391501	3376848450	86.25389079465953	three_reverse
+CL2	three	0	unique	0	0		three_reverse
+CL2	reverse	0	common	391501	3376885587	86.25483937461208	three_reverse
+CL2	reverse	0	unique	30	157410	52.47	three_reverse
+CL1	three	65	common	0	0		three_reverse
+CL1	three	65	unique	0	0		three_reverse
+CL1	reverse	65	common	0	0		three_reverse
+CL1	reverse	65	unique	0	0		three_reverse
+CL2	three	65	common	347277	3134859535	90.26971365797331	three_reverse
+CL2	three	65	unique	0	0		three_reverse
+CL2	reverse	65	common	347277	3134862644	90.26980318304985	three_reverse
+CL2	reverse	65	unique	0	0		three_reverse
+CL1	three	75	common	0	0		three_reverse
+CL1	three	75	unique	0	0		three_reverse
+CL1	reverse	75	common	0	0		three_reverse
+CL1	reverse	75	unique	0	0		three_reverse
+CL2	three	75	common	344165	3113135770	90.45474612467856	three_reverse
+CL2	three	75	unique	0	0		three_reverse
+CL2	reverse	75	common	344165	3113135531	90.45473918033501	three_reverse
+CL2	reverse	75	unique	0	0		three_reverse
+CL1	three	80	common	0	0		three_reverse
+CL1	three	80	unique	0	0		three_reverse
+CL1	reverse	80	common	0	0		three_reverse
+CL1	reverse	80	unique	0	0		three_reverse
+CL2	three	80	common	343810	3110428929	90.46941418225182	three_reverse
+CL2	three	80	unique	0	0		three_reverse
+CL2	reverse	80	common	343810	3110428690	90.46940723073791	three_reverse
+CL2	reverse	80	unique	0	0		three_reverse
+CL1	three	85	common	0	0		three_reverse
+CL1	three	85	unique	0	0		three_reverse
+CL1	reverse	85	common	0	0		three_reverse
+CL1	reverse	85	unique	0	0		three_reverse
+CL2	three	85	common	332549	3015931535	90.6913427795603	three_reverse
+CL2	three	85	unique	81	713124	88.04	three_reverse
+CL2	reverse	85	common	332549	3015930671	90.6913167984267	three_reverse
+CL2	reverse	85	unique	82	713072	86.96	three_reverse
+CL1	three	90	common	0	0		three_reverse
+CL1	three	90	unique	0	0		three_reverse
+CL1	reverse	90	common	0	0		three_reverse
+CL1	reverse	90	unique	0	0		three_reverse
+CL2	three	90	common	217918	2008459966	92.16585899283217	three_reverse
+CL2	three	90	unique	0	0		three_reverse
+CL2	reverse	90	common	217918	2008459966	92.16585899283217	three_reverse
+CL2	reverse	90	unique	0	0		three_reverse

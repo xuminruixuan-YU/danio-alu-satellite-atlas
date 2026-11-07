@@ -1,0 +1,197 @@
+reference	marker	forward_status	reverse_status	reciprocal	source_offset	family	locus	target_seqid	target_start0	target_end0	target_strand
+GCA_903798145.1	V4_28500000_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL1	V4_28500000	LR812516.1	36305740	36306429	+
+GCA_903798145.1	V4_28500000_L_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL1	V4_28500000				
+GCA_903798145.1	V4_28500000_L_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL1	V4_28500000				
+GCA_903798145.1	V4_28500000_L_250000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	250000	CL1	V4_28500000				
+GCA_903798145.1	V4_28500000_L_500000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	500000	CL1	V4_28500000				
+GCA_903798145.1	V4_28500000_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	V4_28500000	LR812513.1	8408427	8410630	+
+GCA_903798145.1	V4_28500000_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	V4_28500000	LR812500.1	33002138	33003026	-
+GCA_903798145.1	V4_28500000_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL1	V4_28500000	LR812505.1	53993372	53998253	-
+GCA_903798145.1	V4_28500000_R_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL1	V4_28500000				
+GCA_903798145.1	V4_28500000_R_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL1	V4_28500000				
+GCA_903798145.1	V4_28500000_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL1	V4_28500000	LR812500.1	32105202	32106616	-
+GCA_903798145.1	V4_28500000_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL1	V4_28500000	LR812500.1	31760957	31762232	-
+GCA_903798145.1	V4_28500000_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	V4_28500000	LR812498.1	54822783	54823504	-
+GCA_903798145.1	V4_28500000_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	V4_28500000	LR812500.1	37506009	37511037	+
+GCA_903798145.1	V4_30950000_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	V4_30950000	LR812500.1	37505899	37511011	+
+GCA_903798145.1	V4_30950000_L_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	V4_30950000	LR812500.1	37506201	37511281	+
+GCA_903798145.1	V4_30950000_L_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	V4_30950000	LR812500.1	37506048	37511085	+
+GCA_903798145.1	V4_30950000_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	V4_30950000	LR812500.1	37505921	37510955	+
+GCA_903798145.1	V4_30950000_L_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	V4_30950000	LR812500.1	37506027	37511068	+
+GCA_903798145.1	V4_30950000_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	V4_30950000	LR812500.1	30733743	30735565	-
+GCA_903798145.1	V4_30950000_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	V4_30950000	LR812498.1	19177127	19178464	-
+GCA_903798145.1	V4_30950000_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	V4_30950000	LR812500.1	37506357	37511399	+
+GCA_903798145.1	V4_30950000_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	V4_30950000	LR812500.1	37506169	37511211	+
+GCA_903798145.1	V4_30950000_R_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	V4_30950000	LR812500.1	37506228	37511303	+
+GCA_903798145.1	V4_30950000_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	V4_30950000	LR812499.1	32344572	32346467	+
+GCA_903798145.1	V4_30950000_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	V4_30950000	LR812500.1	9688584	9692998	-
+GCA_903798145.1	V4_30950000_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	V4_30950000	LR812500.1	13034699	13039651	+
+GCA_903798145.1	V4_30950000_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	V4_30950000	LR812500.1	14104331	14106020	-
+GCA_903798145.1	V7_55450000_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	V7_55450000	LR812500.1	37506361	37511399	+
+GCA_903798145.1	V7_55450000_L_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	V7_55450000	LR812500.1	37506166	37511219	+
+GCA_903798145.1	V7_55450000_L_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	V7_55450000	LR812500.1	37506349	37511395	+
+GCA_903798145.1	V7_55450000_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	V7_55450000	LR812500.1	37506199	37511240	+
+GCA_903798145.1	V7_55450000_L_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	V7_55450000	LR812500.1	37506286	37511326	+
+GCA_903798145.1	V7_55450000_L_1000000	candidate	candidate	True	1000000	CL2	V7_55450000	LR812512.1	49909179	49914185	-
+GCA_903798145.1	V7_55450000_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	V7_55450000	LR812512.1	50773060	50774384	-
+GCA_903798145.1	V7_55450000_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	V7_55450000	LR812500.1	37506007	37511037	+
+GCA_903798145.1	V7_55450000_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	V7_55450000	LR812500.1	37506007	37511036	+
+GCA_903798145.1	V7_55450000_R_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	V7_55450000	LR812500.1	37506360	37511399	+
+GCA_903798145.1	V7_55450000_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	V7_55450000	LR812500.1	37506238	37511284	+
+GCA_903798145.1	V7_55450000_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	V7_55450000	LR812500.1	37506248	37511326	+
+GCA_903798145.1	V7_55450000_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	V7_55450000	LR812512.1	53315788	53316587	-
+GCA_903798145.1	V7_55450000_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	V7_55450000	LR812512.1	52312614	52314387	-
+GCA_903798145.1	V7_61800000_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL1	V7_61800000	LR812516.1	36305739	36306429	+
+GCA_903798145.1	V7_61800000_L_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL1	V7_61800000				
+GCA_903798145.1	V7_61800000_L_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL1	V7_61800000	LR812516.1	36305731	36306429	+
+GCA_903798145.1	V7_61800000_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL1	V7_61800000	LR812516.1	36305731	36306429	+
+GCA_903798145.1	V7_61800000_L_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL1	V7_61800000	LR812516.1	36305731	36306429	+
+GCA_903798145.1	V7_61800000_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	V7_61800000	LR812516.1	36305731	36306429	+
+GCA_903798145.1	V7_61800000_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	V7_61800000	LR812499.1	42867468	42867903	-
+GCA_903798145.1	V7_61800000_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL1	V7_61800000	LR812516.1	36305740	36306430	+
+GCA_903798145.1	V7_61800000_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL1	V7_61800000	CAIGQR010000025.1	27655	28410	+
+GCA_903798145.1	V7_61800000_R_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL1	V7_61800000				
+GCA_903798145.1	V7_61800000_R_250000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	250000	CL1	V7_61800000				
+GCA_903798145.1	V7_61800000_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL1	V7_61800000	LR812503.1	34006845	34007944	-
+GCA_903798145.1	V7_61800000_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	V7_61800000	LR812512.1	57110242	57113627	+
+GCA_903798145.1	V7_61800000_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	V7_61800000	LR812512.1	58165602	58167535	+
+GCA_903798145.1	D1_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	D1	LR812511.1	43483459	43484827	+
+GCA_903798145.1	D1_L_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	D1	LR812517.1	52223101	52224334	-
+GCA_903798145.1	D1_L_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	D1	LR812517.1	52280189	52281172	-
+GCA_903798145.1	D1_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	D1	LR812517.1	52410256	52411397	-
+GCA_903798145.1	D1_L_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	D1	LR812496.1	38800509	38802855	+
+GCA_903798145.1	D1_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	D1	LR812517.1	53119060	53119769	-
+GCA_903798145.1	D1_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	D1	LR812517.1	54101880	54103856	-
+GCA_903798145.1	D1_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	D1	LR812517.1	50862432	50863344	+
+GCA_903798145.1	D1_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	D1	LR812499.1	48797012	48798383	+
+GCA_903798145.1	D1_R_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	D1	LR812517.1	50993574	50995337	+
+GCA_903798145.1	D1_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	D1	LR812517.1	51148762	51149875	+
+GCA_903798145.1	D1_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	D1	LR812517.1	51422556	51423704	+
+GCA_903798145.1	D1_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	D1	LR812517.1	51923329	51925378	+
+GCA_903798145.1	D1_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	D1	LR812518.1	13190096	13192061	+
+GCA_903798145.1	D2_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL1	D2	LR812517.1	49128500	49130830	-
+GCA_903798145.1	D2_L_25000	competing_location	no_eligible_conserved_segment	False	25000	CL1	D2	LR812513.1	33481719	33482893	+
+GCA_903798145.1	D2_L_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL1	D2	LR812511.1	23222384	23223239	-
+GCA_903798145.1	D2_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL1	D2	LR812517.1	49430832	49434123	-
+GCA_903798145.1	D2_L_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL1	D2	LR812517.1	49680961	49682736	-
+GCA_903798145.1	D2_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	D2	LR812506.1	6756667	6758329	+
+GCA_903798145.1	D2_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	D2	LR812518.1	40202261	40203861	+
+GCA_903798145.1	D2_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL1	D2	LR812512.1	61210329	61212085	+
+GCA_903798145.1	D2_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL1	D2	LR812506.1	11255828	11257081	+
+GCA_903798145.1	D2_R_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL1	D2	LR812517.1	10836860	10838065	-
+GCA_903798145.1	D2_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL1	D2	LR812517.1	47211856	47212951	-
+GCA_903798145.1	D2_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL1	D2	LR812517.1	46917834	46918883	-
+GCA_903798145.1	D2_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	D2	LR812511.1	57102008	57103615	-
+GCA_903798145.1	D2_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	D2	LR812512.1	44739010	44740178	+
+GCA_903798145.1	D3_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	D3	LR812517.1	43840361	43843390	-
+GCA_903798145.1	D3_L_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	D3	LR812517.1	43899887	43900816	-
+GCA_903798145.1	D3_L_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	D3	LR812517.1	43969230	43970542	-
+GCA_903798145.1	D3_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	D3	LR812517.1	44110452	44112766	-
+GCA_903798145.1	D3_L_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	D3	LR812517.1	44354716	44355509	-
+GCA_903798145.1	D3_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	D3	LR812517.1	44875038	44877862	-
+GCA_903798145.1	D3_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	D3	LR812517.1	45824426	45826282	-
+GCA_903798145.1	D3_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	D3	LR812515.1	19803800	19804988	-
+GCA_903798145.1	D3_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	D3	LR812517.1	55658727	55660077	+
+GCA_903798145.1	D3_R_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	D3	LR812500.1	22407768	22408423	-
+GCA_903798145.1	D3_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	D3	LR812517.1	55869195	55870082	+
+GCA_903798145.1	D3_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	D3	LR812505.1	33663714	33665001	+
+GCA_903798145.1	D3_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	D3	LR812498.1	35197973	35198924	+
+GCA_903798145.1	D3_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	D3	LR812517.1	57122133	57123526	+
+GCA_903798195.1	V4_28500000_L_0	no_eligible_conserved_segment	no_eligible_conserved_segment	False	0	CL1	V4_28500000				
+GCA_903798195.1	V4_28500000_L_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL1	V4_28500000				
+GCA_903798195.1	V4_28500000_L_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL1	V4_28500000				
+GCA_903798195.1	V4_28500000_L_250000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	250000	CL1	V4_28500000				
+GCA_903798195.1	V4_28500000_L_500000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	500000	CL1	V4_28500000				
+GCA_903798195.1	V4_28500000_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	V4_28500000	LR812525.1	55044444	55046599	-
+GCA_903798195.1	V4_28500000_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	V4_28500000	LR812522.1	31180608	31181460	+
+GCA_903798195.1	V4_28500000_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL1	V4_28500000	LR812524.1	60568022	60573024	+
+GCA_903798195.1	V4_28500000_R_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL1	V4_28500000				
+GCA_903798195.1	V4_28500000_R_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL1	V4_28500000				
+GCA_903798195.1	V4_28500000_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL1	V4_28500000	LR812522.1	31896246	31897465	+
+GCA_903798195.1	V4_28500000_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL1	V4_28500000	LR812522.1	32250726	32251388	+
+GCA_903798195.1	V4_28500000_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	V4_28500000	LR812522.1	32945076	32945992	+
+GCA_903798195.1	V4_28500000_R_2000000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	2000000	CL1	V4_28500000				
+GCA_903798195.1	V4_30950000_L_0	no_eligible_conserved_segment	no_eligible_conserved_segment	False	0	CL2	V4_30950000				
+GCA_903798195.1	V4_30950000_L_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL2	V4_30950000				
+GCA_903798195.1	V4_30950000_L_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL2	V4_30950000				
+GCA_903798195.1	V4_30950000_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	V4_30950000	CAIGQS010000103.1	193388	193843	-
+GCA_903798195.1	V4_30950000_L_500000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	500000	CL2	V4_30950000				
+GCA_903798195.1	V4_30950000_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	V4_30950000	LR812522.1	33405854	33407105	+
+GCA_903798195.1	V4_30950000_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	V4_30950000	LR812532.1	18747707	18749033	+
+GCA_903798195.1	V4_30950000_R_0	no_eligible_conserved_segment	no_eligible_conserved_segment	False	0	CL2	V4_30950000				
+GCA_903798195.1	V4_30950000_R_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL2	V4_30950000				
+GCA_903798195.1	V4_30950000_R_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL2	V4_30950000				
+GCA_903798195.1	V4_30950000_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	V4_30950000	LR812519.1	789737	791702	+
+GCA_903798195.1	V4_30950000_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	V4_30950000	CAIGQS010000006.1	434755	439775	-
+GCA_903798195.1	V4_30950000_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	V4_30950000	CAIGQS010000270.1	719620	720530	+
+GCA_903798195.1	V4_30950000_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	V4_30950000	LR812522.1	34737043	34738705	-
+GCA_903798195.1	V7_55450000_L_0	no_eligible_conserved_segment	no_eligible_conserved_segment	False	0	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_L_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_L_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_L_250000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	250000	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_L_500000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	500000	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_L_1000000	candidate	candidate	True	1000000	CL2	V7_55450000	LR812525.1	60376048	60381048	-
+GCA_903798195.1	V7_55450000_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	V7_55450000	LR812525.1	62107908	62109150	+
+GCA_903798195.1	V7_55450000_R_0	no_eligible_conserved_segment	no_eligible_conserved_segment	False	0	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_R_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_R_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_R_250000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	250000	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_R_500000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	500000	CL2	V7_55450000				
+GCA_903798195.1	V7_55450000_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	V7_55450000	LR812525.1	71804555	71805875	+
+GCA_903798195.1	V7_55450000_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	V7_55450000	LR812525.1	72936105	72938010	+
+GCA_903798195.1	V7_61800000_L_0	no_eligible_conserved_segment	no_eligible_conserved_segment	False	0	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_L_25000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	25000	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_L_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_L_250000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	250000	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_L_500000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	500000	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_L_1000000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	1000000	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_L_2000000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	2000000	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_R_0	no_eligible_conserved_segment	no_eligible_conserved_segment	False	0	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL1	V7_61800000	LR812536.1	46059916	46061005	+
+GCA_903798195.1	V7_61800000_R_100000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	100000	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_R_250000	no_eligible_conserved_segment	no_eligible_conserved_segment	False	250000	CL1	V7_61800000				
+GCA_903798195.1	V7_61800000_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL1	V7_61800000	LR812525.1	62698703	62699612	+
+GCA_903798195.1	V7_61800000_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	V7_61800000	LR812525.1	63301363	63305474	+
+GCA_903798195.1	V7_61800000_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	V7_61800000	LR812525.1	64658804	64661043	-
+GCA_903798195.1	D1_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	D1	LR812521.1	69589324	69590415	+
+GCA_903798195.1	D1_L_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	D1	LR812521.1	69557096	69558303	+
+GCA_903798195.1	D1_L_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	D1	LR812521.1	69475667	69476500	+
+GCA_903798195.1	D1_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	D1	LR812521.1	69264769	69265584	+
+GCA_903798195.1	D1_L_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	D1	LR812534.1	21515067	21517411	-
+GCA_903798195.1	D1_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	D1	LR812521.1	57840302	57841634	+
+GCA_903798195.1	D1_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	D1	LR812521.1	56610433	56611823	+
+GCA_903798195.1	D1_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	D1	LR812521.1	59770926	59771913	-
+GCA_903798195.1	D1_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	D1	LR812533.1	19519597	19520941	+
+GCA_903798195.1	D1_R_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	D1	LR812521.1	59635043	59636459	-
+GCA_903798195.1	D1_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	D1	LR812521.1	59470773	59471892	-
+GCA_903798195.1	D1_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	D1	LR812521.1	59200794	59201932	-
+GCA_903798195.1	D1_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	D1	LR812521.1	58640976	58642536	-
+GCA_903798195.1	D1_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	D1	LR812520.1	17823559	17825562	+
+GCA_903798195.1	D2_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL1	D2	LR812521.1	61672073	61673617	+
+GCA_903798195.1	D2_L_25000	competing_location	no_eligible_conserved_segment	False	25000	CL1	D2	LR812524.1	33186718	33187916	+
+GCA_903798195.1	D2_L_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL1	D2	LR812538.1	40598109	40599019	-
+GCA_903798195.1	D2_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL1	D2	LR812521.1	61411510	61413003	+
+GCA_903798195.1	D2_L_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL1	D2	LR812521.1	61124648	61126094	+
+GCA_903798195.1	D2_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	D2	LR812543.1	23745734	23747369	-
+GCA_903798195.1	D2_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	D2	CAIGQS010000087.1	259108	260718	-
+GCA_903798195.1	D2_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL1	D2	LR812524.1	32698392	32700168	+
+GCA_903798195.1	D2_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL1	D2	LR812521.1	63091552	63092736	+
+GCA_903798195.1	D2_R_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL1	D2	LR812521.1	35310684	35311888	-
+GCA_903798195.1	D2_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL1	D2	LR812521.1	63386169	63387245	+
+GCA_903798195.1	D2_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL1	D2	LR812521.1	63655977	63656711	+
+GCA_903798195.1	D2_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL1	D2	LR812521.1	64346449	64347355	+
+GCA_903798195.1	D2_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL1	D2	CAIGQS010000027.1	578895	580119	-
+GCA_903798195.1	D3_L_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	D3	LR812521.1	67457100	67459964	+
+GCA_903798195.1	D3_L_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	D3	LR812521.1	67425556	67426741	+
+GCA_903798195.1	D3_L_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	D3	LR812521.1	69641990	69643178	+
+GCA_903798195.1	D3_L_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	D3	LR812521.1	67182149	67184437	+
+GCA_903798195.1	D3_L_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	D3	LR812539.1	50943850	50944481	+
+GCA_903798195.1	D3_L_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	D3	LR812521.1	66203213	66204366	+
+GCA_903798195.1	D3_L_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	D3	LR812521.1	65088190	65089697	+
+GCA_903798195.1	D3_R_0	HSP_limit_reached	no_eligible_conserved_segment	False	0	CL2	D3	LR812524.1	5654572	5655722	-
+GCA_903798195.1	D3_R_25000	HSP_limit_reached	no_eligible_conserved_segment	False	25000	CL2	D3	LR812532.1	23426751	23428283	+
+GCA_903798195.1	D3_R_100000	HSP_limit_reached	no_eligible_conserved_segment	False	100000	CL2	D3	CAIGQS010000086.1	170091	171859	+
+GCA_903798195.1	D3_R_250000	HSP_limit_reached	no_eligible_conserved_segment	False	250000	CL2	D3	LR812521.1	70667209	70668085	+
+GCA_903798195.1	D3_R_500000	HSP_limit_reached	no_eligible_conserved_segment	False	500000	CL2	D3	LR812534.1	18403566	18405850	-
+GCA_903798195.1	D3_R_1000000	HSP_limit_reached	no_eligible_conserved_segment	False	1000000	CL2	D3	LR812534.1	23933423	23934475	-
+GCA_903798195.1	D3_R_2000000	HSP_limit_reached	no_eligible_conserved_segment	False	2000000	CL2	D3	LR812521.1	72098572	72100057	+

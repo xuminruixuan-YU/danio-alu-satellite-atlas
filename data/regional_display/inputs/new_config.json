@@ -1,0 +1,77 @@
+{
+  "reference": "GCF_049306965.1_genomic.fna",
+  "assembly": "GCF_049306965.1",
+  "minimap2": "minimap2",
+  "samtools": "samtools",
+  "max_parallel": 6,
+  "mapping_threads": 20,
+  "MAPQ": 20,
+  "secondary_cap": 100,
+  "score_fraction": 0.8,
+  "minimum_baseQ": 10,
+  "mod_probability": 0.8,
+  "bin_bp": 10000,
+  "min_observed_CpGs_for_display": 10,
+  "source_manifest": [
+    {
+      "run": "ERR16782314",
+      "sample": "SAMEA121824610",
+      "file": "rep01_M.bam",
+      "bytes": 18401545467,
+      "md5": "e66598a782370ac30b56c992c5406fee",
+      "format": "BAM"
+    },
+    {
+      "run": "ERR16782315",
+      "sample": "SAMEA121824611",
+      "file": "rep02_M.bam",
+      "bytes": 22704427082,
+      "md5": "1efe53ff0bfc459a56c711ef014122d7",
+      "format": "BAM"
+    },
+    {
+      "run": "ERR16782316",
+      "sample": "SAMEA121824612",
+      "file": "rep03_M.bam",
+      "bytes": 14206840714,
+      "md5": "8bca8718c0b2bf47c513737cb75833b9",
+      "format": "BAM"
+    },
+    {
+      "run": "ERR16782317",
+      "sample": "SAMEA121824613",
+      "file": "rep04_F.bam",
+      "bytes": 23079327218,
+      "md5": "25a7b4beaf91c8eee2671476e87e5bb6",
+      "format": "BAM"
+    },
+    {
+      "run": "ERR16782318",
+      "sample": "SAMEA121824614",
+      "file": "rep05_M.bam",
+      "bytes": 21768697519,
+      "md5": "05b4c574eb4258aa154573cbd14aa827",
+      "format": "BAM"
+    },
+    {
+      "run": "ERR16782319",
+      "sample": "SAMEA121824615",
+      "file": "rep06_F.bam",
+      "bytes": 16643331212,
+      "md5": "c4206a9ccd05083df7f243af2b15fe00",
+      "format": "BAM"
+    }
+  ],
+  "array_source": "data/array_study/structure/matrices_checked.json",
+  "reuse": "Every existing prefix primary plus every later sequence-candidate primary; all remaining raw read IDs are mapped once with no family gate",
+  "scope": "regional tracks only; existing family and strict-anchor summary estimates remain separately defined",
+  "missing_plot": "solid line at zero; scientific missing values remain missing",
+  "count_track": false,
+  "mapping_versions": {
+    "reused_prefix_first_20000": "2.30-r1287",
+    "reused_later_satellite_candidates": "2.26-r1175",
+    "additional_all_other_reads": "2.26-r1175"
+  },
+  "reference_source": "NCBI RefSeq GCF_049306965.1; provide original FASTA using DANIO_REFERENCE_FASTA",
+  "configuration_scope": "Historical alignment/decoding and 10 kb baseline configuration. Current 20 kb display is defined by metadata/regional_display_dictionary.json; bin_bp/missing_plot/count_track below refer only to the retained baseline."
+}

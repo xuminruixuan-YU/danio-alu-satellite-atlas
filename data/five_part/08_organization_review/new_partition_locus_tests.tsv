@@ -1,0 +1,325 @@
+locus	partition	fragments	observed_unit_rows	unknown_or_excluded_units	typed_bp	method	typed_segments	A_units	B_units	consecutive_pairs	alternating_pairs	alternation_fraction	longest_alternating_units	seed	permutations	null_mean_transitions	null_mean_longest	p_ge_transitions	p_ge_longest	fraction_null_tied_transition	fraction_null_tied_longest
+TU.NC_133177.1.with_related_call_bridges.005	with_related_call_bridges	1	169	164	460	within_contiguous_segment	5	2	3	0	0		1	13740024242274191331	0						
+TU.NC_133177.1.with_related_call_bridges.005	with_related_call_bridges	1	169	164	460	20_unit_local_blocks	5	2	3	0	0		1	4395320835578076798	0						
+TU.NC_133177.1.with_related_call_bridges.006	with_related_call_bridges	1	7112	6952	14706	within_contiguous_segment	160	90	70	0	0		1	2697959302144581379	0						
+TU.NC_133177.1.with_related_call_bridges.006	with_related_call_bridges	1	7112	6952	14706	20_unit_local_blocks	160	90	70	0	0		1	1436109139139726376	0						
+TU.NC_133178.1.with_related_call_bridges.001	with_related_call_bridges	1	17	17	0	within_contiguous_segment	0	0	0	0	0		0	2138204480475581582	0						
+TU.NC_133178.1.with_related_call_bridges.001	with_related_call_bridges	1	17	17	0	20_unit_local_blocks	0	0	0	0	0		0	17321917711994036293	0						
+TU.NC_133178.1.with_related_call_bridges.002	with_related_call_bridges	1	1255	1011	22424	within_contiguous_segment	178	175	69	66	28	0.42424242424242425	3	9768599720884987429	999	26.68268268268268	3.3713713713713713	0.3	0.994	0.1781781781781782	0.7457457457457457
+TU.NC_133178.1.with_related_call_bridges.002	with_related_call_bridges	1	1255	1011	22424	20_unit_local_blocks	178	175	69	66	28	0.42424242424242425	3	8280557170124457742	999	26.60960960960961	3.3533533533533535	0.295	0.997	0.17917917917917917	0.7527527527527528
+TU.NC_133178.1.with_related_call_bridges.003	with_related_call_bridges	1	6034	4230	166056	within_contiguous_segment	1131	1449	355	673	190	0.2823179791976226	3	15382625373176622162	999	232.56956956956958	3.3833833833833835	1.0	1.0	0.0	0.7237237237237237
+TU.NC_133178.1.with_related_call_bridges.003	with_related_call_bridges	1	6034	4230	166056	20_unit_local_blocks	1131	1449	355	673	190	0.2823179791976226	3	754567882309885833	999	232.7087087087087	3.3823823823823824	1.0	1.0	0.0	0.7077077077077077
+TU.NC_133178.1.with_related_call_bridges.004	with_related_call_bridges	2	12707	8965	344126	within_contiguous_segment	2411	2908	834	1331	283	0.2126220886551465	4	15133800665355280930	999	332.6166166166166	3.6186186186186187	1.0	0.524	0.0	0.42842842842842843
+TU.NC_133178.1.with_related_call_bridges.004	with_related_call_bridges	2	12707	8965	344126	20_unit_local_blocks	2411	2908	834	1331	283	0.2126220886551465	4	4141329226867491832	999	332.35735735735733	3.6196196196196198	1.0	0.525	0.0	0.4294294294294294
+TU.NC_133178.1.with_related_call_bridges.005	with_related_call_bridges	1	337	275	5700	within_contiguous_segment	53	38	24	9	6	0.6666666666666666	4	1359864337165509957	999	5.038038038038038	2.6866866866866865	0.344	0.344	0.3433433433433433	0.3433433433433433
+TU.NC_133178.1.with_related_call_bridges.005	with_related_call_bridges	1	337	275	5700	20_unit_local_blocks	53	38	24	9	6	0.6666666666666666	4	12134325634909467267	999	4.968968968968969	2.6386386386386387	0.32	0.32	0.31931931931931934	0.31931931931931934
+TU.NC_133178.1.with_related_call_bridges.006	with_related_call_bridges	1	39	33	554	within_contiguous_segment	6	2	4	0	0		1	6543815594431043925	0						
+TU.NC_133178.1.with_related_call_bridges.006	with_related_call_bridges	1	39	33	554	20_unit_local_blocks	6	2	4	0	0		1	13201767900911749321	0						
+TU.NC_133178.1.with_related_call_bridges.010	with_related_call_bridges	1	3	2	88	within_contiguous_segment	1	1	0	0	0		1	8416513730896913821	0						
+TU.NC_133178.1.with_related_call_bridges.010	with_related_call_bridges	1	3	2	88	20_unit_local_blocks	1	1	0	0	0		1	6116844996120838804	0						
+TU.NC_133178.1.with_related_call_bridges.011	with_related_call_bridges	1	13157	8240	452283	within_contiguous_segment	3079	3421	1496	1838	900	0.4896626768226333	4	3845510779637999314	999	917.6936936936937	4.2642642642642645	0.993	1.0	0.005005005005005005	0.7357357357357357
+TU.NC_133178.1.with_related_call_bridges.011	with_related_call_bridges	1	13157	8240	452283	20_unit_local_blocks	3079	3421	1496	1838	900	0.4896626768226333	4	6172298001908434840	999	917.1491491491491	4.2492492492492495	0.988	1.0	0.004004004004004004	0.7507507507507507
+TU.NC_133179.1.with_related_call_bridges.011	with_related_call_bridges	1	19	18	91	within_contiguous_segment	1	1	0	0	0		1	17148758567866610176	0						
+TU.NC_133179.1.with_related_call_bridges.011	with_related_call_bridges	1	19	18	91	20_unit_local_blocks	1	1	0	0	0		1	15395139128344838693	0						
+TU.NC_133179.1.with_related_call_bridges.012	with_related_call_bridges	1	8996	8509	44701	within_contiguous_segment	466	194	293	21	17	0.8095238095238095	3	8721629702148350158	999	13.001001001001	2.915915915915916	0.002	0.916	0.001001001001001001	0.9159159159159159
+TU.NC_133179.1.with_related_call_bridges.012	with_related_call_bridges	1	8996	8509	44701	20_unit_local_blocks	466	194	293	21	17	0.8095238095238095	3	12013043307119630744	999	12.967967967967969	2.915915915915916	0.004	0.916	0.003003003003003003	0.9159159159159159
+TU.NC_133179.1.with_related_call_bridges.013	with_related_call_bridges	1	76	72	368	within_contiguous_segment	4	1	3	0	0		1	13850272114151348902	0						
+TU.NC_133179.1.with_related_call_bridges.013	with_related_call_bridges	1	76	72	368	20_unit_local_blocks	4	1	3	0	0		1	16213720647760770881	0						
+TU.NC_133179.1.with_related_call_bridges.014	with_related_call_bridges	1	177	167	920	within_contiguous_segment	10	5	5	0	0		1	16774684757872217076	0						
+TU.NC_133179.1.with_related_call_bridges.014	with_related_call_bridges	1	177	167	920	20_unit_local_blocks	10	5	5	0	0		1	18239017726491461555	0						
+TU.NC_133179.1.with_related_call_bridges.015	with_related_call_bridges	1	5	4	92	within_contiguous_segment	1	1	0	0	0		1	9098729507922007750	0						
+TU.NC_133179.1.with_related_call_bridges.015	with_related_call_bridges	1	5	4	92	20_unit_local_blocks	1	1	0	0	0		1	18042994807455827486	0						
+TU.NC_133180.1.with_related_call_bridges.001	with_related_call_bridges	1	32818	32184	58306	within_contiguous_segment	613	239	395	21	16	0.7619047619047619	2	16430352942486068847	999	16.63763763763764	2.5355355355355353	1.0	1.0	0.4644644644644645	0.4644644644644645
+TU.NC_133180.1.with_related_call_bridges.001	with_related_call_bridges	1	32818	32184	58306	20_unit_local_blocks	613	239	395	21	16	0.7619047619047619	2	17320822413612323463	999	16.65865865865866	2.5485485485485486	1.0	1.0	0.45145145145145144	0.45145145145145144
+TU.NC_133180.1.with_related_call_bridges.006	with_related_call_bridges	1	3	2	94	within_contiguous_segment	1	0	1	0	0		1	8759490038730511351	0						
+TU.NC_133180.1.with_related_call_bridges.006	with_related_call_bridges	1	3	2	94	20_unit_local_blocks	1	0	1	0	0		1	399208754600751489	0						
+TU.NC_133180.1.with_related_call_bridges.007	with_related_call_bridges	1	6802	6559	22331	within_contiguous_segment	240	173	70	3	0	0.0	1	14397793150440286414	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133180.1.with_related_call_bridges.007	with_related_call_bridges	1	6802	6559	22331	20_unit_local_blocks	240	173	70	3	0	0.0	1	9377594327033248931	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133180.1.with_related_call_bridges.008	with_related_call_bridges	1	4	1	277	within_contiguous_segment	1	0	3	2	0	0.0	1	10529948345671104504	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133180.1.with_related_call_bridges.008	with_related_call_bridges	1	4	1	277	20_unit_local_blocks	1	0	3	2	0	0.0	1	11880507438266298082	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133180.1.with_related_call_bridges.009	with_related_call_bridges	1	7	7	0	within_contiguous_segment	0	0	0	0	0		0	2149297569675042665	0						
+TU.NC_133180.1.with_related_call_bridges.009	with_related_call_bridges	1	7	7	0	20_unit_local_blocks	0	0	0	0	0		0	10739554776911384378	0						
+TU.NC_133180.1.with_related_call_bridges.010	with_related_call_bridges	1	5	5	0	within_contiguous_segment	0	0	0	0	0		0	17267657804468154588	0						
+TU.NC_133180.1.with_related_call_bridges.010	with_related_call_bridges	1	5	5	0	20_unit_local_blocks	0	0	0	0	0		0	1041718118690880719	0						
+TU.NC_133181.1.with_related_call_bridges.003	with_related_call_bridges	1	5	5	0	within_contiguous_segment	0	0	0	0	0		0	6559210802062284617	0						
+TU.NC_133181.1.with_related_call_bridges.003	with_related_call_bridges	1	5	5	0	20_unit_local_blocks	0	0	0	0	0		0	4923158621207897170	0						
+TU.NC_133181.1.with_related_call_bridges.004	with_related_call_bridges	1	21	18	268	within_contiguous_segment	3	0	3	0	0		1	11495601500200283656	0						
+TU.NC_133181.1.with_related_call_bridges.004	with_related_call_bridges	1	21	18	268	20_unit_local_blocks	3	0	3	0	0		1	881763643952906889	0						
+TU.NC_133181.1.with_related_call_bridges.005	with_related_call_bridges	1	57	51	550	within_contiguous_segment	6	1	5	0	0		1	14360986721718031050	0						
+TU.NC_133181.1.with_related_call_bridges.005	with_related_call_bridges	1	57	51	550	20_unit_local_blocks	6	1	5	0	0		1	6291851200918894172	0						
+TU.NC_133181.1.with_related_call_bridges.006	with_related_call_bridges	1	289	267	2031	within_contiguous_segment	22	4	18	0	0		1	9993282496549638879	0						
+TU.NC_133181.1.with_related_call_bridges.006	with_related_call_bridges	1	289	267	2031	20_unit_local_blocks	22	4	18	0	0		1	13072344846776126475	0						
+TU.NC_133181.1.with_related_call_bridges.007	with_related_call_bridges	1	7	6	93	within_contiguous_segment	1	0	1	0	0		1	11604715498255628826	0						
+TU.NC_133181.1.with_related_call_bridges.007	with_related_call_bridges	1	7	6	93	20_unit_local_blocks	1	0	1	0	0		1	17200295314583519867	0						
+TU.NC_133182.1.with_related_call_bridges.001	with_related_call_bridges	1	2712	2502	19288	within_contiguous_segment	184	17	193	26	7	0.2692307692307692	2	18220645214955113877	999	7.678678678678678	2.5445445445445447	1.0	1.0	0.45545545545545546	0.45545545545545546
+TU.NC_133182.1.with_related_call_bridges.001	with_related_call_bridges	1	2712	2502	19288	20_unit_local_blocks	184	17	193	26	7	0.2692307692307692	2	1713828936492635912	999	7.67067067067067	2.5635635635635636	1.0	1.0	0.4364364364364364	0.4364364364364364
+TU.NC_133182.1.with_related_call_bridges.002	with_related_call_bridges	1	7173	6352	75510	within_contiguous_segment	708	67	754	113	17	0.1504424778761062	3	9244453321446162109	999	16.32132132132132	2.3213213213213213	0.322	0.322	0.3213213213213213	0.3213213213213213
+TU.NC_133182.1.with_related_call_bridges.002	with_related_call_bridges	1	7173	6352	75510	20_unit_local_blocks	708	67	754	113	17	0.1504424778761062	3	8063042780855147569	999	16.30930930930931	2.309309309309309	0.31	0.31	0.30930930930930933	0.30930930930930933
+TU.NC_133182.1.with_related_call_bridges.003	with_related_call_bridges	1	21	18	280	within_contiguous_segment	3	0	3	0	0		1	6669744240183609789	0						
+TU.NC_133182.1.with_related_call_bridges.003	with_related_call_bridges	1	21	18	280	20_unit_local_blocks	3	0	3	0	0		1	6066920513332715669	0						
+TU.NC_133182.1.with_related_call_bridges.004	with_related_call_bridges	1	131	100	2848	within_contiguous_segment	21	2	29	10	0	0.0	1	5445067750024912336	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.004	with_related_call_bridges	1	131	100	2848	20_unit_local_blocks	21	2	29	10	0	0.0	1	9145129930003319688	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.005	with_related_call_bridges	1	24	22	184	within_contiguous_segment	2	2	0	0	0		1	11911035553534230371	0						
+TU.NC_133182.1.with_related_call_bridges.005	with_related_call_bridges	1	24	22	184	20_unit_local_blocks	2	2	0	0	0		1	15092854220695713326	0						
+TU.NC_133182.1.with_related_call_bridges.006	with_related_call_bridges	1	851	712	12798	within_contiguous_segment	114	127	12	25	7	0.28	4	14539283345000055014	999	6.5175175175175175	3.004004004004004	0.512	0.332	0.34434434434434436	0.33133133133133136
+TU.NC_133182.1.with_related_call_bridges.006	with_related_call_bridges	1	851	712	12798	20_unit_local_blocks	114	127	12	25	7	0.28	4	11547475263599082586	999	6.428428428428428	2.94994994994995	0.46	0.308	0.3023023023023023	0.3073073073073073
+TU.NC_133182.1.with_related_call_bridges.007	with_related_call_bridges	1	1479	1337	13059	within_contiguous_segment	135	113	29	7	4	0.5714285714285714	2	14657913559350593418	999	4.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.007	with_related_call_bridges	1	1479	1337	13059	20_unit_local_blocks	135	113	29	7	4	0.5714285714285714	2	3470776281860795225	999	4.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.008	with_related_call_bridges	1	58	55	276	within_contiguous_segment	3	0	3	0	0		1	17030609316518354051	0						
+TU.NC_133182.1.with_related_call_bridges.008	with_related_call_bridges	1	58	55	276	20_unit_local_blocks	3	0	3	0	0		1	1535930063300944259	0						
+TU.NC_133182.1.with_related_call_bridges.009	with_related_call_bridges	1	3728	3656	6620	within_contiguous_segment	71	29	43	1	0	0.0	1	11700915384674071773	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.009	with_related_call_bridges	1	3728	3656	6620	20_unit_local_blocks	71	29	43	1	0	0.0	1	12733107677884161066	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.010	with_related_call_bridges	1	7447	7286	14803	within_contiguous_segment	158	91	70	3	2	0.6666666666666666	2	8179609530102979429	999	2.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.010	with_related_call_bridges	1	7447	7286	14803	20_unit_local_blocks	158	91	70	3	2	0.6666666666666666	2	1278172871653314597	999	2.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.011	with_related_call_bridges	1	17	16	92	within_contiguous_segment	1	0	1	0	0		1	13896620056467359418	0						
+TU.NC_133182.1.with_related_call_bridges.011	with_related_call_bridges	1	17	16	92	20_unit_local_blocks	1	0	1	0	0		1	17404677349125618481	0						
+TU.NC_133182.1.with_related_call_bridges.012	with_related_call_bridges	2	118	110	737	within_contiguous_segment	7	7	1	1	0	0.0	1	8424597820990207416	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.012	with_related_call_bridges	2	118	110	737	20_unit_local_blocks	7	7	1	1	0	0.0	1	14607600317300440308	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.013	with_related_call_bridges	1	160	145	1387	within_contiguous_segment	14	15	0	1	0	0.0	1	17115084577439998357	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.013	with_related_call_bridges	1	160	145	1387	20_unit_local_blocks	14	15	0	1	0	0.0	1	6730567146773748710	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.014	with_related_call_bridges	1	53	46	644	within_contiguous_segment	5	7	0	2	0	0.0	1	17675239507095080282	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.014	with_related_call_bridges	1	53	46	644	20_unit_local_blocks	5	7	0	2	0	0.0	1	17245013548786701019	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.015	with_related_call_bridges	1	32	28	368	within_contiguous_segment	3	4	0	1	0	0.0	1	16863716368538995508	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.015	with_related_call_bridges	1	32	28	368	20_unit_local_blocks	3	4	0	1	0	0.0	1	14486016433264309280	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.016	with_related_call_bridges	1	32	28	368	within_contiguous_segment	3	4	0	1	0	0.0	1	11063975877203151675	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.016	with_related_call_bridges	1	32	28	368	20_unit_local_blocks	3	4	0	1	0	0.0	1	15284002751349042241	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.017	with_related_call_bridges	1	1019	876	13142	within_contiguous_segment	119	134	9	24	5	0.20833333333333334	2	12959786407052768757	999	5.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.017	with_related_call_bridges	1	1019	876	13142	20_unit_local_blocks	119	134	9	24	5	0.20833333333333334	2	10521840160043292668	999	5.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.018	with_related_call_bridges	1	395	353	3861	within_contiguous_segment	37	34	8	5	3	0.6	3	11586086192926876099	999	2.3083083083083085	2.3083083083083085	0.309	0.309	0.3083083083083083	0.3083083083083083
+TU.NC_133182.1.with_related_call_bridges.018	with_related_call_bridges	1	395	353	3861	20_unit_local_blocks	37	34	8	5	3	0.6	3	9176714553152074338	999	2.3263263263263263	2.3263263263263263	0.327	0.327	0.3263263263263263	0.3263263263263263
+TU.NC_133182.1.with_related_call_bridges.028	with_related_call_bridges	1	1679	1555	11394	within_contiguous_segment	89	112	12	35	1	0.02857142857142857	2	15020360500936600519	999	1.3203203203203204	2.32032032032032	1.0	1.0	0.6796796796796797	0.6796796796796797
+TU.NC_133182.1.with_related_call_bridges.028	with_related_call_bridges	1	1679	1555	11394	20_unit_local_blocks	89	112	12	35	1	0.02857142857142857	2	9022950513862311404	999	1.3083083083083082	2.3083083083083085	1.0	1.0	0.6916916916916916	0.6916916916916916
+TU.NC_133182.1.with_related_call_bridges.029	with_related_call_bridges	1	854	812	3862	within_contiguous_segment	40	23	19	2	0	0.0	1	3836221060827479896	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.029	with_related_call_bridges	1	854	812	3862	20_unit_local_blocks	40	23	19	2	0	0.0	1	17410258688501910816	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.030	with_related_call_bridges	1	8	7	92	within_contiguous_segment	1	0	1	0	0		1	4626547767488366927	0						
+TU.NC_133182.1.with_related_call_bridges.030	with_related_call_bridges	1	8	7	92	20_unit_local_blocks	1	0	1	0	0		1	796935936983404489	0						
+TU.NC_133182.1.with_related_call_bridges.031	with_related_call_bridges	1	6	5	91	within_contiguous_segment	1	0	1	0	0		1	14560378405675774551	0						
+TU.NC_133182.1.with_related_call_bridges.031	with_related_call_bridges	1	6	5	91	20_unit_local_blocks	1	0	1	0	0		1	7297893683903329315	0						
+TU.NC_133182.1.with_related_call_bridges.032	with_related_call_bridges	2	15	15	0	within_contiguous_segment	0	0	0	0	0		0	14459439050142728378	0						
+TU.NC_133182.1.with_related_call_bridges.032	with_related_call_bridges	2	15	15	0	20_unit_local_blocks	0	0	0	0	0		0	7018026760101373194	0						
+TU.NC_133182.1.with_related_call_bridges.033	with_related_call_bridges	3	18	17	92	within_contiguous_segment	1	0	1	0	0		1	9817550459720195186	0						
+TU.NC_133182.1.with_related_call_bridges.033	with_related_call_bridges	3	18	17	92	20_unit_local_blocks	1	0	1	0	0		1	17690746718527477504	0						
+TU.NC_133182.1.with_related_call_bridges.034	with_related_call_bridges	1	68	65	267	within_contiguous_segment	3	3	0	0	0		1	3947849703584374068	0						
+TU.NC_133182.1.with_related_call_bridges.034	with_related_call_bridges	1	68	65	267	20_unit_local_blocks	3	3	0	0	0		1	17325855305976347568	0						
+TU.NC_133182.1.with_related_call_bridges.035	with_related_call_bridges	1	30	26	368	within_contiguous_segment	3	0	4	1	0	0.0	1	7068429982074930185	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.035	with_related_call_bridges	1	30	26	368	20_unit_local_blocks	3	0	4	1	0	0.0	1	6717011403941354270	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133182.1.with_related_call_bridges.036	with_related_call_bridges	1	9	8	92	within_contiguous_segment	1	0	1	0	0		1	11495448446275539374	0						
+TU.NC_133182.1.with_related_call_bridges.036	with_related_call_bridges	1	9	8	92	20_unit_local_blocks	1	0	1	0	0		1	9635259336333420969	0						
+TU.NC_133182.1.with_related_call_bridges.037	with_related_call_bridges	1	7	6	92	within_contiguous_segment	1	0	1	0	0		1	9163137714688550318	0						
+TU.NC_133182.1.with_related_call_bridges.037	with_related_call_bridges	1	7	6	92	20_unit_local_blocks	1	0	1	0	0		1	12807244582025215948	0						
+TU.NC_133183.1.with_related_call_bridges.001	with_related_call_bridges	1	5	4	92	within_contiguous_segment	1	0	1	0	0		1	9361184403376388812	0						
+TU.NC_133183.1.with_related_call_bridges.001	with_related_call_bridges	1	5	4	92	20_unit_local_blocks	1	0	1	0	0		1	1246586939983199960	0						
+TU.NC_133183.1.with_related_call_bridges.002	with_related_call_bridges	1	8	7	92	within_contiguous_segment	1	0	1	0	0		1	4119278797202201107	0						
+TU.NC_133183.1.with_related_call_bridges.002	with_related_call_bridges	1	8	7	92	20_unit_local_blocks	1	0	1	0	0		1	6690924932474185015	0						
+TU.NC_133183.1.with_related_call_bridges.003	with_related_call_bridges	1	153	146	642	within_contiguous_segment	6	2	5	1	0	0.0	1	11397503753858195323	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133183.1.with_related_call_bridges.003	with_related_call_bridges	1	153	146	642	20_unit_local_blocks	6	2	5	1	0	0.0	1	15641764932318703512	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133183.1.with_related_call_bridges.004	with_related_call_bridges	1	42	41	92	within_contiguous_segment	1	0	1	0	0		1	15033250291181505933	0						
+TU.NC_133183.1.with_related_call_bridges.004	with_related_call_bridges	1	42	41	92	20_unit_local_blocks	1	0	1	0	0		1	15315063427551777668	0						
+TU.NC_133183.1.with_related_call_bridges.005	with_related_call_bridges	1	18484	16683	165565	within_contiguous_segment	1659	184	1617	142	23	0.1619718309859155	2	2966457412746719872	999	24.0	2.7177177177177176	1.0	1.0	0.2822822822822823	0.2822822822822823
+TU.NC_133183.1.with_related_call_bridges.005	with_related_call_bridges	1	18484	16683	165565	20_unit_local_blocks	1659	184	1617	142	23	0.1619718309859155	2	4966670742355414	999	23.994994994994993	2.6916916916916915	1.0	1.0	0.3083083083083083	0.3083083083083083
+TU.NC_133183.1.with_related_call_bridges.014	with_related_call_bridges	1	6	6	0	within_contiguous_segment	0	0	0	0	0		0	11984421224829865189	0						
+TU.NC_133183.1.with_related_call_bridges.014	with_related_call_bridges	1	6	6	0	20_unit_local_blocks	0	0	0	0	0		0	8413906294732706912	0						
+TU.NC_133183.1.with_related_call_bridges.015	with_related_call_bridges	2	13740	12183	143026	within_contiguous_segment	1321	187	1370	236	57	0.24152542372881355	2	11976741474618572988	999	60.64364364364364	2.98998998998999	1.0	1.0	0.01001001001001001	0.01001001001001001
+TU.NC_133183.1.with_related_call_bridges.015	with_related_call_bridges	2	13740	12183	143026	20_unit_local_blocks	1321	187	1370	236	57	0.24152542372881355	2	8257014883483758476	999	60.672672672672675	2.991991991991992	1.0	1.0	0.008008008008008008	0.008008008008008008
+TU.NC_133183.1.with_related_call_bridges.016	with_related_call_bridges	1	178	170	744	within_contiguous_segment	8	1	7	0	0		1	10954646841285953473	0						
+TU.NC_133183.1.with_related_call_bridges.016	with_related_call_bridges	1	178	170	744	20_unit_local_blocks	8	1	7	0	0		1	15948263054884588977	0						
+TU.NC_133184.1.with_related_call_bridges.014	with_related_call_bridges	1	23	19	370	within_contiguous_segment	4	2	2	0	0		1	4111762179176076101	0						
+TU.NC_133184.1.with_related_call_bridges.014	with_related_call_bridges	1	23	19	370	20_unit_local_blocks	4	2	2	0	0		1	7638115562708909831	0						
+TU.NC_133184.1.with_related_call_bridges.015	with_related_call_bridges	1	84	76	737	within_contiguous_segment	5	3	5	3	3	1.0	2	1938339491650692269	999	3.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133184.1.with_related_call_bridges.015	with_related_call_bridges	1	84	76	737	20_unit_local_blocks	5	3	5	3	3	1.0	2	2078861656579659929	999	3.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.010	with_related_call_bridges	1	215	203	1104	within_contiguous_segment	12	4	8	0	0		1	6288464161528361984	0						
+TU.NC_133185.1.with_related_call_bridges.010	with_related_call_bridges	1	215	203	1104	20_unit_local_blocks	12	4	8	0	0		1	10861406062230180576	0						
+TU.NC_133185.1.with_related_call_bridges.011	with_related_call_bridges	1	1547	1432	10582	within_contiguous_segment	112	46	69	3	3	1.0	2	17697311763801642671	999	3.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.011	with_related_call_bridges	1	1547	1432	10582	20_unit_local_blocks	112	46	69	3	3	1.0	2	8810336521933679879	999	3.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.012	with_related_call_bridges	6	21881	20159	158401	within_contiguous_segment	1655	843	879	67	22	0.3283582089552239	2	9977345189695971367	999	22.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.012	with_related_call_bridges	6	21881	20159	158401	20_unit_local_blocks	1655	843	879	67	22	0.3283582089552239	2	14974124882684982474	999	22.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.013	with_related_call_bridges	1	2454	2144	28495	within_contiguous_segment	283	165	145	27	19	0.7037037037037037	3	7142291885650714570	999	15.586586586586586	2.993993993993994	0.012	0.994	0.011011011011011011	0.993993993993994
+TU.NC_133185.1.with_related_call_bridges.013	with_related_call_bridges	1	2454	2144	28495	20_unit_local_blocks	283	165	145	27	19	0.7037037037037037	3	17223612184402637987	999	15.454454454454455	2.988988988988989	0.012	0.989	0.011011011011011011	0.988988988988989
+TU.NC_133185.1.with_related_call_bridges.014	with_related_call_bridges	1	1712	1527	17010	within_contiguous_segment	170	79	106	15	10	0.6666666666666666	3	11355467701851029080	999	8.022022022022021	2.942942942942943	0.064	0.943	0.06306306306306306	0.9429429429429429
+TU.NC_133185.1.with_related_call_bridges.014	with_related_call_bridges	1	1712	1527	17010	20_unit_local_blocks	170	79	106	15	10	0.6666666666666666	3	14893620240198182061	999	8.017017017017016	2.930930930930931	0.079	0.931	0.07807807807807808	0.9309309309309309
+TU.NC_133185.1.with_related_call_bridges.015	with_related_call_bridges	1	143	133	919	within_contiguous_segment	9	5	5	1	0	0.0	1	9442172177589251932	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.015	with_related_call_bridges	1	143	133	919	20_unit_local_blocks	9	5	5	1	0	0.0	1	15157435752072781333	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.016	with_related_call_bridges	1	10	8	184	within_contiguous_segment	2	1	1	0	0		1	8056554266324556472	0						
+TU.NC_133185.1.with_related_call_bridges.016	with_related_call_bridges	1	10	8	184	20_unit_local_blocks	2	1	1	0	0		1	16963097599479664694	0						
+TU.NC_133185.1.with_related_call_bridges.017	with_related_call_bridges	1	13	11	184	within_contiguous_segment	2	2	0	0	0		1	285524324867404870	0						
+TU.NC_133185.1.with_related_call_bridges.017	with_related_call_bridges	1	13	11	184	20_unit_local_blocks	2	2	0	0	0		1	16467832145721166425	0						
+TU.NC_133185.1.with_related_call_bridges.018	with_related_call_bridges	1	12	9	276	within_contiguous_segment	2	2	1	1	0	0.0	1	14976405276767143673	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.018	with_related_call_bridges	1	12	9	276	20_unit_local_blocks	2	2	1	1	0	0.0	1	2180479764920516888	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.019	with_related_call_bridges	1	13	11	184	within_contiguous_segment	2	2	0	0	0		1	17121784112297629791	0						
+TU.NC_133185.1.with_related_call_bridges.019	with_related_call_bridges	1	13	11	184	20_unit_local_blocks	2	2	0	0	0		1	13600558618066141384	0						
+TU.NC_133185.1.with_related_call_bridges.020	with_related_call_bridges	1	149	127	2028	within_contiguous_segment	20	18	4	2	0	0.0	1	16885316045500195755	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133185.1.with_related_call_bridges.020	with_related_call_bridges	1	149	127	2028	20_unit_local_blocks	20	18	4	2	0	0.0	1	3232155244793015269	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133187.1.with_related_call_bridges.008	with_related_call_bridges	1	22	17	449	within_contiguous_segment	5	0	5	0	0		1	2570937815235914313	0						
+TU.NC_133187.1.with_related_call_bridges.008	with_related_call_bridges	1	22	17	449	20_unit_local_blocks	5	0	5	0	0		1	14399404941430568438	0						
+TU.NC_133187.1.with_related_call_bridges.009	with_related_call_bridges	1	4	3	92	within_contiguous_segment	1	0	1	0	0		1	2234824913557607208	0						
+TU.NC_133187.1.with_related_call_bridges.009	with_related_call_bridges	1	4	3	92	20_unit_local_blocks	1	0	1	0	0		1	2850779488816663339	0						
+TU.NC_133188.1.with_related_call_bridges.001	with_related_call_bridges	1	6	4	186	within_contiguous_segment	2	0	2	0	0		1	635839332316278507	0						
+TU.NC_133188.1.with_related_call_bridges.001	with_related_call_bridges	1	6	4	186	20_unit_local_blocks	2	0	2	0	0		1	3423782223478571783	0						
+TU.NC_133188.1.with_related_call_bridges.016	with_related_call_bridges	1	1121	951	15645	within_contiguous_segment	146	106	64	24	4	0.16666666666666666	2	4944159095750968701	999	4.515515515515515	2.5155155155155153	1.0	1.0	0.4844844844844845	0.4844844844844845
+TU.NC_133188.1.with_related_call_bridges.016	with_related_call_bridges	1	1121	951	15645	20_unit_local_blocks	146	106	64	24	4	0.16666666666666666	2	15803163155934203858	999	4.491491491491492	2.4914914914914914	1.0	1.0	0.5085085085085085	0.5085085085085085
+TU.NC_133188.1.with_related_call_bridges.017	with_related_call_bridges	1	30	24	550	within_contiguous_segment	5	5	1	1	0	0.0	1	6164726982944066998	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133188.1.with_related_call_bridges.017	with_related_call_bridges	1	30	24	550	20_unit_local_blocks	5	5	1	1	0	0.0	1	7843371709732634317	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133188.1.with_related_call_bridges.018	with_related_call_bridges	1	424	362	5701	within_contiguous_segment	55	44	18	7	0	0.0	1	16421739837453724455	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133188.1.with_related_call_bridges.018	with_related_call_bridges	1	424	362	5701	20_unit_local_blocks	55	44	18	7	0	0.0	1	3415880880779098049	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133188.1.with_related_call_bridges.019	with_related_call_bridges	1	107	91	1467	within_contiguous_segment	14	13	3	2	0	0.0	1	10529394391025319177	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133188.1.with_related_call_bridges.019	with_related_call_bridges	1	107	91	1467	20_unit_local_blocks	14	13	3	2	0	0.0	1	12901925990931485324	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133188.1.with_related_call_bridges.020	with_related_call_bridges	1	1921	1628	26913	within_contiguous_segment	255	263	30	38	4	0.10526315789473684	2	14738713172298551712	999	5.31031031031031	2.7877877877877877	1.0	1.0	0.2122122122122122	0.2122122122122122
+TU.NC_133188.1.with_related_call_bridges.020	with_related_call_bridges	1	1921	1628	26913	20_unit_local_blocks	255	263	30	38	4	0.10526315789473684	2	10565634906451417566	999	5.356356356356357	2.7997997997998	1.0	1.0	0.2002002002002002	0.2002002002002002
+TU.NC_133188.1.with_related_call_bridges.021	with_related_call_bridges	1	8730	7930	73601	within_contiguous_segment	731	362	438	69	16	0.2318840579710145	2	6249363142446144445	999	16.992992992992992	2.7087087087087087	1.0	1.0	0.2912912912912913	0.2912912912912913
+TU.NC_133188.1.with_related_call_bridges.021	with_related_call_bridges	1	8730	7930	73601	20_unit_local_blocks	731	362	438	69	16	0.2318840579710145	2	13756976109600367487	999	17.001001001001	2.6926926926926926	1.0	1.0	0.3073073073073073	0.3073073073073073
+TU.NC_133188.1.with_related_call_bridges.022	with_related_call_bridges	1	79	67	1104	within_contiguous_segment	12	6	6	0	0		1	10434409458315479104	0						
+TU.NC_133188.1.with_related_call_bridges.022	with_related_call_bridges	1	79	67	1104	20_unit_local_blocks	12	6	6	0	0		1	17798250724028857777	0						
+TU.NC_133188.1.with_related_call_bridges.023	with_related_call_bridges	1	79	67	1104	within_contiguous_segment	12	6	6	0	0		1	14229686489519894656	0						
+TU.NC_133188.1.with_related_call_bridges.023	with_related_call_bridges	1	79	67	1104	20_unit_local_blocks	12	6	6	0	0		1	2489710360282670599	0						
+TU.NC_133188.1.with_related_call_bridges.024	with_related_call_bridges	1	80	68	1104	within_contiguous_segment	12	6	6	0	0		1	7292114001075287464	0						
+TU.NC_133188.1.with_related_call_bridges.024	with_related_call_bridges	1	80	68	1104	20_unit_local_blocks	12	6	6	0	0		1	2279433885440801240	0						
+TU.NC_133188.1.with_related_call_bridges.025	with_related_call_bridges	1	71	63	735	within_contiguous_segment	8	4	4	0	0		1	11710952148843755669	0						
+TU.NC_133188.1.with_related_call_bridges.025	with_related_call_bridges	1	71	63	735	20_unit_local_blocks	8	4	4	0	0		1	10715726009689975049	0						
+TU.NC_133188.1.with_related_call_bridges.026	with_related_call_bridges	1	3	3	0	within_contiguous_segment	0	0	0	0	0		0	17300839717251340478	0						
+TU.NC_133188.1.with_related_call_bridges.026	with_related_call_bridges	1	3	3	0	20_unit_local_blocks	0	0	0	0	0		0	3888614126100872257	0						
+TU.NC_133189.1.with_related_call_bridges.001	with_related_call_bridges	1	4	3	91	within_contiguous_segment	1	1	0	0	0		1	13259505489092964590	0						
+TU.NC_133189.1.with_related_call_bridges.001	with_related_call_bridges	1	4	3	91	20_unit_local_blocks	1	1	0	0	0		1	8266808157561509685	0						
+TU.NC_133189.1.with_related_call_bridges.007	with_related_call_bridges	1	17	13	370	within_contiguous_segment	3	0	4	1	0	0.0	1	16204871813161918432	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133189.1.with_related_call_bridges.007	with_related_call_bridges	1	17	13	370	20_unit_local_blocks	3	0	4	1	0	0.0	1	13677609486738216641	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133189.1.with_related_call_bridges.008	with_related_call_bridges	1	25	23	182	within_contiguous_segment	2	1	1	0	0		1	14675041123604185	0						
+TU.NC_133189.1.with_related_call_bridges.008	with_related_call_bridges	1	25	23	182	20_unit_local_blocks	2	1	1	0	0		1	654420439914312873	0						
+TU.NC_133189.1.with_related_call_bridges.009	with_related_call_bridges	1	11	11	0	within_contiguous_segment	0	0	0	0	0		0	2016679678555863094	0						
+TU.NC_133189.1.with_related_call_bridges.009	with_related_call_bridges	1	11	11	0	20_unit_local_blocks	0	0	0	0	0		0	14037424963472458444	0						
+TU.NC_133189.1.with_related_call_bridges.010	with_related_call_bridges	1	15	14	92	within_contiguous_segment	1	0	1	0	0		1	17699065575834011561	0						
+TU.NC_133189.1.with_related_call_bridges.010	with_related_call_bridges	1	15	14	92	20_unit_local_blocks	1	0	1	0	0		1	9291366506727217742	0						
+TU.NC_133189.1.with_related_call_bridges.011	with_related_call_bridges	1	10361	10234	11658	within_contiguous_segment	121	81	46	6	1	0.16666666666666666	2	15499249045788494122	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133189.1.with_related_call_bridges.011	with_related_call_bridges	1	10361	10234	11658	20_unit_local_blocks	121	81	46	6	1	0.16666666666666666	2	12183557992949139154	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133189.1.with_related_call_bridges.012	with_related_call_bridges	1	9038	8768	24803	within_contiguous_segment	268	206	64	2	1	0.5	2	12772761887028749222	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133189.1.with_related_call_bridges.012	with_related_call_bridges	1	9038	8768	24803	20_unit_local_blocks	268	206	64	2	1	0.5	2	6678650870626868112	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133189.1.with_related_call_bridges.013	with_related_call_bridges	2	401	396	460	within_contiguous_segment	5	3	2	0	0		1	12462664808597314034	0						
+TU.NC_133189.1.with_related_call_bridges.013	with_related_call_bridges	2	401	396	460	20_unit_local_blocks	5	3	2	0	0		1	4184331528347129732	0						
+TU.NC_133190.1.with_related_call_bridges.001	with_related_call_bridges	1	3	2	92	within_contiguous_segment	1	0	1	0	0		1	15264294899274576356	0						
+TU.NC_133190.1.with_related_call_bridges.001	with_related_call_bridges	1	3	2	92	20_unit_local_blocks	1	0	1	0	0		1	5085015874890283490	0						
+TU.NC_133190.1.with_related_call_bridges.002	with_related_call_bridges	1	7408	7198	19318	within_contiguous_segment	199	134	76	11	0	0.0	1	1777367793533861327	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133190.1.with_related_call_bridges.002	with_related_call_bridges	1	7408	7198	19318	20_unit_local_blocks	199	134	76	11	0	0.0	1	5779157515565260232	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133190.1.with_related_call_bridges.003	with_related_call_bridges	1	25	18	639	within_contiguous_segment	7	0	7	0	0		1	7057965649249166825	0						
+TU.NC_133190.1.with_related_call_bridges.003	with_related_call_bridges	1	25	18	639	20_unit_local_blocks	7	0	7	0	0		1	13013238048097036205	0						
+TU.NC_133190.1.with_related_call_bridges.007	with_related_call_bridges	1	9	7	184	within_contiguous_segment	2	0	2	0	0		1	9103039832225121883	0						
+TU.NC_133190.1.with_related_call_bridges.007	with_related_call_bridges	1	9	7	184	20_unit_local_blocks	2	0	2	0	0		1	11784589857454149883	0						
+TU.NC_133190.1.with_related_call_bridges.008	with_related_call_bridges	2	4411	4196	19725	within_contiguous_segment	207	86	129	8	0	0.0	1	6654728201398319641	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133190.1.with_related_call_bridges.008	with_related_call_bridges	2	4411	4196	19725	20_unit_local_blocks	207	86	129	8	0	0.0	1	16137865659165891346	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133190.1.with_related_call_bridges.009	with_related_call_bridges	1	6	4	183	within_contiguous_segment	1	2	0	1	0	0.0	1	14381094295421769710	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133190.1.with_related_call_bridges.009	with_related_call_bridges	1	6	4	183	20_unit_local_blocks	1	2	0	1	0	0.0	1	1745501647639142545	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133190.1.with_related_call_bridges.010	with_related_call_bridges	1	91	87	366	within_contiguous_segment	4	1	3	0	0		1	960954567408618396	0						
+TU.NC_133190.1.with_related_call_bridges.010	with_related_call_bridges	1	91	87	366	20_unit_local_blocks	4	1	3	0	0		1	12654137129978936170	0						
+TU.NC_133190.1.with_related_call_bridges.011	with_related_call_bridges	1	20	20	0	within_contiguous_segment	0	0	0	0	0		0	5821855741341598185	0						
+TU.NC_133190.1.with_related_call_bridges.011	with_related_call_bridges	1	20	20	0	20_unit_local_blocks	0	0	0	0	0		0	8182416441110631675	0						
+TU.NC_133191.1.with_related_call_bridges.010	with_related_call_bridges	1	18	18	0	within_contiguous_segment	0	0	0	0	0		0	12924635765095201073	0						
+TU.NC_133191.1.with_related_call_bridges.010	with_related_call_bridges	1	18	18	0	20_unit_local_blocks	0	0	0	0	0		0	15543595037336388476	0						
+TU.NC_133191.1.with_related_call_bridges.011	with_related_call_bridges	1	176	170	552	within_contiguous_segment	6	4	2	0	0		1	17862382757038853974	0						
+TU.NC_133191.1.with_related_call_bridges.011	with_related_call_bridges	1	176	170	552	20_unit_local_blocks	6	4	2	0	0		1	4390458403990172922	0						
+TU.NC_133191.1.with_related_call_bridges.012	with_related_call_bridges	1	11	10	92	within_contiguous_segment	1	0	1	0	0		1	16097982423317602584	0						
+TU.NC_133191.1.with_related_call_bridges.012	with_related_call_bridges	1	11	10	92	20_unit_local_blocks	1	0	1	0	0		1	8529167721642629887	0						
+TU.NC_133191.1.with_related_call_bridges.013	with_related_call_bridges	1	17067	16099	88996	within_contiguous_segment	922	675	293	46	39	0.8478260869565217	2	8179142386293000372	999	39.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133191.1.with_related_call_bridges.013	with_related_call_bridges	1	17067	16099	88996	20_unit_local_blocks	922	675	293	46	39	0.8478260869565217	2	6647304351791981418	999	39.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133191.1.with_related_call_bridges.014	with_related_call_bridges	2	77	73	368	within_contiguous_segment	4	4	0	0	0		1	14533108352924322553	0						
+TU.NC_133191.1.with_related_call_bridges.014	with_related_call_bridges	2	77	73	368	20_unit_local_blocks	4	4	0	0	0		1	15508491570986007699	0						
+TU.NC_133191.1.with_related_call_bridges.015	with_related_call_bridges	2	2435	2267	15456	within_contiguous_segment	152	110	58	16	4	0.25	2	11914454123203328634	999	4.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133191.1.with_related_call_bridges.015	with_related_call_bridges	2	2435	2267	15456	20_unit_local_blocks	152	110	58	16	4	0.25	2	9296068471351048592	999	4.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.001	with_related_call_bridges	1	161	144	1556	within_contiguous_segment	16	4	13	1	1	1.0	2	7738289157453075645	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.001	with_related_call_bridges	1	161	144	1556	20_unit_local_blocks	16	4	13	1	1	1.0	2	735152999168827405	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.002	with_related_call_bridges	1	217	200	1563	within_contiguous_segment	17	7	10	0	0		1	5555751677514771836	0						
+TU.NC_133192.1.with_related_call_bridges.002	with_related_call_bridges	1	217	200	1563	20_unit_local_blocks	17	7	10	0	0		1	10619587703414686827	0						
+TU.NC_133192.1.with_related_call_bridges.003	with_related_call_bridges	1	9653	8709	86783	within_contiguous_segment	886	353	591	58	18	0.3103448275862069	2	541764782716005615	999	18.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.003	with_related_call_bridges	1	9653	8709	86783	20_unit_local_blocks	886	353	591	58	18	0.3103448275862069	2	16972165345650532920	999	18.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.004	with_related_call_bridges	1	394	345	4507	within_contiguous_segment	41	11	38	8	2	0.25	2	16495669221801605996	999	2.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.004	with_related_call_bridges	1	394	345	4507	20_unit_local_blocks	41	11	38	8	2	0.25	2	7245642569909659574	999	2.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.005	with_related_call_bridges	1	1311	1198	10383	within_contiguous_segment	107	31	82	6	6	1.0	2	14479318000777112621	999	6.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.005	with_related_call_bridges	1	1311	1198	10383	20_unit_local_blocks	107	31	82	6	6	1.0	2	12886510643029403606	999	6.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.006	with_related_call_bridges	1	31	31	0	within_contiguous_segment	0	0	0	0	0		0	6373852176167423996	0						
+TU.NC_133192.1.with_related_call_bridges.006	with_related_call_bridges	1	31	31	0	20_unit_local_blocks	0	0	0	0	0		0	2554172285562389471	0						
+TU.NC_133192.1.with_related_call_bridges.007	with_related_call_bridges	1	482	438	4042	within_contiguous_segment	43	16	28	1	1	1.0	2	17418953949776252664	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.007	with_related_call_bridges	1	482	438	4042	20_unit_local_blocks	43	16	28	1	1	1.0	2	3469027222773696890	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.008	with_related_call_bridges	2	75	69	551	within_contiguous_segment	6	2	4	0	0		1	12265652407344584959	0						
+TU.NC_133192.1.with_related_call_bridges.008	with_related_call_bridges	2	75	69	551	20_unit_local_blocks	6	2	4	0	0		1	17652557733579347040	0						
+TU.NC_133192.1.with_related_call_bridges.009	with_related_call_bridges	1	2435	2172	24193	within_contiguous_segment	255	57	206	8	1	0.125	2	15692175603983760348	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.009	with_related_call_bridges	1	2435	2172	24193	20_unit_local_blocks	255	57	206	8	1	0.125	2	2252260041848355657	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.010	with_related_call_bridges	1	24	24	0	within_contiguous_segment	0	0	0	0	0		0	6488279394599098584	0						
+TU.NC_133192.1.with_related_call_bridges.010	with_related_call_bridges	1	24	24	0	20_unit_local_blocks	0	0	0	0	0		0	15485573623862291250	0						
+TU.NC_133192.1.with_related_call_bridges.024	with_related_call_bridges	1	16276	14836	132510	within_contiguous_segment	1376	168	1272	64	6	0.09375	2	7726990894695019679	999	6.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.024	with_related_call_bridges	1	16276	14836	132510	20_unit_local_blocks	1376	168	1272	64	6	0.09375	2	16218891368931131590	999	6.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.025	with_related_call_bridges	1	19	10	837	within_contiguous_segment	4	0	9	5	0	0.0	1	1410223994300748697	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133192.1.with_related_call_bridges.025	with_related_call_bridges	1	19	10	837	20_unit_local_blocks	4	0	9	5	0	0.0	1	1812720955904637747	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133193.1.with_related_call_bridges.005	with_related_call_bridges	1	5	5	0	within_contiguous_segment	0	0	0	0	0		0	10638996519987609953	0						
+TU.NC_133193.1.with_related_call_bridges.005	with_related_call_bridges	1	5	5	0	20_unit_local_blocks	0	0	0	0	0		0	18203416827158847236	0						
+TU.NC_133193.1.with_related_call_bridges.006	with_related_call_bridges	2	27	22	466	within_contiguous_segment	5	0	5	0	0		1	184321943761252008	0						
+TU.NC_133193.1.with_related_call_bridges.006	with_related_call_bridges	2	27	22	466	20_unit_local_blocks	5	0	5	0	0		1	8838275632815941388	0						
+TU.NC_133195.1.with_related_call_bridges.001	with_related_call_bridges	1	5	5	0	within_contiguous_segment	0	0	0	0	0		0	2001738715148815336	0						
+TU.NC_133195.1.with_related_call_bridges.001	with_related_call_bridges	1	5	5	0	20_unit_local_blocks	0	0	0	0	0		0	12023601902255152590	0						
+TU.NC_133195.1.with_related_call_bridges.002	with_related_call_bridges	1	30	27	275	within_contiguous_segment	2	2	1	1	1	1.0	2	5291176768127433461	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.002	with_related_call_bridges	1	30	27	275	20_unit_local_blocks	2	2	1	1	1	1.0	2	12633626962341888504	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.003	with_related_call_bridges	1	11	8	276	within_contiguous_segment	2	3	0	1	0	0.0	1	4078353123166746016	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.003	with_related_call_bridges	1	11	8	276	20_unit_local_blocks	2	3	0	1	0	0.0	1	9934685080621553989	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.004	with_related_call_bridges	1	16	16	0	within_contiguous_segment	0	0	0	0	0		0	837123572892910765	0						
+TU.NC_133195.1.with_related_call_bridges.004	with_related_call_bridges	1	16	16	0	20_unit_local_blocks	0	0	0	0	0		0	14268248605881158881	0						
+TU.NC_133195.1.with_related_call_bridges.005	with_related_call_bridges	1	6	5	93	within_contiguous_segment	1	0	1	0	0		1	848275862724606027	0						
+TU.NC_133195.1.with_related_call_bridges.005	with_related_call_bridges	1	6	5	93	20_unit_local_blocks	1	0	1	0	0		1	12311558056943698703	0						
+TU.NC_133195.1.with_related_call_bridges.006	with_related_call_bridges	1	34	21	1202	within_contiguous_segment	7	0	13	6	0	0.0	1	1210068168845462079	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.006	with_related_call_bridges	1	34	21	1202	20_unit_local_blocks	7	0	13	6	0	0.0	1	9048277545839814269	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.007	with_related_call_bridges	1	6	5	92	within_contiguous_segment	1	0	1	0	0		1	7783551495970909927	0						
+TU.NC_133195.1.with_related_call_bridges.007	with_related_call_bridges	1	6	5	92	20_unit_local_blocks	1	0	1	0	0		1	15868471508107196709	0						
+TU.NC_133195.1.with_related_call_bridges.008	with_related_call_bridges	1	42	29	1200	within_contiguous_segment	10	0	13	3	0	0.0	1	13694552541341616645	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.008	with_related_call_bridges	1	42	29	1200	20_unit_local_blocks	10	0	13	3	0	0.0	1	13110649134769179105	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.019	with_related_call_bridges	1	215	176	3594	within_contiguous_segment	30	20	19	9	0	0.0	1	12142310033042999181	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.019	with_related_call_bridges	1	215	176	3594	20_unit_local_blocks	30	20	19	9	0	0.0	1	14277280792394779813	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133195.1.with_related_call_bridges.020	with_related_call_bridges	1	23	21	184	within_contiguous_segment	2	2	0	0	0		1	14503575011661837225	0						
+TU.NC_133195.1.with_related_call_bridges.020	with_related_call_bridges	1	23	21	184	20_unit_local_blocks	2	2	0	0	0		1	15758019296437306118	0						
+TU.NC_133195.1.with_related_call_bridges.021	with_related_call_bridges	1	13626	13342	26157	within_contiguous_segment	267	102	182	17	14	0.8235294117647058	3	3865104875304302090	999	12.663663663663664	2.5555555555555554	0.109	0.556	0.10810810810810811	0.5555555555555556
+TU.NC_133195.1.with_related_call_bridges.021	with_related_call_bridges	1	13626	13342	26157	20_unit_local_blocks	267	102	182	17	14	0.8235294117647058	3	6216877067489975461	999	12.677677677677679	2.5655655655655654	0.113	0.566	0.11211211211211211	0.5655655655655656
+TU.NC_133196.1.with_related_call_bridges.001	with_related_call_bridges	1	97	70	2455	within_contiguous_segment	14	3	24	13	1	0.07692307692307693	2	15228416564200739007	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133196.1.with_related_call_bridges.001	with_related_call_bridges	1	97	70	2455	20_unit_local_blocks	14	3	24	13	1	0.07692307692307693	2	5284255993600134580	999	1.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133196.1.with_related_call_bridges.002	with_related_call_bridges	2	435	327	9917	within_contiguous_segment	79	24	84	29	12	0.41379310344827586	3	14200329833162849055	999	10.997997997997999	2.7337337337337337	0.265	0.734	0.26426426426426425	0.7337337337337337
+TU.NC_133196.1.with_related_call_bridges.002	with_related_call_bridges	2	435	327	9917	20_unit_local_blocks	79	24	84	29	12	0.41379310344827586	3	13245967631191993915	999	11.013013013013014	2.7517517517517516	0.262	0.752	0.26126126126126126	0.7517517517517518
+TU.NC_133196.1.with_related_call_bridges.003	with_related_call_bridges	1	11369	7459	358728	within_contiguous_segment	2122	1068	2842	1788	1171	0.6549217002237137	10	7569174820712670662	999	951.1041041041041	6.981981981981982	0.001	0.027	0.0	0.014014014014014014
+TU.NC_133196.1.with_related_call_bridges.003	with_related_call_bridges	1	11369	7459	358728	20_unit_local_blocks	2122	1068	2842	1788	1171	0.6549217002237137	10	4604512780879952892	999	951.9079079079079	7.005005005005005	0.001	0.035	0.0	0.01701701701701702
+TU.NC_133196.1.with_related_call_bridges.004	with_related_call_bridges	1	4756	2801	179384	within_contiguous_segment	957	524	1431	998	630	0.6312625250501002	6	17298770911037081537	999	537.8358358358358	5.655655655655655	0.001	0.462	0.0	0.26326326326326327
+TU.NC_133196.1.with_related_call_bridges.004	with_related_call_bridges	1	4756	2801	179384	20_unit_local_blocks	957	524	1431	998	630	0.6312625250501002	6	16447742754239088449	999	537.7177177177177	5.658658658658658	0.001	0.47	0.0	0.27627627627627627
+TU.NC_133196.1.with_related_call_bridges.005	with_related_call_bridges	1	807	532	25219	within_contiguous_segment	162	61	214	113	67	0.5929203539823009	4	4428049574169941401	999	56.588588588588586	3.7087087087087087	0.001	0.709	0.0	0.7087087087087087
+TU.NC_133196.1.with_related_call_bridges.005	with_related_call_bridges	1	807	532	25219	20_unit_local_blocks	162	61	214	113	67	0.5929203539823009	4	10059576657052698564	999	56.668668668668666	3.704704704704705	0.001	0.705	0.0	0.7047047047047047
+TU.NC_133196.1.with_related_call_bridges.006	with_related_call_bridges	1	18	13	462	within_contiguous_segment	5	1	4	0	0		1	18239730658782527697	0						
+TU.NC_133196.1.with_related_call_bridges.006	with_related_call_bridges	1	18	13	462	20_unit_local_blocks	5	1	4	0	0		1	18199169827681510759	0						
+TU.NC_133197.1.with_related_call_bridges.001	with_related_call_bridges	1	9	8	93	within_contiguous_segment	1	0	1	0	0		1	14138922206825877145	0						
+TU.NC_133197.1.with_related_call_bridges.001	with_related_call_bridges	1	9	8	93	20_unit_local_blocks	1	0	1	0	0		1	4449447034692688991	0						
+TU.NC_133197.1.with_related_call_bridges.002	with_related_call_bridges	1	18	16	182	within_contiguous_segment	2	2	0	0	0		1	3565950163776881054	0						
+TU.NC_133197.1.with_related_call_bridges.002	with_related_call_bridges	1	18	16	182	20_unit_local_blocks	2	2	0	0	0		1	206144655945670690	0						
+TU.NC_133197.1.with_related_call_bridges.003	with_related_call_bridges	1	11	11	0	within_contiguous_segment	0	0	0	0	0		0	11907924713420119315	0						
+TU.NC_133197.1.with_related_call_bridges.003	with_related_call_bridges	1	11	11	0	20_unit_local_blocks	0	0	0	0	0		0	5704040409964756711	0						
+TU.NC_133197.1.with_related_call_bridges.004	with_related_call_bridges	1	8109	5762	215597	within_contiguous_segment	1593	1608	739	754	350	0.46419098143236076	4	9771374331850444616	999	341.12012012012013	4.2942942942942945	0.08	0.999	0.022022022022022022	0.7037037037037037
+TU.NC_133197.1.with_related_call_bridges.004	with_related_call_bridges	1	8109	5762	215597	20_unit_local_blocks	1593	1608	739	754	350	0.46419098143236076	4	7294415138266841668	999	341.11211211211213	4.273273273273273	0.082	0.999	0.02702702702702703	0.7247247247247247
+TU.NC_133197.1.with_related_call_bridges.005	with_related_call_bridges	1	2575	1932	59086	within_contiguous_segment	482	430	213	161	70	0.43478260869565216	4	17534120073728615273	999	67.88588588588588	4.062062062062062	0.27	0.768	0.11811811811811812	0.47347347347347346
+TU.NC_133197.1.with_related_call_bridges.005	with_related_call_bridges	1	2575	1932	59086	20_unit_local_blocks	482	430	213	161	70	0.43478260869565216	4	5069175024538388477	999	67.7997997997998	4.053053053053053	0.249	0.758	0.09009009009009009	0.4624624624624625
+TU.NC_133198.1.with_related_call_bridges.001	with_related_call_bridges	1	4	4	0	within_contiguous_segment	0	0	0	0	0		0	5527923401578058427	0						
+TU.NC_133198.1.with_related_call_bridges.001	with_related_call_bridges	1	4	4	0	20_unit_local_blocks	0	0	0	0	0		0	5352348382444559706	0						
+TU.NC_133198.1.with_related_call_bridges.002	with_related_call_bridges	1	9	9	0	within_contiguous_segment	0	0	0	0	0		0	13814035906864772577	0						
+TU.NC_133198.1.with_related_call_bridges.002	with_related_call_bridges	1	9	9	0	20_unit_local_blocks	0	0	0	0	0		0	15271978994195912859	0						
+TU.NC_133198.1.with_related_call_bridges.009	with_related_call_bridges	1	12941	12440	46251	within_contiguous_segment	451	376	125	50	36	0.72	4	3990273271557948510	999	32.004004004004	3.3263263263263263	0.02	0.342	0.015015015015015015	0.34134134134134136
+TU.NC_133198.1.with_related_call_bridges.009	with_related_call_bridges	1	12941	12440	46251	20_unit_local_blocks	451	376	125	50	36	0.72	4	16546013084512672288	999	32.04104104104104	3.339339339339339	0.031	0.356	0.023023023023023025	0.35535535535535534
+TU.NC_133198.1.with_related_call_bridges.010	with_related_call_bridges	1	2337	1801	49361	within_contiguous_segment	385	295	241	151	87	0.5761589403973509	4	12473035394484177160	999	83.30630630630631	3.916916916916917	0.128	0.812	0.05805805805805806	0.7067067067067067
+TU.NC_133198.1.with_related_call_bridges.010	with_related_call_bridges	1	2337	1801	49361	20_unit_local_blocks	385	295	241	151	87	0.5761589403973509	4	10103693011486665464	999	83.16816816816817	3.886886886886887	0.133	0.779	0.06006006006006006	0.6706706706706707
+TU.NC_133198.1.with_related_call_bridges.011	with_related_call_bridges	1	27	15	1096	within_contiguous_segment	5	0	12	7	0	0.0	1	13289460349135475509	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133198.1.with_related_call_bridges.011	with_related_call_bridges	1	27	15	1096	20_unit_local_blocks	5	0	12	7	0	0.0	1	14990819849729227547	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.010	with_related_call_bridges	1	8	8	0	within_contiguous_segment	0	0	0	0	0		0	15260734083734255135	0						
+TU.NC_133199.1.with_related_call_bridges.010	with_related_call_bridges	1	8	8	0	20_unit_local_blocks	0	0	0	0	0		0	5987388193356131959	0						
+TU.NC_133199.1.with_related_call_bridges.011	with_related_call_bridges	1	3	2	92	within_contiguous_segment	1	0	1	0	0		1	17688409504770171882	0						
+TU.NC_133199.1.with_related_call_bridges.011	with_related_call_bridges	1	3	2	92	20_unit_local_blocks	1	0	1	0	0		1	10914596412091013446	0						
+TU.NC_133199.1.with_related_call_bridges.012	with_related_call_bridges	1	97	74	2118	within_contiguous_segment	19	11	12	4	0	0.0	1	1595765453977628526	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.012	with_related_call_bridges	1	97	74	2118	20_unit_local_blocks	19	11	12	4	0	0.0	1	3431362158209250193	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.013	with_related_call_bridges	2	2353	2169	16947	within_contiguous_segment	177	91	93	7	4	0.5714285714285714	2	3331800658054443967	999	4.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.013	with_related_call_bridges	2	2353	2169	16947	20_unit_local_blocks	177	91	93	7	4	0.5714285714285714	2	926806117675843612	999	4.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.014	with_related_call_bridges	1	7570	6873	64103	within_contiguous_segment	651	275	422	46	21	0.45652173913043476	2	4136695551097811208	999	21.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.014	with_related_call_bridges	1	7570	6873	64103	20_unit_local_blocks	651	275	422	46	21	0.45652173913043476	2	2899536254618041743	999	21.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.015	with_related_call_bridges	1	33	28	460	within_contiguous_segment	5	1	4	0	0		1	1373574196622830394	0						
+TU.NC_133199.1.with_related_call_bridges.015	with_related_call_bridges	1	33	28	460	20_unit_local_blocks	5	1	4	0	0		1	2167789051791076161	0						
+TU.NC_133199.1.with_related_call_bridges.016	with_related_call_bridges	1	8138	7387	69092	within_contiguous_segment	706	262	489	45	27	0.6	2	5890339452220703547	999	27.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.016	with_related_call_bridges	1	8138	7387	69092	20_unit_local_blocks	706	262	489	45	27	0.6	2	13536969653545533095	999	27.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.017	with_related_call_bridges	1	3619	3196	38886	within_contiguous_segment	400	158	265	23	10	0.43478260869565216	3	6473411623494204380	999	10.0	2.6936936936936937	0.694	0.694	0.42742742742742745	0.6936936936936937
+TU.NC_133199.1.with_related_call_bridges.017	with_related_call_bridges	1	3619	3196	38886	20_unit_local_blocks	400	158	265	23	10	0.43478260869565216	3	6039236962308585159	999	9.972972972972974	2.684684684684685	0.685	0.685	0.4314314314314314	0.6846846846846847
+TU.NC_133199.1.with_related_call_bridges.018	with_related_call_bridges	1	620	575	4136	within_contiguous_segment	44	17	28	1	0	0.0	1	15458598299117666411	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.018	with_related_call_bridges	1	620	575	4136	20_unit_local_blocks	44	17	28	1	0	0.0	1	12299280901111822821	999	0.0	1.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.019	with_related_call_bridges	1	3752	3324	39324	within_contiguous_segment	402	168	260	26	7	0.2692307692307692	2	3899828298878092635	999	7.0	2.0	1.0	1.0	1.0	1.0
+TU.NC_133199.1.with_related_call_bridges.019	with_related_call_bridges	1	3752	3324	39324	20_unit_local_blocks	402	168	260	26	7	0.2692307692307692	2	6891944183207000189	999	7.0	2.0	1.0	1.0	1.0	1.0

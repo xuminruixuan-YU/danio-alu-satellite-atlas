@@ -1,0 +1,78 @@
+{
+  "reference": "GCF_049306965.1; 26 source sequence records for mapping, 25 nuclear chromosomes for satellite annotation",
+  "data": "Six adult TL forebrain modBAM samples, PRJEB108899, ERR16782314–ERR16782319",
+  "formal_scope": "Family-selected and independently anchored estimates are separate from the all-read regional track estimand in regional_methylation.json.",
+  "prefilter": "at least one reference-exclusive25 or31mer from either family anywhere on read; no modification/CpG selection; every final word-qualified read is a logical subset",
+  "family_main": {
+    "min_nonoverlap_aligned_k31": 2,
+    "min_family_M_fraction": 0.8,
+    "max_competing_family_or_unassigned_AS_fraction": 0.8,
+    "exclude_two_family_whole_word_support": true,
+    "exclude_possible_secondary_cap": true,
+    "reported_secondary_cap": 100
+  },
+  "family_sensitivity": {
+    "k": [
+      25,
+      31
+    ],
+    "min_nonoverlap_words": [
+      1,
+      2,
+      3
+    ],
+    "matched_family_fractions": [
+      0.8,
+      0.95
+    ],
+    "competitor_AS_ratios": [
+      0.8,
+      0.9,
+      1.0
+    ],
+    "reporting_cap": "excluded primary; included diagnostic only",
+    "limit": "lower fraction.5 not validated because secondary labels used.8; no scientific use of that diagnostic grid"
+  },
+  "CpG_main": "actual read CG with both bases in adjacent primary matched reference positions inside the same unambiguous family segment; TU referenceCG not required for family calls; required separately for site-coordinate estimates",
+  "base_quality": {
+    "primary_both_bases_minQ": 10,
+    "sensitivity": [
+      0,
+      10,
+      20
+    ],
+    "basis": "existing real-pilot preserved-quality/context checks; technical Q filter, not biological family admission"
+  },
+  "modified_calls": {
+    "primary_min_model_confidence": 0.8,
+    "sensitivity": [
+      0.5,
+      0.8,
+      0.9,
+      0.95
+    ],
+    "logic": "C/m/h unique maximal probability across quantization intervals; selected state lower bound>=threshold; ties/unknown/low confidence excluded from valid-call denominator",
+    "implicit": "exact Dorado build sharedC mask threshold12: m,h in[0,12/256), canonical in(232/256,1]; never exact zero",
+    "explicit": "ML byte b probability in[b/256,(b+1)/256); canonical complement interval",
+    "primary_fraction": "5mC classified calls/(canonical+5mC+5hmC valid calls);5hmC separate, same denominator",
+    "supplement": "mean modification-probability interval over all evaluable CpGs, distinct from classified fraction; not a confidence interval",
+    "threshold_basis": "same model-confidence criterion for families and samples;0.8 is an analyst-frozen80%minimum, evaluated with0.5/0.9/0.95; not claimed as a universal published default or a user-selected numeric setting"
+  },
+  "local_anchor": {
+    "main_competitor_score_fraction": 0.8,
+    "sensitivity": [
+      0.7,
+      0.8,
+      0.9
+    ],
+    "required": "continuous noncatalog matched segment>=200bp (external flank or internal noncatalog interruption); existing MAPQ20lead; expected anchor covered>=.8; all TU competing loci searched, correct accession/strand; parent high-scoring alignments must preserve anchor placement; no supplementary/conflicting/capped mapping",
+    "scope": "local reference-position association only; no whole-array verification"
+  },
+  "estimands": "each individual separate; reads/CpG observations are not biological replicates; family call-weighted statistics not locus-equal, not population abundance; reference/quality/word/cap filters define observable subset",
+  "sources": [
+    "https://github.com/nanoporetech/modkit/blob/master/book/src/filtering.md",
+    "https://nanoporetech.github.io/modkit/filtering_numeric_details.html",
+    "https://samtools.github.io/hts-specs/SAMtags.pdf"
+  ],
+  "regional_tracks": "See metadata/regional_methylation.json; data/regional_methylation/per_run contains current regional CpG counts; data/array_study/chromosome_methylation_tracks retains the anchored collection."
+}

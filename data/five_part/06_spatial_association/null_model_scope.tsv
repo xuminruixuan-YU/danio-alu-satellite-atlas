@@ -1,0 +1,5 @@
+question	candidate_background	decision	reason
+共同分布	whole nuclear chromosomes with readable-base profiles and fixed chromosome-fraction bins	descriptive co-occurrence at all declared scales	all CL1 chromosomes positive; no validated exchangeable chromosome labels; sample is one reference genome
+相同背景内额外邻接	uniform whole-chromosome shift preserving the lengths and internal pattern of one family	not accepted for formal association significance	relocalizes chromosome-compartment preference and crosses readable/assembly contexts; cannot separate common localization from additional adjacency
+相同背景内额外邻接	shuffle family labels at fixed fragment positions or within fixed bins	not accepted for formal association significance	family labels linked to lengths and same-family clusters; many bins have one family only; independent valid compartment boundaries are not available
+内部变体次序	prior A/B within-segment permutations	not applicable to between-family chromosomal association	different question, sample space and unit

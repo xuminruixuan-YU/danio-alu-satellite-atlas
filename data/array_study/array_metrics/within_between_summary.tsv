@@ -1,0 +1,7 @@
+family	stratum	arrays	array_pairs	within_same_arrays_mean	between_equal_target_array_mean	scope
+CL1	same_chromosome	0	0			shared copies and arrays; descriptive values, not independent pairs
+CL1	different_chromosome	25	300	0.075861689280793	0.09598975350300125	shared copies and arrays; descriptive values, not independent pairs
+CL1	all_between	25	300	0.075861689280793	0.09598975350300125	shared copies and arrays; descriptive values, not independent pairs
+CL2	same_chromosome	13	8	0.12825710325710327	0.1353063452248235	shared copies and arrays; descriptive values, not independent pairs
+CL2	different_chromosome	24	268	0.13082805370074566	0.14262802327745067	shared copies and arrays; descriptive values, not independent pairs
+CL2	all_between	24	276	0.13082805370074566	0.14239726829364288	shared copies and arrays; descriptive values, not independent pairs

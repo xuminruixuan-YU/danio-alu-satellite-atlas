@@ -1,0 +1,4 @@
+method	reads	alignments	high_score_alignments	exact_case_CpGs	array_stable_CpGs
+dense_seeding	28	279	30	710	743
+original	28	47	28	743	743
+return_expanded	28	220	36	696	741

@@ -1,0 +1,25 @@
+{
+  "analyst_rule": {
+    "TU_supported_bp": 50000,
+    "congener_supported_bp": 10000,
+    "gap_bp": 25000
+  },
+  "sensitivity_bp": [
+    5000,
+    15000,
+    20000,
+    25000,
+    50000
+  ],
+  "basis": [
+    "D. aesculapii AT supported lengths 0.586,2.139,15.642,18.306,22.304 kb; 10 kb separates the observed long/short groups",
+    "both congener GC distributions form a continuum; 10 kb is a rounded descriptive stratum, not a natural breakpoint",
+    "same within-species cutoff for both families; exact covered length and gaps retained",
+    "do not force one AT or two GC per chromosome"
+  ],
+  "limits": [
+    "non-T2T assembly completeness constrains observed region size",
+    "different primary cutoffs disallow direct species abundance comparisons",
+    "D. kyathit AT has only one supported 424 bp component; kept as short evidence, not promoted to large"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "assembly": "GCF_049306965.1",
+  "MAPQ": 20,
+  "secondary_cap": 100,
+  "score_fraction": 0.8,
+  "minimum_baseQ": 10,
+  "mod_probability": 0.8,
+  "min_observed_CpGs_for_display": 10,
+  "mapping_versions": {
+    "reused_prefix_first_20000": "2.30-r1287",
+    "reused_later_satellite_candidates": "2.26-r1175",
+    "additional_all_other_reads": "2.26-r1175"
+  },
+  "mapping_options": [
+    "-ax",
+    "map-ont",
+    "-Y",
+    "--secondary=yes",
+    "-N100",
+    "-p0.5",
+    "-I8G",
+    "-K50M"
+  ],
+  "reference_records": 26,
+  "source_records": 32239740,
+  "reused_records": 1985593,
+  "additional_records": 30254147,
+  "estimand": "Mean of per-reference-CpG m/(C+m+h) within each window, equal CpG weights; call-weighted fraction provided separately",
+  "read_scope": "All source reads; no family word gate or independent noncatalog anchor prerequisite",
+  "coordinate_scope": "Exact concordance of both CpG bases across all returned AS>=0.8 primary alignments; heuristic, not exhaustive genomic uniqueness",
+  "display": "CpGs>=10 and distinct window read IDs>=3; NaN gaps break lines; valid zero retained; >=5 subset marks same mean",
+  "exclusions": [
+    "MAPQ<20",
+    "supplementary alignment",
+    "hard clipping",
+    "secondary count>=100",
+    "nonpositive primary AS",
+    "dx=1",
+    "unsupported MM encoding",
+    "inconsistent CpG position",
+    "baseQ<10",
+    "nonunique or low-confidence modification state"
+  ],
+  "coordinate_example": {
+    "reference": "NC_133178.1",
+    "start0": 47000000,
+    "end0": 47010000,
+    "run": "ERR16782315",
+    "searches": {
+      "return_expanded": [
+        "-N1000",
+        "-p0.2"
+      ],
+      "dense_seeding": [
+        "-N1000",
+        "-p0.2",
+        "-k11",
+        "-w5",
+        "-f0.00001",
+        "-U10,2000"
+      ]
+    },
+    "stable_CpGs": 40,
+    "stable_reads": 25,
+    "stable_observations": 696,
+    "scope": "Targeted example, not a global coordinate-accuracy estimate"
+  },
+  "baseline_bin_bp": 10000,
+  "window_bp": 20000,
+  "step_bp": 5000,
+  "minimum_window_read_IDs": 3,
+  "stronger_support_read_IDs": 5,
+  "spatial_flag": "longest no-valid-CpG interval > half actual window length OR no CpG in central half",
+  "source": "data/regional_display/per_run/ERR*/valid_observations.tsv.gz",
+  "baseline": "data/regional_methylation/windows.tsv retains 10 kb baseline, S31/S51",
+  "window_data": "data/regional_display/regional_windows_20kb_step5kb.tsv.gz",
+  "support": "Counts apply to whole windows, not uniform depth at every CpG; overlapping windows share measurements"
+}

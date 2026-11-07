@@ -1,0 +1,6 @@
+array_id	classification	mean_comparable_samples	inside_lower_than_both_samples	stable_coordinate_anchors	local_candidate_windows	interpretation
+TU.NC_133178.1.CL2.R001	仅局部或特定参数下出现下降	6	5	0	16	均为探索性描述，不能单独定位功能着丝粒
+TU.NC_133178.1.CL1.R001	内部均值较低，缺少清楚谷形	6	1	0	0	均为探索性描述，不能单独定位功能着丝粒
+TU.NC_133178.1.CL2.R003	仅局部或特定参数下出现下降	6	6	0	2	均为探索性描述，不能单独定位功能着丝粒
+TU.NC_133196.1.CL2.R001	固定侧翼参照下重复的低值区段；局部谷形另判	6	6	54	127	均为探索性描述，不能单独定位功能着丝粒
+TU.NC_133196.1.CL1.R001	固定侧翼参照下重复的低值区段；局部谷形另判	6	0	4	168	均为探索性描述，不能单独定位功能着丝粒
