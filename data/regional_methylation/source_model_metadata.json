@@ -1,0 +1,118 @@
+{
+  "ERR16782314": {
+    "read_groups": 9543,
+    "model_strings": [
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.0.0 modbase_models=modbase_model_version_id",
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.2.0 modbase_models=dna_r10.4.1_e8.2_400bps_sup@v5.2.0_5mC_5hmC@v1,dna_r10.4.1_e8.2_400bps_sup@v5.2.0_6mA@v1"
+    ],
+    "programs": [
+      [
+        "dorado",
+        "1.1.0+50aaddcf"
+      ],
+      [
+        "minknow",
+        "6.5.14"
+      ],
+      [
+        "samtools",
+        "1.21"
+      ]
+    ]
+  },
+  "ERR16782315": {
+    "read_groups": 5944,
+    "model_strings": [
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.0.0 modbase_models=modbase_model_version_id",
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.2.0 modbase_models=dna_r10.4.1_e8.2_400bps_sup@v5.2.0_5mC_5hmC@v1,dna_r10.4.1_e8.2_400bps_sup@v5.2.0_6mA@v1"
+    ],
+    "programs": [
+      [
+        "dorado",
+        "1.1.0+50aaddcf"
+      ],
+      [
+        "minknow",
+        "6.5.14"
+      ],
+      [
+        "samtools",
+        "1.21"
+      ]
+    ]
+  },
+  "ERR16782316": {
+    "read_groups": 4800,
+    "model_strings": [
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.2.0 modbase_models=dna_r10.4.1_e8.2_400bps_sup@v5.2.0_5mC_5hmC@v1,dna_r10.4.1_e8.2_400bps_sup@v5.2.0_6mA@v1"
+    ],
+    "programs": [
+      [
+        "dorado",
+        "1.1.0+50aaddcf"
+      ],
+      [
+        "samtools",
+        "1.21"
+      ]
+    ]
+  },
+  "ERR16782317": {
+    "read_groups": 5372,
+    "model_strings": [
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.0.0 modbase_models=modbase_model_version_id",
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.2.0 modbase_models=dna_r10.4.1_e8.2_400bps_sup@v5.2.0_5mC_5hmC@v1,dna_r10.4.1_e8.2_400bps_sup@v5.2.0_6mA@v1"
+    ],
+    "programs": [
+      [
+        "dorado",
+        "1.1.0+50aaddcf"
+      ],
+      [
+        "minknow",
+        "6.5.14"
+      ],
+      [
+        "samtools",
+        "1.21"
+      ]
+    ]
+  },
+  "ERR16782318": {
+    "read_groups": 4325,
+    "model_strings": [
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.2.0 modbase_models=dna_r10.4.1_e8.2_400bps_sup@v5.2.0_5mC_5hmC@v1,dna_r10.4.1_e8.2_400bps_sup@v5.2.0_6mA@v1"
+    ],
+    "programs": [
+      [
+        "dorado",
+        "1.1.0+50aaddcf"
+      ],
+      [
+        "samtools",
+        "1.21"
+      ]
+    ]
+  },
+  "ERR16782319": {
+    "read_groups": 10018,
+    "model_strings": [
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.0.0 modbase_models=modbase_model_version_id",
+      "basecall_model=dna_r10.4.1_e8.2_400bps_sup@v5.2.0 modbase_models=dna_r10.4.1_e8.2_400bps_sup@v5.2.0_5mC_5hmC@v1,dna_r10.4.1_e8.2_400bps_sup@v5.2.0_6mA@v1"
+    ],
+    "programs": [
+      [
+        "dorado",
+        "1.1.0+50aaddcf"
+      ],
+      [
+        "minknow",
+        "6.5.14"
+      ],
+      [
+        "samtools",
+        "1.21"
+      ]
+    ]
+  }
+}

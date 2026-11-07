@@ -1,0 +1,5 @@
+species	family	all_regions	minimum	median	maximum	primary_cutoff_bp	large	small	interpretation
+aesculapii	CL1	5	586	15642	22304	10000	3	2	descriptive size stratum; continuous GC distribution, not an inferred natural class
+aesculapii	CL2	141	503	4797	25664	10000	23	118	descriptive size stratum; continuous GC distribution, not an inferred natural class
+kyathit	CL1	1	424	424	424	10000	0	1	descriptive size stratum; continuous GC distribution, not an inferred natural class
+kyathit	CL2	63	591	2644	27542	10000	9	54	descriptive size stratum; continuous GC distribution, not an inferred natural class

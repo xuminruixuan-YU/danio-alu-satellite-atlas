@@ -1,0 +1,5631 @@
+{
+  "groups": [
+    {
+      "group": "S4",
+      "chromosome": "1",
+      "stem": "grouped_panels/S4_chr01",
+      "figures": [
+        "S4.1"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133176.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133176.1",
+          "chromosome": "1",
+          "family": "CL1",
+          "start0": "30234671",
+          "end0": "32001209",
+          "span_bp": "1766538",
+          "supported_bp": "1732177",
+          "interruption_bp": "34361",
+          "support_fraction": "0.9805489607356309",
+          "source_records": "5",
+          "supported_tracts": "5",
+          "N_bp": "0",
+          "non_ACGT_bp": "676",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "30034671",
+          "plot_end0": "32201209",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "2",
+      "stem": "grouped_panels/S4_chr02",
+      "figures": [
+        "S4.2",
+        "S4.3"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133177.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133177.1",
+          "chromosome": "2",
+          "family": "CL1",
+          "start0": "14302635",
+          "end0": "15594196",
+          "span_bp": "1291561",
+          "supported_bp": "1270891",
+          "interruption_bp": "20670",
+          "support_fraction": "0.9839961101333967",
+          "source_records": "4",
+          "supported_tracts": "4",
+          "N_bp": "0",
+          "non_ACGT_bp": "126",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "14102635",
+          "plot_end0": "15794196",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133177.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133177.1",
+          "chromosome": "2",
+          "family": "CL2",
+          "start0": "21839584",
+          "end0": "22517546",
+          "span_bp": "677962",
+          "supported_bp": "672980",
+          "interruption_bp": "4982",
+          "support_fraction": "0.9926515055416085",
+          "source_records": "2",
+          "supported_tracts": "2",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "21639584",
+          "plot_end0": "22717546",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "3",
+      "stem": "grouped_panels/S4_chr03",
+      "figures": [
+        "S4.4",
+        "S4.5",
+        "S4.6"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133178.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133178.1",
+          "chromosome": "3",
+          "family": "CL2",
+          "start0": "46070553",
+          "end0": "47988672",
+          "span_bp": "1918119",
+          "supported_bp": "1879148",
+          "interruption_bp": "38971",
+          "support_fraction": "0.9796826995613932",
+          "source_records": "7",
+          "supported_tracts": "7",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "45870553",
+          "plot_end0": "48188672",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133178.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133178.1",
+          "chromosome": "3",
+          "family": "CL1",
+          "start0": "51966346",
+          "end0": "53295232",
+          "span_bp": "1328886",
+          "supported_bp": "1317833",
+          "interruption_bp": "11053",
+          "support_fraction": "0.9916825070021055",
+          "source_records": "3",
+          "supported_tracts": "3",
+          "N_bp": "0",
+          "non_ACGT_bp": "363",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "51766346",
+          "plot_end0": "53495232",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133178.1.CL2.R003",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133178.1",
+          "chromosome": "3",
+          "family": "CL2",
+          "start0": "57895706",
+          "end0": "59105148",
+          "span_bp": "1209442",
+          "supported_bp": "1209442",
+          "interruption_bp": "0",
+          "support_fraction": "1.0",
+          "source_records": "1",
+          "supported_tracts": "1",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "57695706",
+          "plot_end0": "59305148",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "4",
+      "stem": "grouped_panels/S4_chr04",
+      "figures": [
+        "S4.7",
+        "S4.8"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133179.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133179.1",
+          "chromosome": "4",
+          "family": "CL1",
+          "start0": "27538034",
+          "end0": "28700043",
+          "span_bp": "1162009",
+          "supported_bp": "1079109",
+          "interruption_bp": "82900",
+          "support_fraction": "0.9286580396537376",
+          "source_records": "10",
+          "supported_tracts": "10",
+          "N_bp": "0",
+          "non_ACGT_bp": "22",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "27338034",
+          "plot_end0": "28900043",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133179.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133179.1",
+          "chromosome": "4",
+          "family": "CL2",
+          "start0": "30354828",
+          "end0": "31209666",
+          "span_bp": "854838",
+          "supported_bp": "854693",
+          "interruption_bp": "145",
+          "support_fraction": "0.9998303772176717",
+          "source_records": "5",
+          "supported_tracts": "5",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "30154828",
+          "plot_end0": "31409666",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "5",
+      "stem": "grouped_panels/S4_chr05",
+      "figures": [
+        "S4.9",
+        "S4.10",
+        "S4.11"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133180.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133180.1",
+          "chromosome": "5",
+          "family": "CL2",
+          "start0": "48838679",
+          "end0": "51860575",
+          "span_bp": "3021896",
+          "supported_bp": "3021896",
+          "interruption_bp": "0",
+          "support_fraction": "1.0",
+          "source_records": "1",
+          "supported_tracts": "1",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "48638679",
+          "plot_end0": "52060575",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133180.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133180.1",
+          "chromosome": "5",
+          "family": "CL1",
+          "start0": "57420936",
+          "end0": "58815287",
+          "span_bp": "1394351",
+          "supported_bp": "1390026",
+          "interruption_bp": "4325",
+          "support_fraction": "0.9968981985167293",
+          "source_records": "4",
+          "supported_tracts": "4",
+          "N_bp": "0",
+          "non_ACGT_bp": "6",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "57220936",
+          "plot_end0": "59015287",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133180.1.CL2.R002",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133180.1",
+          "chromosome": "5",
+          "family": "CL2",
+          "start0": "63884140",
+          "end0": "64511148",
+          "span_bp": "627008",
+          "supported_bp": "626110",
+          "interruption_bp": "898",
+          "support_fraction": "0.9985678013677657",
+          "source_records": "4",
+          "supported_tracts": "4",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "63684140",
+          "plot_end0": "64711148",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "6",
+      "stem": "grouped_panels/S4_chr06",
+      "figures": [
+        "S4.12"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133181.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133181.1",
+          "chromosome": "6",
+          "family": "CL1",
+          "start0": "22372978",
+          "end0": "23536339",
+          "span_bp": "1163361",
+          "supported_bp": "1153819",
+          "interruption_bp": "9542",
+          "support_fraction": "0.9917979028005924",
+          "source_records": "2",
+          "supported_tracts": "2",
+          "N_bp": "0",
+          "non_ACGT_bp": "88",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "22172978",
+          "plot_end0": "23736339",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "7",
+      "stem": "grouped_panels/S4_chr07",
+      "figures": [
+        "S4.13",
+        "S4.14",
+        "S4.15",
+        "S4.16"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133182.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133182.1",
+          "chromosome": "7",
+          "family": "CL2",
+          "start0": "46485713",
+          "end0": "47395845",
+          "span_bp": "910132",
+          "supported_bp": "910100",
+          "interruption_bp": "32",
+          "support_fraction": "0.9999648402649286",
+          "source_records": "2",
+          "supported_tracts": "2",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "46285713",
+          "plot_end0": "47595845",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133182.1.CL2.R003",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133182.1",
+          "chromosome": "7",
+          "family": "CL2",
+          "start0": "54617834",
+          "end0": "56064997",
+          "span_bp": "1447163",
+          "supported_bp": "1430036",
+          "interruption_bp": "17127",
+          "support_fraction": "0.9881651203078022",
+          "source_records": "16",
+          "supported_tracts": "16",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "54417834",
+          "plot_end0": "56264997",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133182.1.CL1.R002",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133182.1",
+          "chromosome": "7",
+          "family": "CL1",
+          "start0": "60608710",
+          "end0": "62122784",
+          "span_bp": "1514074",
+          "supported_bp": "1463053",
+          "interruption_bp": "51021",
+          "support_fraction": "0.9663021754550967",
+          "source_records": "8",
+          "supported_tracts": "8",
+          "N_bp": "0",
+          "non_ACGT_bp": "149",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "60408710",
+          "plot_end0": "62322784",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133182.1.CL2.R004",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133182.1",
+          "chromosome": "7",
+          "family": "CL2",
+          "start0": "67745296",
+          "end0": "68002311",
+          "span_bp": "257015",
+          "supported_bp": "244412",
+          "interruption_bp": "12603",
+          "support_fraction": "0.9509639515203393",
+          "source_records": "13",
+          "supported_tracts": "13",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "67545296",
+          "plot_end0": "68202311",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "8",
+      "stem": "grouped_panels/S4_chr08",
+      "figures": [
+        "S4.17",
+        "S4.18",
+        "S4.19"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133183.1.CL2.R003",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133183.1",
+          "chromosome": "8",
+          "family": "CL2",
+          "start0": "40239861",
+          "end0": "41943369",
+          "span_bp": "1703508",
+          "supported_bp": "1703508",
+          "interruption_bp": "0",
+          "support_fraction": "1.0",
+          "source_records": "1",
+          "supported_tracts": "1",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "40039861",
+          "plot_end0": "42143369",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133183.1.CL1.R002",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133183.1",
+          "chromosome": "8",
+          "family": "CL1",
+          "start0": "46353496",
+          "end0": "47836149",
+          "span_bp": "1482653",
+          "supported_bp": "1440278",
+          "interruption_bp": "42375",
+          "support_fraction": "0.9714194757640526",
+          "source_records": "7",
+          "supported_tracts": "7",
+          "N_bp": "0",
+          "non_ACGT_bp": "429",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "46153496",
+          "plot_end0": "48036149",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133183.1.CL2.R005",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133183.1",
+          "chromosome": "8",
+          "family": "CL2",
+          "start0": "52813864",
+          "end0": "54092751",
+          "span_bp": "1278887",
+          "supported_bp": "1278862",
+          "interruption_bp": "25",
+          "support_fraction": "0.9999804517521876",
+          "source_records": "3",
+          "supported_tracts": "3",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "52613864",
+          "plot_end0": "54292751",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "9",
+      "stem": "grouped_panels/S4_chr09",
+      "figures": [
+        "S4.20"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133184.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133184.1",
+          "chromosome": "9",
+          "family": "CL1",
+          "start0": "16034259",
+          "end0": "17376524",
+          "span_bp": "1342265",
+          "supported_bp": "1280105",
+          "interruption_bp": "62160",
+          "support_fraction": "0.953690217654487",
+          "source_records": "16",
+          "supported_tracts": "16",
+          "N_bp": "0",
+          "non_ACGT_bp": "200",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "15834259",
+          "plot_end0": "17576524",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "10",
+      "stem": "grouped_panels/S4_chr10",
+      "figures": [
+        "S4.21",
+        "S4.22"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133185.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133185.1",
+          "chromosome": "10",
+          "family": "CL1",
+          "start0": "12656769",
+          "end0": "14325385",
+          "span_bp": "1668616",
+          "supported_bp": "1622774",
+          "interruption_bp": "45842",
+          "support_fraction": "0.9725269324997483",
+          "source_records": "9",
+          "supported_tracts": "9",
+          "N_bp": "0",
+          "non_ACGT_bp": "397",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "12456769",
+          "plot_end0": "14525385",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133185.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133185.1",
+          "chromosome": "10",
+          "family": "CL2",
+          "start0": "19071722",
+          "end0": "21685822",
+          "span_bp": "2614100",
+          "supported_bp": "2592198",
+          "interruption_bp": "21902",
+          "support_fraction": "0.991621590604797",
+          "source_records": "16",
+          "supported_tracts": "16",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "18871722",
+          "plot_end0": "21885822",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "11",
+      "stem": "grouped_panels/S4_chr11",
+      "figures": [
+        "S4.23"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133186.1.CL1.R002",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133186.1",
+          "chromosome": "11",
+          "family": "CL1",
+          "start0": "15715183",
+          "end0": "17227514",
+          "span_bp": "1512331",
+          "supported_bp": "1496385",
+          "interruption_bp": "15946",
+          "support_fraction": "0.9894560119444751",
+          "source_records": "3",
+          "supported_tracts": "3",
+          "N_bp": "0",
+          "non_ACGT_bp": "277",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "15515183",
+          "plot_end0": "17427514",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "12",
+      "stem": "grouped_panels/S4_chr12",
+      "figures": [
+        "S4.24"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133187.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133187.1",
+          "chromosome": "12",
+          "family": "CL1",
+          "start0": "14897691",
+          "end0": "16027841",
+          "span_bp": "1130150",
+          "supported_bp": "1095195",
+          "interruption_bp": "34955",
+          "support_fraction": "0.9690704773702605",
+          "source_records": "14",
+          "supported_tracts": "14",
+          "N_bp": "0",
+          "non_ACGT_bp": "1",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "14697691",
+          "plot_end0": "16227841",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "13",
+      "stem": "grouped_panels/S4_chr13",
+      "figures": [
+        "S4.25",
+        "S4.26"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133188.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133188.1",
+          "chromosome": "13",
+          "family": "CL1",
+          "start0": "15964971",
+          "end0": "17547349",
+          "span_bp": "1582378",
+          "supported_bp": "1532285",
+          "interruption_bp": "50093",
+          "support_fraction": "0.968343215085144",
+          "source_records": "14",
+          "supported_tracts": "14",
+          "N_bp": "0",
+          "non_ACGT_bp": "199",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "15764971",
+          "plot_end0": "17747349",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133188.1.CL2.R002",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133188.1",
+          "chromosome": "13",
+          "family": "CL2",
+          "start0": "21087215",
+          "end0": "22308340",
+          "span_bp": "1221125",
+          "supported_bp": "1168635",
+          "interruption_bp": "52490",
+          "support_fraction": "0.9570150475995496",
+          "source_records": "11",
+          "supported_tracts": "11",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "20887215",
+          "plot_end0": "22508340",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "14",
+      "stem": "grouped_panels/S4_chr14",
+      "figures": [
+        "S4.27",
+        "S4.28"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133189.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133189.1",
+          "chromosome": "14",
+          "family": "CL1",
+          "start0": "14520712",
+          "end0": "16185600",
+          "span_bp": "1664888",
+          "supported_bp": "1640465",
+          "interruption_bp": "24423",
+          "support_fraction": "0.985330544757365",
+          "source_records": "5",
+          "supported_tracts": "5",
+          "N_bp": "0",
+          "non_ACGT_bp": "48",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "14320712",
+          "plot_end0": "16385600",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133189.1.CL2.R003",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133189.1",
+          "chromosome": "14",
+          "family": "CL2",
+          "start0": "22519151",
+          "end0": "24359569",
+          "span_bp": "1840418",
+          "supported_bp": "1828358",
+          "interruption_bp": "12060",
+          "support_fraction": "0.9934471408125762",
+          "source_records": "7",
+          "supported_tracts": "7",
+          "N_bp": "0",
+          "non_ACGT_bp": "37",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "22319151",
+          "plot_end0": "24559569",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "15",
+      "stem": "grouped_panels/S4_chr15",
+      "figures": [
+        "S4.29",
+        "S4.30",
+        "S4.31"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133190.1.CL2.R002",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133190.1",
+          "chromosome": "15",
+          "family": "CL2",
+          "start0": "7718911",
+          "end0": "8404659",
+          "span_bp": "685748",
+          "supported_bp": "685537",
+          "interruption_bp": "211",
+          "support_fraction": "0.9996923067949159",
+          "source_records": "2",
+          "supported_tracts": "2",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "7518911",
+          "plot_end0": "8604659",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133190.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133190.1",
+          "chromosome": "15",
+          "family": "CL1",
+          "start0": "12785196",
+          "end0": "13538589",
+          "span_bp": "753393",
+          "supported_bp": "743448",
+          "interruption_bp": "9945",
+          "support_fraction": "0.9867997180754268",
+          "source_records": "3",
+          "supported_tracts": "3",
+          "N_bp": "0",
+          "non_ACGT_bp": "76",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "12585196",
+          "plot_end0": "13738589",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133190.1.CL2.R003",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133190.1",
+          "chromosome": "15",
+          "family": "CL2",
+          "start0": "16793317",
+          "end0": "17218743",
+          "span_bp": "425426",
+          "supported_bp": "419061",
+          "interruption_bp": "6365",
+          "support_fraction": "0.9850385260891436",
+          "source_records": "5",
+          "supported_tracts": "5",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "16593317",
+          "plot_end0": "17418743",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "16",
+      "stem": "grouped_panels/S4_chr16",
+      "figures": [
+        "S4.32",
+        "S4.33"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133191.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133191.1",
+          "chromosome": "16",
+          "family": "CL1",
+          "start0": "18243043",
+          "end0": "19682702",
+          "span_bp": "1439659",
+          "supported_bp": "1393239",
+          "interruption_bp": "46420",
+          "support_fraction": "0.9677562533905598",
+          "source_records": "9",
+          "supported_tracts": "9",
+          "N_bp": "0",
+          "non_ACGT_bp": "34",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "18043043",
+          "plot_end0": "19882702",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133191.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133191.1",
+          "chromosome": "16",
+          "family": "CL2",
+          "start0": "27218685",
+          "end0": "29072757",
+          "span_bp": "1854072",
+          "supported_bp": "1822387",
+          "interruption_bp": "31685",
+          "support_fraction": "0.9829105881540738",
+          "source_records": "8",
+          "supported_tracts": "8",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "27018685",
+          "plot_end0": "29272757",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "17",
+      "stem": "grouped_panels/S4_chr17",
+      "figures": [
+        "S4.34",
+        "S4.35",
+        "S4.36"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133192.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133192.1",
+          "chromosome": "17",
+          "family": "CL2",
+          "start0": "41903187",
+          "end0": "43273081",
+          "span_bp": "1369894",
+          "supported_bp": "1356952",
+          "interruption_bp": "12942",
+          "support_fraction": "0.9905525537012353",
+          "source_records": "10",
+          "supported_tracts": "10",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "41703187",
+          "plot_end0": "43473081",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133192.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133192.1",
+          "chromosome": "17",
+          "family": "CL1",
+          "start0": "46265919",
+          "end0": "47897152",
+          "span_bp": "1631233",
+          "supported_bp": "1561246",
+          "interruption_bp": "69987",
+          "support_fraction": "0.957095644828176",
+          "source_records": "13",
+          "supported_tracts": "13",
+          "N_bp": "0",
+          "non_ACGT_bp": "91",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "46065919",
+          "plot_end0": "48097152",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133192.1.CL2.R003",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133192.1",
+          "chromosome": "17",
+          "family": "CL2",
+          "start0": "51464965",
+          "end0": "52968631",
+          "span_bp": "1503666",
+          "supported_bp": "1503666",
+          "interruption_bp": "0",
+          "support_fraction": "1.0",
+          "source_records": "1",
+          "supported_tracts": "1",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "51264965",
+          "plot_end0": "53168631",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "18",
+      "stem": "grouped_panels/S4_chr18",
+      "figures": [
+        "S4.37"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133193.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133193.1",
+          "chromosome": "18",
+          "family": "CL1",
+          "start0": "33169978",
+          "end0": "34467059",
+          "span_bp": "1297081",
+          "supported_bp": "1275136",
+          "interruption_bp": "21945",
+          "support_fraction": "0.9830812416495192",
+          "source_records": "4",
+          "supported_tracts": "4",
+          "N_bp": "0",
+          "non_ACGT_bp": "165",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "32969978",
+          "plot_end0": "34667059",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "19",
+      "stem": "grouped_panels/S4_chr19",
+      "figures": [
+        "S4.38"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133194.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133194.1",
+          "chromosome": "19",
+          "family": "CL1",
+          "start0": "19384418",
+          "end0": "20531860",
+          "span_bp": "1147442",
+          "supported_bp": "1112877",
+          "interruption_bp": "34565",
+          "support_fraction": "0.9698764730592048",
+          "source_records": "8",
+          "supported_tracts": "8",
+          "N_bp": "0",
+          "non_ACGT_bp": "224",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "19184418",
+          "plot_end0": "20731860",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "20",
+      "stem": "grouped_panels/S4_chr20",
+      "figures": [
+        "S4.39",
+        "S4.40"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133195.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133195.1",
+          "chromosome": "20",
+          "family": "CL1",
+          "start0": "13011848",
+          "end0": "14061166",
+          "span_bp": "1049318",
+          "supported_bp": "1030781",
+          "interruption_bp": "18537",
+          "support_fraction": "0.9823342399539511",
+          "source_records": "6",
+          "supported_tracts": "6",
+          "N_bp": "0",
+          "non_ACGT_bp": "87",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "12811848",
+          "plot_end0": "14261166",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133195.1.CL2.R002",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133195.1",
+          "chromosome": "20",
+          "family": "CL2",
+          "start0": "18205511",
+          "end0": "19499607",
+          "span_bp": "1294096",
+          "supported_bp": "1278642",
+          "interruption_bp": "15454",
+          "support_fraction": "0.9880580729714025",
+          "source_records": "3",
+          "supported_tracts": "3",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "18005511",
+          "plot_end0": "19699607",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "21",
+      "stem": "grouped_panels/S4_chr21",
+      "figures": [
+        "S4.41",
+        "S4.42"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133196.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133196.1",
+          "chromosome": "21",
+          "family": "CL2",
+          "start0": "27286516",
+          "end0": "28930567",
+          "span_bp": "1644051",
+          "supported_bp": "1609904",
+          "interruption_bp": "34147",
+          "support_fraction": "0.9792299630607566",
+          "source_records": "6",
+          "supported_tracts": "6",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "27086516",
+          "plot_end0": "29130567",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133196.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133196.1",
+          "chromosome": "21",
+          "family": "CL1",
+          "start0": "36151920",
+          "end0": "37040381",
+          "span_bp": "888461",
+          "supported_bp": "862244",
+          "interruption_bp": "26217",
+          "support_fraction": "0.9704916704278522",
+          "source_records": "9",
+          "supported_tracts": "9",
+          "N_bp": "0",
+          "non_ACGT_bp": "75",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "35951920",
+          "plot_end0": "37240381",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "22",
+      "stem": "grouped_panels/S4_chr22",
+      "figures": [
+        "S4.43",
+        "S4.44"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133197.1.CL2.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133197.1",
+          "chromosome": "22",
+          "family": "CL2",
+          "start0": "24334140",
+          "end0": "25328943",
+          "span_bp": "994803",
+          "supported_bp": "989724",
+          "interruption_bp": "5079",
+          "support_fraction": "0.994894466542622",
+          "source_records": "5",
+          "supported_tracts": "5",
+          "N_bp": "0",
+          "non_ACGT_bp": "0",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "24134140",
+          "plot_end0": "25528943",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133197.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133197.1",
+          "chromosome": "22",
+          "family": "CL1",
+          "start0": "28520593",
+          "end0": "29578466",
+          "span_bp": "1057873",
+          "supported_bp": "1032157",
+          "interruption_bp": "25716",
+          "support_fraction": "0.9756908437969397",
+          "source_records": "6",
+          "supported_tracts": "6",
+          "N_bp": "0",
+          "non_ACGT_bp": "129",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "28320593",
+          "plot_end0": "29778466",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "23",
+      "stem": "grouped_panels/S4_chr23",
+      "figures": [
+        "S4.45",
+        "S4.46"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133198.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133198.1",
+          "chromosome": "23",
+          "family": "CL1",
+          "start0": "12732857",
+          "end0": "14200311",
+          "span_bp": "1467454",
+          "supported_bp": "1452659",
+          "interruption_bp": "14795",
+          "support_fraction": "0.989917912248016",
+          "source_records": "7",
+          "supported_tracts": "7",
+          "N_bp": "0",
+          "non_ACGT_bp": "176",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "12532857",
+          "plot_end0": "14400311",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133198.1.CL2.R003",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133198.1",
+          "chromosome": "23",
+          "family": "CL2",
+          "start0": "17518362",
+          "end0": "18927089",
+          "span_bp": "1408727",
+          "supported_bp": "1408219",
+          "interruption_bp": "508",
+          "support_fraction": "0.9996393907407184",
+          "source_records": "3",
+          "supported_tracts": "3",
+          "N_bp": "0",
+          "non_ACGT_bp": "1",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "17318362",
+          "plot_end0": "19127089",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "24",
+      "stem": "grouped_panels/S4_chr24",
+      "figures": [
+        "S4.47",
+        "S4.48"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133199.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133199.1",
+          "chromosome": "24",
+          "family": "CL1",
+          "start0": "12692953",
+          "end0": "13987188",
+          "span_bp": "1294235",
+          "supported_bp": "1273723",
+          "interruption_bp": "20512",
+          "support_fraction": "0.9841512553747966",
+          "source_records": "10",
+          "supported_tracts": "10",
+          "N_bp": "0",
+          "non_ACGT_bp": "1421",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "12492953",
+          "plot_end0": "14187188",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        },
+        {
+          "array_id": "TU.NC_133199.1.CL2.R002",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133199.1",
+          "chromosome": "24",
+          "family": "CL2",
+          "start0": "17707734",
+          "end0": "20149706",
+          "span_bp": "2441972",
+          "supported_bp": "2415089",
+          "interruption_bp": "26883",
+          "support_fraction": "0.988991274265225",
+          "source_records": "10",
+          "supported_tracts": "10",
+          "N_bp": "0",
+          "non_ACGT_bp": "1",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "17507734",
+          "plot_end0": "20349706",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    },
+    {
+      "group": "S4",
+      "chromosome": "25",
+      "stem": "grouped_panels/S4_chr25",
+      "figures": [
+        "S4.49"
+      ],
+      "regions": [
+        {
+          "array_id": "TU.NC_133200.1.CL1.R001",
+          "species": "TU",
+          "assembly": "GCF_049306965.1",
+          "seqid": "NC_133200.1",
+          "chromosome": "25",
+          "family": "CL1",
+          "start0": "27296923",
+          "end0": "28761108",
+          "span_bp": "1464185",
+          "supported_bp": "1428116",
+          "interruption_bp": "36069",
+          "support_fraction": "0.9753658178440566",
+          "source_records": "9",
+          "supported_tracts": "9",
+          "N_bp": "0",
+          "non_ACGT_bp": "4",
+          "qualifies_large": "True",
+          "minimum_supported_bp": "50000",
+          "maximum_interruption_bp": "25000",
+          "plot_start0": "27096923",
+          "plot_end0": "28961108",
+          "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+          "census_scope": "complete TU source catalogue"
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "array_id": "TU.NC_133176.1.CL1.R001",
+      "matrix_cells": 62381,
+      "shared_limits0": [
+        30034671,
+        32201209
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 218,
+          "displayed_bins": 103,
+          "line_segments": 91,
+          "observed_CpGs": 11959,
+          "valid_observations": 103657
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 218,
+          "displayed_bins": 106,
+          "line_segments": 92,
+          "observed_CpGs": 12246,
+          "valid_observations": 122406
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 218,
+          "displayed_bins": 121,
+          "line_segments": 108,
+          "observed_CpGs": 12655,
+          "valid_observations": 62282
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 218,
+          "displayed_bins": 50,
+          "line_segments": 47,
+          "observed_CpGs": 8586,
+          "valid_observations": 95186
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 218,
+          "displayed_bins": 107,
+          "line_segments": 94,
+          "observed_CpGs": 12174,
+          "valid_observations": 114376
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 218,
+          "displayed_bins": 96,
+          "line_segments": 84,
+          "observed_CpGs": 11835,
+          "valid_observations": 85849
+        }
+      ],
+      "figure": "S4.1",
+      "array": {
+        "array_id": "TU.NC_133176.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133176.1",
+        "chromosome": "1",
+        "family": "CL1",
+        "start0": "30234671",
+        "end0": "32001209",
+        "span_bp": "1766538",
+        "supported_bp": "1732177",
+        "interruption_bp": "34361",
+        "support_fraction": "0.9805489607356309",
+        "source_records": "5",
+        "supported_tracts": "5",
+        "N_bp": "0",
+        "non_ACGT_bp": "676",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "30034671",
+        "plot_end0": "32201209",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133177.1.CL1.R001",
+      "matrix_cells": 33963,
+      "shared_limits0": [
+        14102635,
+        15794196
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 170,
+          "displayed_bins": 72,
+          "line_segments": 62,
+          "observed_CpGs": 10807,
+          "valid_observations": 87707
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 170,
+          "displayed_bins": 74,
+          "line_segments": 68,
+          "observed_CpGs": 11862,
+          "valid_observations": 123262
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 170,
+          "displayed_bins": 78,
+          "line_segments": 69,
+          "observed_CpGs": 11517,
+          "valid_observations": 82497
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 170,
+          "displayed_bins": 80,
+          "line_segments": 72,
+          "observed_CpGs": 11557,
+          "valid_observations": 121732
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 170,
+          "displayed_bins": 78,
+          "line_segments": 70,
+          "observed_CpGs": 11685,
+          "valid_observations": 106676
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 170,
+          "displayed_bins": 73,
+          "line_segments": 63,
+          "observed_CpGs": 11129,
+          "valid_observations": 81707
+        }
+      ],
+      "figure": "S4.2",
+      "array": {
+        "array_id": "TU.NC_133177.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133177.1",
+        "chromosome": "2",
+        "family": "CL1",
+        "start0": "14302635",
+        "end0": "15594196",
+        "span_bp": "1291561",
+        "supported_bp": "1270891",
+        "interruption_bp": "20670",
+        "support_fraction": "0.9839961101333967",
+        "source_records": "4",
+        "supported_tracts": "4",
+        "N_bp": "0",
+        "non_ACGT_bp": "126",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "14102635",
+        "plot_end0": "15794196",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133177.1.CL2.R001",
+      "matrix_cells": 9643,
+      "shared_limits0": [
+        21639584,
+        22717546
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 109,
+          "displayed_bins": 88,
+          "line_segments": 83,
+          "observed_CpGs": 8582,
+          "valid_observations": 71219
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 109,
+          "displayed_bins": 82,
+          "line_segments": 76,
+          "observed_CpGs": 8535,
+          "valid_observations": 93699
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 109,
+          "displayed_bins": 48,
+          "line_segments": 44,
+          "observed_CpGs": 6254,
+          "valid_observations": 48545
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 109,
+          "displayed_bins": 49,
+          "line_segments": 46,
+          "observed_CpGs": 6386,
+          "valid_observations": 79718
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 109,
+          "displayed_bins": 51,
+          "line_segments": 48,
+          "observed_CpGs": 6576,
+          "valid_observations": 67544
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 109,
+          "displayed_bins": 78,
+          "line_segments": 69,
+          "observed_CpGs": 8364,
+          "valid_observations": 68459
+        }
+      ],
+      "figure": "S4.3",
+      "array": {
+        "array_id": "TU.NC_133177.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133177.1",
+        "chromosome": "2",
+        "family": "CL2",
+        "start0": "21839584",
+        "end0": "22517546",
+        "span_bp": "677962",
+        "supported_bp": "672980",
+        "interruption_bp": "4982",
+        "support_fraction": "0.9926515055416085",
+        "source_records": "2",
+        "supported_tracts": "2",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "21639584",
+        "plot_end0": "22717546",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133178.1.CL2.R001",
+      "matrix_cells": 73153,
+      "shared_limits0": [
+        45870553,
+        48188672
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 232,
+          "displayed_bins": 44,
+          "line_segments": 40,
+          "observed_CpGs": 6033,
+          "valid_observations": 59209
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 232,
+          "displayed_bins": 232,
+          "line_segments": 231,
+          "observed_CpGs": 16407,
+          "valid_observations": 210677
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 232,
+          "displayed_bins": 222,
+          "line_segments": 217,
+          "observed_CpGs": 15708,
+          "valid_observations": 99277
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 232,
+          "displayed_bins": 226,
+          "line_segments": 222,
+          "observed_CpGs": 15986,
+          "valid_observations": 158131
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 232,
+          "displayed_bins": 230,
+          "line_segments": 228,
+          "observed_CpGs": 16339,
+          "valid_observations": 151972
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 232,
+          "displayed_bins": 227,
+          "line_segments": 223,
+          "observed_CpGs": 16070,
+          "valid_observations": 164782
+        }
+      ],
+      "figure": "S4.4",
+      "array": {
+        "array_id": "TU.NC_133178.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133178.1",
+        "chromosome": "3",
+        "family": "CL2",
+        "start0": "46070553",
+        "end0": "47988672",
+        "span_bp": "1918119",
+        "supported_bp": "1879148",
+        "interruption_bp": "38971",
+        "support_fraction": "0.9796826995613932",
+        "source_records": "7",
+        "supported_tracts": "7",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "45870553",
+        "plot_end0": "48188672",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133178.1.CL1.R001",
+      "matrix_cells": 36170,
+      "shared_limits0": [
+        51766346,
+        53495232
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 174,
+          "displayed_bins": 41,
+          "line_segments": 37,
+          "observed_CpGs": 7155,
+          "valid_observations": 66269
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 174,
+          "displayed_bins": 67,
+          "line_segments": 55,
+          "observed_CpGs": 8831,
+          "valid_observations": 104155
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 174,
+          "displayed_bins": 57,
+          "line_segments": 49,
+          "observed_CpGs": 8862,
+          "valid_observations": 65970
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 174,
+          "displayed_bins": 71,
+          "line_segments": 59,
+          "observed_CpGs": 9168,
+          "valid_observations": 92679
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 174,
+          "displayed_bins": 62,
+          "line_segments": 53,
+          "observed_CpGs": 9093,
+          "valid_observations": 78100
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 174,
+          "displayed_bins": 68,
+          "line_segments": 55,
+          "observed_CpGs": 8849,
+          "valid_observations": 66684
+        }
+      ],
+      "figure": "S4.5",
+      "array": {
+        "array_id": "TU.NC_133178.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133178.1",
+        "chromosome": "3",
+        "family": "CL1",
+        "start0": "51966346",
+        "end0": "53295232",
+        "span_bp": "1328886",
+        "supported_bp": "1317833",
+        "interruption_bp": "11053",
+        "support_fraction": "0.9916825070021055",
+        "source_records": "3",
+        "supported_tracts": "3",
+        "N_bp": "0",
+        "non_ACGT_bp": "363",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "51766346",
+        "plot_end0": "53495232",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133178.1.CL2.R003",
+      "matrix_cells": 29829,
+      "shared_limits0": [
+        57695706,
+        59305148
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 162,
+          "displayed_bins": 55,
+          "line_segments": 50,
+          "observed_CpGs": 6175,
+          "valid_observations": 55219
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 162,
+          "displayed_bins": 118,
+          "line_segments": 114,
+          "observed_CpGs": 9640,
+          "valid_observations": 111778
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 162,
+          "displayed_bins": 114,
+          "line_segments": 111,
+          "observed_CpGs": 9623,
+          "valid_observations": 54013
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 162,
+          "displayed_bins": 110,
+          "line_segments": 105,
+          "observed_CpGs": 9631,
+          "valid_observations": 95481
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 162,
+          "displayed_bins": 111,
+          "line_segments": 106,
+          "observed_CpGs": 9576,
+          "valid_observations": 83510
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 162,
+          "displayed_bins": 115,
+          "line_segments": 110,
+          "observed_CpGs": 9698,
+          "valid_observations": 69261
+        }
+      ],
+      "figure": "S4.6",
+      "array": {
+        "array_id": "TU.NC_133178.1.CL2.R003",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133178.1",
+        "chromosome": "3",
+        "family": "CL2",
+        "start0": "57895706",
+        "end0": "59105148",
+        "span_bp": "1209442",
+        "supported_bp": "1209442",
+        "interruption_bp": "0",
+        "support_fraction": "1.0",
+        "source_records": "1",
+        "supported_tracts": "1",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "57695706",
+        "plot_end0": "59305148",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133179.1.CL1.R001",
+      "matrix_cells": 26439,
+      "shared_limits0": [
+        27338034,
+        28900043
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 158,
+          "displayed_bins": 51,
+          "line_segments": 49,
+          "observed_CpGs": 9974,
+          "valid_observations": 113339
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 158,
+          "displayed_bins": 52,
+          "line_segments": 49,
+          "observed_CpGs": 10219,
+          "valid_observations": 136321
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 158,
+          "displayed_bins": 52,
+          "line_segments": 49,
+          "observed_CpGs": 10217,
+          "valid_observations": 98183
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 158,
+          "displayed_bins": 52,
+          "line_segments": 49,
+          "observed_CpGs": 9750,
+          "valid_observations": 134879
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 158,
+          "displayed_bins": 52,
+          "line_segments": 49,
+          "observed_CpGs": 9932,
+          "valid_observations": 129529
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 158,
+          "displayed_bins": 54,
+          "line_segments": 50,
+          "observed_CpGs": 10037,
+          "valid_observations": 94147
+        }
+      ],
+      "figure": "S4.7",
+      "array": {
+        "array_id": "TU.NC_133179.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133179.1",
+        "chromosome": "4",
+        "family": "CL1",
+        "start0": "27538034",
+        "end0": "28700043",
+        "span_bp": "1162009",
+        "supported_bp": "1079109",
+        "interruption_bp": "82900",
+        "support_fraction": "0.9286580396537376",
+        "source_records": "10",
+        "supported_tracts": "10",
+        "N_bp": "0",
+        "non_ACGT_bp": "22",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "27338034",
+        "plot_end0": "28900043",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133179.1.CL2.R001",
+      "matrix_cells": 15344,
+      "shared_limits0": [
+        30154828,
+        31409666
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 126,
+          "displayed_bins": 36,
+          "line_segments": 30,
+          "observed_CpGs": 3736,
+          "valid_observations": 30036
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 126,
+          "displayed_bins": 34,
+          "line_segments": 30,
+          "observed_CpGs": 4033,
+          "valid_observations": 41199
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 126,
+          "displayed_bins": 31,
+          "line_segments": 28,
+          "observed_CpGs": 3946,
+          "valid_observations": 26992
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 126,
+          "displayed_bins": 32,
+          "line_segments": 28,
+          "observed_CpGs": 3461,
+          "valid_observations": 38179
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 126,
+          "displayed_bins": 34,
+          "line_segments": 29,
+          "observed_CpGs": 3657,
+          "valid_observations": 37963
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 126,
+          "displayed_bins": 31,
+          "line_segments": 28,
+          "observed_CpGs": 3556,
+          "valid_observations": 26906
+        }
+      ],
+      "figure": "S4.8",
+      "array": {
+        "array_id": "TU.NC_133179.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133179.1",
+        "chromosome": "4",
+        "family": "CL2",
+        "start0": "30354828",
+        "end0": "31209666",
+        "span_bp": "854838",
+        "supported_bp": "854693",
+        "interruption_bp": "145",
+        "support_fraction": "0.9998303772176717",
+        "source_records": "5",
+        "supported_tracts": "5",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "30154828",
+        "plot_end0": "31409666",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133180.1.CL2.R001",
+      "matrix_cells": 183532,
+      "shared_limits0": [
+        48638679,
+        52060575
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 344,
+          "displayed_bins": 41,
+          "line_segments": 39,
+          "observed_CpGs": 5468,
+          "valid_observations": 43287
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 344,
+          "displayed_bins": 41,
+          "line_segments": 39,
+          "observed_CpGs": 5638,
+          "valid_observations": 52871
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 344,
+          "displayed_bins": 47,
+          "line_segments": 45,
+          "observed_CpGs": 7041,
+          "valid_observations": 50426
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 344,
+          "displayed_bins": 41,
+          "line_segments": 38,
+          "observed_CpGs": 5549,
+          "valid_observations": 53663
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 344,
+          "displayed_bins": 40,
+          "line_segments": 37,
+          "observed_CpGs": 5544,
+          "valid_observations": 51392
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 344,
+          "displayed_bins": 41,
+          "line_segments": 39,
+          "observed_CpGs": 5385,
+          "valid_observations": 38185
+        }
+      ],
+      "figure": "S4.9",
+      "array": {
+        "array_id": "TU.NC_133180.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133180.1",
+        "chromosome": "5",
+        "family": "CL2",
+        "start0": "48838679",
+        "end0": "51860575",
+        "span_bp": "3021896",
+        "supported_bp": "3021896",
+        "interruption_bp": "0",
+        "support_fraction": "1.0",
+        "source_records": "1",
+        "supported_tracts": "1",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "48638679",
+        "plot_end0": "52060575",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133180.1.CL1.R001",
+      "matrix_cells": 39607,
+      "shared_limits0": [
+        57220936,
+        59015287
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 180,
+          "displayed_bins": 39,
+          "line_segments": 32,
+          "observed_CpGs": 4049,
+          "valid_observations": 18392
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 180,
+          "displayed_bins": 39,
+          "line_segments": 32,
+          "observed_CpGs": 4099,
+          "valid_observations": 19789
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 180,
+          "displayed_bins": 34,
+          "line_segments": 25,
+          "observed_CpGs": 3562,
+          "valid_observations": 9413
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 180,
+          "displayed_bins": 35,
+          "line_segments": 30,
+          "observed_CpGs": 3618,
+          "valid_observations": 16720
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 180,
+          "displayed_bins": 36,
+          "line_segments": 28,
+          "observed_CpGs": 3913,
+          "valid_observations": 17211
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 180,
+          "displayed_bins": 35,
+          "line_segments": 28,
+          "observed_CpGs": 3935,
+          "valid_observations": 15487
+        }
+      ],
+      "figure": "S4.10",
+      "array": {
+        "array_id": "TU.NC_133180.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133180.1",
+        "chromosome": "5",
+        "family": "CL1",
+        "start0": "57420936",
+        "end0": "58815287",
+        "span_bp": "1394351",
+        "supported_bp": "1390026",
+        "interruption_bp": "4325",
+        "support_fraction": "0.9968981985167293",
+        "source_records": "4",
+        "supported_tracts": "4",
+        "N_bp": "0",
+        "non_ACGT_bp": "6",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "57220936",
+        "plot_end0": "59015287",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133180.1.CL2.R002",
+      "matrix_cells": 8185,
+      "shared_limits0": [
+        63684140,
+        64711148
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 104,
+          "displayed_bins": 43,
+          "line_segments": 41,
+          "observed_CpGs": 4559,
+          "valid_observations": 35017
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 104,
+          "displayed_bins": 43,
+          "line_segments": 41,
+          "observed_CpGs": 4572,
+          "valid_observations": 45151
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 104,
+          "displayed_bins": 50,
+          "line_segments": 44,
+          "observed_CpGs": 5724,
+          "valid_observations": 30963
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 104,
+          "displayed_bins": 43,
+          "line_segments": 41,
+          "observed_CpGs": 4531,
+          "valid_observations": 40930
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 104,
+          "displayed_bins": 43,
+          "line_segments": 41,
+          "observed_CpGs": 4516,
+          "valid_observations": 41314
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 104,
+          "displayed_bins": 43,
+          "line_segments": 41,
+          "observed_CpGs": 4550,
+          "valid_observations": 31381
+        }
+      ],
+      "figure": "S4.11",
+      "array": {
+        "array_id": "TU.NC_133180.1.CL2.R002",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133180.1",
+        "chromosome": "5",
+        "family": "CL2",
+        "start0": "63884140",
+        "end0": "64511148",
+        "span_bp": "627008",
+        "supported_bp": "626110",
+        "interruption_bp": "898",
+        "support_fraction": "0.9985678013677657",
+        "source_records": "4",
+        "supported_tracts": "4",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "63684140",
+        "plot_end0": "64711148",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133181.1.CL1.R001",
+      "matrix_cells": 27556,
+      "shared_limits0": [
+        22172978,
+        23736339
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 157,
+          "displayed_bins": 74,
+          "line_segments": 69,
+          "observed_CpGs": 10145,
+          "valid_observations": 110350
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 157,
+          "displayed_bins": 69,
+          "line_segments": 65,
+          "observed_CpGs": 9994,
+          "valid_observations": 129768
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 157,
+          "displayed_bins": 72,
+          "line_segments": 69,
+          "observed_CpGs": 10129,
+          "valid_observations": 88202
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 157,
+          "displayed_bins": 64,
+          "line_segments": 61,
+          "observed_CpGs": 9354,
+          "valid_observations": 138816
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 157,
+          "displayed_bins": 74,
+          "line_segments": 70,
+          "observed_CpGs": 10258,
+          "valid_observations": 128889
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 157,
+          "displayed_bins": 68,
+          "line_segments": 63,
+          "observed_CpGs": 9734,
+          "valid_observations": 99239
+        }
+      ],
+      "figure": "S4.12",
+      "array": {
+        "array_id": "TU.NC_133181.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133181.1",
+        "chromosome": "6",
+        "family": "CL1",
+        "start0": "22372978",
+        "end0": "23536339",
+        "span_bp": "1163361",
+        "supported_bp": "1153819",
+        "interruption_bp": "9542",
+        "support_fraction": "0.9917979028005924",
+        "source_records": "2",
+        "supported_tracts": "2",
+        "N_bp": "0",
+        "non_ACGT_bp": "88",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "22172978",
+        "plot_end0": "23736339",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133182.1.CL2.R001",
+      "matrix_cells": 17840,
+      "shared_limits0": [
+        46285713,
+        47595845
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 132,
+          "displayed_bins": 17,
+          "line_segments": 16,
+          "observed_CpGs": 1431,
+          "valid_observations": 13261
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 132,
+          "displayed_bins": 129,
+          "line_segments": 125,
+          "observed_CpGs": 6278,
+          "valid_observations": 87239
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 132,
+          "displayed_bins": 130,
+          "line_segments": 127,
+          "observed_CpGs": 6345,
+          "valid_observations": 68829
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 132,
+          "displayed_bins": 126,
+          "line_segments": 121,
+          "observed_CpGs": 6145,
+          "valid_observations": 50224
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 132,
+          "displayed_bins": 19,
+          "line_segments": 17,
+          "observed_CpGs": 1447,
+          "valid_observations": 14227
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 132,
+          "displayed_bins": 130,
+          "line_segments": 127,
+          "observed_CpGs": 6314,
+          "valid_observations": 60958
+        }
+      ],
+      "figure": "S4.13",
+      "array": {
+        "array_id": "TU.NC_133182.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133182.1",
+        "chromosome": "7",
+        "family": "CL2",
+        "start0": "46485713",
+        "end0": "47395845",
+        "span_bp": "910132",
+        "supported_bp": "910100",
+        "interruption_bp": "32",
+        "support_fraction": "0.9999648402649286",
+        "source_records": "2",
+        "supported_tracts": "2",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "46285713",
+        "plot_end0": "47595845",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133182.1.CL2.R003",
+      "matrix_cells": 42066,
+      "shared_limits0": [
+        54417834,
+        56264997
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 186,
+          "displayed_bins": 50,
+          "line_segments": 43,
+          "observed_CpGs": 5515,
+          "valid_observations": 49568
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 186,
+          "displayed_bins": 48,
+          "line_segments": 40,
+          "observed_CpGs": 5542,
+          "valid_observations": 63349
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 186,
+          "displayed_bins": 46,
+          "line_segments": 40,
+          "observed_CpGs": 5338,
+          "valid_observations": 33409
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 186,
+          "displayed_bins": 47,
+          "line_segments": 41,
+          "observed_CpGs": 5465,
+          "valid_observations": 61531
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 186,
+          "displayed_bins": 49,
+          "line_segments": 42,
+          "observed_CpGs": 5500,
+          "valid_observations": 55555
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 186,
+          "displayed_bins": 49,
+          "line_segments": 40,
+          "observed_CpGs": 5468,
+          "valid_observations": 40792
+        }
+      ],
+      "figure": "S4.14",
+      "array": {
+        "array_id": "TU.NC_133182.1.CL2.R003",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133182.1",
+        "chromosome": "7",
+        "family": "CL2",
+        "start0": "54617834",
+        "end0": "56064997",
+        "span_bp": "1447163",
+        "supported_bp": "1430036",
+        "interruption_bp": "17127",
+        "support_fraction": "0.9881651203078022",
+        "source_records": "16",
+        "supported_tracts": "16",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "54417834",
+        "plot_end0": "56264997",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133182.1.CL1.R002",
+      "matrix_cells": 46220,
+      "shared_limits0": [
+        60408710,
+        62322784
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 193,
+          "displayed_bins": 105,
+          "line_segments": 99,
+          "observed_CpGs": 11290,
+          "valid_observations": 92236
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 193,
+          "displayed_bins": 107,
+          "line_segments": 100,
+          "observed_CpGs": 11337,
+          "valid_observations": 112031
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 193,
+          "displayed_bins": 103,
+          "line_segments": 95,
+          "observed_CpGs": 10884,
+          "valid_observations": 73181
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 193,
+          "displayed_bins": 103,
+          "line_segments": 95,
+          "observed_CpGs": 11357,
+          "valid_observations": 122859
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 193,
+          "displayed_bins": 105,
+          "line_segments": 99,
+          "observed_CpGs": 11384,
+          "valid_observations": 126558
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 193,
+          "displayed_bins": 98,
+          "line_segments": 90,
+          "observed_CpGs": 10612,
+          "valid_observations": 80400
+        }
+      ],
+      "figure": "S4.15",
+      "array": {
+        "array_id": "TU.NC_133182.1.CL1.R002",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133182.1",
+        "chromosome": "7",
+        "family": "CL1",
+        "start0": "60608710",
+        "end0": "62122784",
+        "span_bp": "1514074",
+        "supported_bp": "1463053",
+        "interruption_bp": "51021",
+        "support_fraction": "0.9663021754550967",
+        "source_records": "8",
+        "supported_tracts": "8",
+        "N_bp": "0",
+        "non_ACGT_bp": "149",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "60408710",
+        "plot_end0": "62322784",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133182.1.CL2.R004",
+      "matrix_cells": 1560,
+      "shared_limits0": [
+        67545296,
+        68202311
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 67,
+          "displayed_bins": 45,
+          "line_segments": 41,
+          "observed_CpGs": 4699,
+          "valid_observations": 45024
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 67,
+          "displayed_bins": 46,
+          "line_segments": 41,
+          "observed_CpGs": 4882,
+          "valid_observations": 49715
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 67,
+          "displayed_bins": 46,
+          "line_segments": 43,
+          "observed_CpGs": 4764,
+          "valid_observations": 23608
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 67,
+          "displayed_bins": 46,
+          "line_segments": 41,
+          "observed_CpGs": 4808,
+          "valid_observations": 49648
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 67,
+          "displayed_bins": 46,
+          "line_segments": 41,
+          "observed_CpGs": 4652,
+          "valid_observations": 47404
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 67,
+          "displayed_bins": 46,
+          "line_segments": 43,
+          "observed_CpGs": 4807,
+          "valid_observations": 36918
+        }
+      ],
+      "figure": "S4.16",
+      "array": {
+        "array_id": "TU.NC_133182.1.CL2.R004",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133182.1",
+        "chromosome": "7",
+        "family": "CL2",
+        "start0": "67745296",
+        "end0": "68002311",
+        "span_bp": "257015",
+        "supported_bp": "244412",
+        "interruption_bp": "12603",
+        "support_fraction": "0.9509639515203393",
+        "source_records": "13",
+        "supported_tracts": "13",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "67545296",
+        "plot_end0": "68202311",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133183.1.CL2.R003",
+      "matrix_cells": 59160,
+      "shared_limits0": [
+        40039861,
+        42143369
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 212,
+          "displayed_bins": 134,
+          "line_segments": 117,
+          "observed_CpGs": 5571,
+          "valid_observations": 36759
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 212,
+          "displayed_bins": 137,
+          "line_segments": 123,
+          "observed_CpGs": 5872,
+          "valid_observations": 41797
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 212,
+          "displayed_bins": 126,
+          "line_segments": 105,
+          "observed_CpGs": 5219,
+          "valid_observations": 28919
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 212,
+          "displayed_bins": 50,
+          "line_segments": 32,
+          "observed_CpGs": 3268,
+          "valid_observations": 22876
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 212,
+          "displayed_bins": 159,
+          "line_segments": 147,
+          "observed_CpGs": 6642,
+          "valid_observations": 61879
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 212,
+          "displayed_bins": 150,
+          "line_segments": 131,
+          "observed_CpGs": 6202,
+          "valid_observations": 47168
+        }
+      ],
+      "figure": "S4.17",
+      "array": {
+        "array_id": "TU.NC_133183.1.CL2.R003",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133183.1",
+        "chromosome": "8",
+        "family": "CL2",
+        "start0": "40239861",
+        "end0": "41943369",
+        "span_bp": "1703508",
+        "supported_bp": "1703508",
+        "interruption_bp": "0",
+        "support_fraction": "1.0",
+        "source_records": "1",
+        "supported_tracts": "1",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "40039861",
+        "plot_end0": "42143369",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133183.1.CL1.R002",
+      "matrix_cells": 43108,
+      "shared_limits0": [
+        46153496,
+        48036149
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 189,
+          "displayed_bins": 59,
+          "line_segments": 55,
+          "observed_CpGs": 9709,
+          "valid_observations": 114501
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 189,
+          "displayed_bins": 59,
+          "line_segments": 54,
+          "observed_CpGs": 9712,
+          "valid_observations": 130732
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 189,
+          "displayed_bins": 63,
+          "line_segments": 57,
+          "observed_CpGs": 9936,
+          "valid_observations": 71489
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 189,
+          "displayed_bins": 61,
+          "line_segments": 56,
+          "observed_CpGs": 9772,
+          "valid_observations": 124171
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 189,
+          "displayed_bins": 62,
+          "line_segments": 56,
+          "observed_CpGs": 9766,
+          "valid_observations": 124585
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 189,
+          "displayed_bins": 60,
+          "line_segments": 53,
+          "observed_CpGs": 9724,
+          "valid_observations": 95409
+        }
+      ],
+      "figure": "S4.18",
+      "array": {
+        "array_id": "TU.NC_133183.1.CL1.R002",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133183.1",
+        "chromosome": "8",
+        "family": "CL1",
+        "start0": "46353496",
+        "end0": "47836149",
+        "span_bp": "1482653",
+        "supported_bp": "1440278",
+        "interruption_bp": "42375",
+        "support_fraction": "0.9714194757640526",
+        "source_records": "7",
+        "supported_tracts": "7",
+        "N_bp": "0",
+        "non_ACGT_bp": "429",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "46153496",
+        "plot_end0": "48036149",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133183.1.CL2.R005",
+      "matrix_cells": 33288,
+      "shared_limits0": [
+        52613864,
+        54292751
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 169,
+          "displayed_bins": 167,
+          "line_segments": 165,
+          "observed_CpGs": 9729,
+          "valid_observations": 90554
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 169,
+          "displayed_bins": 164,
+          "line_segments": 160,
+          "observed_CpGs": 9647,
+          "valid_observations": 107916
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 169,
+          "displayed_bins": 48,
+          "line_segments": 44,
+          "observed_CpGs": 5872,
+          "valid_observations": 42145
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 169,
+          "displayed_bins": 169,
+          "line_segments": 168,
+          "observed_CpGs": 9733,
+          "valid_observations": 109237
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 169,
+          "displayed_bins": 169,
+          "line_segments": 168,
+          "observed_CpGs": 9760,
+          "valid_observations": 109016
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 169,
+          "displayed_bins": 169,
+          "line_segments": 168,
+          "observed_CpGs": 9734,
+          "valid_observations": 79954
+        }
+      ],
+      "figure": "S4.19",
+      "array": {
+        "array_id": "TU.NC_133183.1.CL2.R005",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133183.1",
+        "chromosome": "8",
+        "family": "CL2",
+        "start0": "52813864",
+        "end0": "54092751",
+        "span_bp": "1278887",
+        "supported_bp": "1278862",
+        "interruption_bp": "25",
+        "support_fraction": "0.9999804517521876",
+        "source_records": "3",
+        "supported_tracts": "3",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "52613864",
+        "plot_end0": "54292751",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133184.1.CL1.R001",
+      "matrix_cells": 36036,
+      "shared_limits0": [
+        15834259,
+        17576524
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 175,
+          "displayed_bins": 174,
+          "line_segments": 172,
+          "observed_CpGs": 17040,
+          "valid_observations": 141232
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 175,
+          "displayed_bins": 175,
+          "line_segments": 174,
+          "observed_CpGs": 17156,
+          "valid_observations": 182157
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 175,
+          "displayed_bins": 175,
+          "line_segments": 174,
+          "observed_CpGs": 17130,
+          "valid_observations": 132349
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 175,
+          "displayed_bins": 73,
+          "line_segments": 61,
+          "observed_CpGs": 10292,
+          "valid_observations": 132055
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 175,
+          "displayed_bins": 70,
+          "line_segments": 61,
+          "observed_CpGs": 9981,
+          "valid_observations": 138815
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 175,
+          "displayed_bins": 69,
+          "line_segments": 58,
+          "observed_CpGs": 9967,
+          "valid_observations": 100294
+        }
+      ],
+      "figure": "S4.20",
+      "array": {
+        "array_id": "TU.NC_133184.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133184.1",
+        "chromosome": "9",
+        "family": "CL1",
+        "start0": "16034259",
+        "end0": "17376524",
+        "span_bp": "1342265",
+        "supported_bp": "1280105",
+        "interruption_bp": "62160",
+        "support_fraction": "0.953690217654487",
+        "source_records": "16",
+        "supported_tracts": "16",
+        "N_bp": "0",
+        "non_ACGT_bp": "200",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "15834259",
+        "plot_end0": "17576524",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133185.1.CL1.R001",
+      "matrix_cells": 53724,
+      "shared_limits0": [
+        12456769,
+        14525385
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 208,
+          "displayed_bins": 56,
+          "line_segments": 52,
+          "observed_CpGs": 10107,
+          "valid_observations": 111841
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 208,
+          "displayed_bins": 52,
+          "line_segments": 49,
+          "observed_CpGs": 10035,
+          "valid_observations": 127194
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 208,
+          "displayed_bins": 51,
+          "line_segments": 48,
+          "observed_CpGs": 9884,
+          "valid_observations": 83612
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 208,
+          "displayed_bins": 203,
+          "line_segments": 201,
+          "observed_CpGs": 20625,
+          "valid_observations": 243351
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 208,
+          "displayed_bins": 206,
+          "line_segments": 204,
+          "observed_CpGs": 20796,
+          "valid_observations": 246890
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 208,
+          "displayed_bins": 52,
+          "line_segments": 50,
+          "observed_CpGs": 11173,
+          "valid_observations": 103580
+        }
+      ],
+      "figure": "S4.21",
+      "array": {
+        "array_id": "TU.NC_133185.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133185.1",
+        "chromosome": "10",
+        "family": "CL1",
+        "start0": "12656769",
+        "end0": "14325385",
+        "span_bp": "1668616",
+        "supported_bp": "1622774",
+        "interruption_bp": "45842",
+        "support_fraction": "0.9725269324997483",
+        "source_records": "9",
+        "supported_tracts": "9",
+        "N_bp": "0",
+        "non_ACGT_bp": "397",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "12456769",
+        "plot_end0": "14525385",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133185.1.CL2.R001",
+      "matrix_cells": 137102,
+      "shared_limits0": [
+        18871722,
+        21885822
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 302,
+          "displayed_bins": 290,
+          "line_segments": 286,
+          "observed_CpGs": 19616,
+          "valid_observations": 210554
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 302,
+          "displayed_bins": 287,
+          "line_segments": 281,
+          "observed_CpGs": 19267,
+          "valid_observations": 151599
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 302,
+          "displayed_bins": 293,
+          "line_segments": 289,
+          "observed_CpGs": 19714,
+          "valid_observations": 180606
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 302,
+          "displayed_bins": 286,
+          "line_segments": 280,
+          "observed_CpGs": 19257,
+          "valid_observations": 172072
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 302,
+          "displayed_bins": 293,
+          "line_segments": 288,
+          "observed_CpGs": 19599,
+          "valid_observations": 162081
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 302,
+          "displayed_bins": 119,
+          "line_segments": 101,
+          "observed_CpGs": 8537,
+          "valid_observations": 57313
+        }
+      ],
+      "figure": "S4.22",
+      "array": {
+        "array_id": "TU.NC_133185.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133185.1",
+        "chromosome": "10",
+        "family": "CL2",
+        "start0": "19071722",
+        "end0": "21685822",
+        "span_bp": "2614100",
+        "supported_bp": "2592198",
+        "interruption_bp": "21902",
+        "support_fraction": "0.991621590604797",
+        "source_records": "16",
+        "supported_tracts": "16",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "18871722",
+        "plot_end0": "21885822",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133186.1.CL1.R002",
+      "matrix_cells": 46497,
+      "shared_limits0": [
+        15515183,
+        17427514
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 192,
+          "displayed_bins": 160,
+          "line_segments": 149,
+          "observed_CpGs": 13894,
+          "valid_observations": 98807
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 192,
+          "displayed_bins": 171,
+          "line_segments": 163,
+          "observed_CpGs": 14886,
+          "valid_observations": 147027
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 192,
+          "displayed_bins": 181,
+          "line_segments": 175,
+          "observed_CpGs": 15434,
+          "valid_observations": 114615
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 192,
+          "displayed_bins": 178,
+          "line_segments": 171,
+          "observed_CpGs": 15486,
+          "valid_observations": 164959
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 192,
+          "displayed_bins": 176,
+          "line_segments": 168,
+          "observed_CpGs": 14910,
+          "valid_observations": 119603
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 192,
+          "displayed_bins": 151,
+          "line_segments": 136,
+          "observed_CpGs": 13387,
+          "valid_observations": 75158
+        }
+      ],
+      "figure": "S4.23",
+      "array": {
+        "array_id": "TU.NC_133186.1.CL1.R002",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133186.1",
+        "chromosome": "11",
+        "family": "CL1",
+        "start0": "15715183",
+        "end0": "17227514",
+        "span_bp": "1512331",
+        "supported_bp": "1496385",
+        "interruption_bp": "15946",
+        "support_fraction": "0.9894560119444751",
+        "source_records": "3",
+        "supported_tracts": "3",
+        "N_bp": "0",
+        "non_ACGT_bp": "277",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "15515183",
+        "plot_end0": "17427514",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133187.1.CL1.R001",
+      "matrix_cells": 26833,
+      "shared_limits0": [
+        14697691,
+        16227841
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 154,
+          "displayed_bins": 154,
+          "line_segments": 153,
+          "observed_CpGs": 15863,
+          "valid_observations": 120088
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 154,
+          "displayed_bins": 154,
+          "line_segments": 153,
+          "observed_CpGs": 15749,
+          "valid_observations": 146787
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 154,
+          "displayed_bins": 154,
+          "line_segments": 153,
+          "observed_CpGs": 15882,
+          "valid_observations": 98283
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 154,
+          "displayed_bins": 154,
+          "line_segments": 153,
+          "observed_CpGs": 15811,
+          "valid_observations": 168981
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 154,
+          "displayed_bins": 61,
+          "line_segments": 52,
+          "observed_CpGs": 8784,
+          "valid_observations": 88509
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 154,
+          "displayed_bins": 61,
+          "line_segments": 51,
+          "observed_CpGs": 8570,
+          "valid_observations": 66773
+        }
+      ],
+      "figure": "S4.24",
+      "array": {
+        "array_id": "TU.NC_133187.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133187.1",
+        "chromosome": "12",
+        "family": "CL1",
+        "start0": "14897691",
+        "end0": "16027841",
+        "span_bp": "1130150",
+        "supported_bp": "1095195",
+        "interruption_bp": "34955",
+        "support_fraction": "0.9690704773702605",
+        "source_records": "14",
+        "supported_tracts": "14",
+        "N_bp": "0",
+        "non_ACGT_bp": "1",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "14697691",
+        "plot_end0": "16227841",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133188.1.CL1.R001",
+      "matrix_cells": 48740,
+      "shared_limits0": [
+        15764971,
+        17747349
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 199,
+          "displayed_bins": 55,
+          "line_segments": 46,
+          "observed_CpGs": 7505,
+          "valid_observations": 53589
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 199,
+          "displayed_bins": 55,
+          "line_segments": 47,
+          "observed_CpGs": 7501,
+          "valid_observations": 74002
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 199,
+          "displayed_bins": 58,
+          "line_segments": 49,
+          "observed_CpGs": 7035,
+          "valid_observations": 44270
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 199,
+          "displayed_bins": 58,
+          "line_segments": 49,
+          "observed_CpGs": 7877,
+          "valid_observations": 75227
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 199,
+          "displayed_bins": 57,
+          "line_segments": 48,
+          "observed_CpGs": 7641,
+          "valid_observations": 60957
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 199,
+          "displayed_bins": 55,
+          "line_segments": 46,
+          "observed_CpGs": 7641,
+          "valid_observations": 49495
+        }
+      ],
+      "figure": "S4.25",
+      "array": {
+        "array_id": "TU.NC_133188.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133188.1",
+        "chromosome": "13",
+        "family": "CL1",
+        "start0": "15964971",
+        "end0": "17547349",
+        "span_bp": "1582378",
+        "supported_bp": "1532285",
+        "interruption_bp": "50093",
+        "support_fraction": "0.968343215085144",
+        "source_records": "14",
+        "supported_tracts": "14",
+        "N_bp": "0",
+        "non_ACGT_bp": "199",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "15764971",
+        "plot_end0": "17747349",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133188.1.CL2.R002",
+      "matrix_cells": 29648,
+      "shared_limits0": [
+        20887215,
+        22508340
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 163,
+          "displayed_bins": 83,
+          "line_segments": 69,
+          "observed_CpGs": 9159,
+          "valid_observations": 82059
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 163,
+          "displayed_bins": 76,
+          "line_segments": 65,
+          "observed_CpGs": 8184,
+          "valid_observations": 87019
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 163,
+          "displayed_bins": 81,
+          "line_segments": 68,
+          "observed_CpGs": 8967,
+          "valid_observations": 57546
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 163,
+          "displayed_bins": 86,
+          "line_segments": 72,
+          "observed_CpGs": 9397,
+          "valid_observations": 112884
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 163,
+          "displayed_bins": 87,
+          "line_segments": 72,
+          "observed_CpGs": 9169,
+          "valid_observations": 90393
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 163,
+          "displayed_bins": 85,
+          "line_segments": 75,
+          "observed_CpGs": 9252,
+          "valid_observations": 72315
+        }
+      ],
+      "figure": "S4.26",
+      "array": {
+        "array_id": "TU.NC_133188.1.CL2.R002",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133188.1",
+        "chromosome": "13",
+        "family": "CL2",
+        "start0": "21087215",
+        "end0": "22308340",
+        "span_bp": "1221125",
+        "supported_bp": "1168635",
+        "interruption_bp": "52490",
+        "support_fraction": "0.9570150475995496",
+        "source_records": "11",
+        "supported_tracts": "11",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "20887215",
+        "plot_end0": "22508340",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133189.1.CL1.R001",
+      "matrix_cells": 54868,
+      "shared_limits0": [
+        14320712,
+        16385600
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 207,
+          "displayed_bins": 80,
+          "line_segments": 72,
+          "observed_CpGs": 10082,
+          "valid_observations": 96063
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 207,
+          "displayed_bins": 76,
+          "line_segments": 69,
+          "observed_CpGs": 9950,
+          "valid_observations": 97303
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 207,
+          "displayed_bins": 63,
+          "line_segments": 55,
+          "observed_CpGs": 9556,
+          "valid_observations": 73852
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 207,
+          "displayed_bins": 68,
+          "line_segments": 60,
+          "observed_CpGs": 9863,
+          "valid_observations": 112244
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 207,
+          "displayed_bins": 72,
+          "line_segments": 64,
+          "observed_CpGs": 10089,
+          "valid_observations": 102051
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 207,
+          "displayed_bins": 51,
+          "line_segments": 47,
+          "observed_CpGs": 8613,
+          "valid_observations": 71301
+        }
+      ],
+      "figure": "S4.27",
+      "array": {
+        "array_id": "TU.NC_133189.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133189.1",
+        "chromosome": "14",
+        "family": "CL1",
+        "start0": "14520712",
+        "end0": "16185600",
+        "span_bp": "1664888",
+        "supported_bp": "1640465",
+        "interruption_bp": "24423",
+        "support_fraction": "0.985330544757365",
+        "source_records": "5",
+        "supported_tracts": "5",
+        "N_bp": "0",
+        "non_ACGT_bp": "48",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "14320712",
+        "plot_end0": "16385600",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133189.1.CL2.R003",
+      "matrix_cells": 67460,
+      "shared_limits0": [
+        22319151,
+        24559569
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 225,
+          "displayed_bins": 52,
+          "line_segments": 47,
+          "observed_CpGs": 8128,
+          "valid_observations": 69585
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 225,
+          "displayed_bins": 172,
+          "line_segments": 164,
+          "observed_CpGs": 13910,
+          "valid_observations": 148526
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 225,
+          "displayed_bins": 187,
+          "line_segments": 179,
+          "observed_CpGs": 14385,
+          "valid_observations": 99909
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 225,
+          "displayed_bins": 172,
+          "line_segments": 163,
+          "observed_CpGs": 14023,
+          "valid_observations": 146398
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 225,
+          "displayed_bins": 54,
+          "line_segments": 48,
+          "observed_CpGs": 8142,
+          "valid_observations": 94391
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 225,
+          "displayed_bins": 55,
+          "line_segments": 49,
+          "observed_CpGs": 7377,
+          "valid_observations": 71999
+        }
+      ],
+      "figure": "S4.28",
+      "array": {
+        "array_id": "TU.NC_133189.1.CL2.R003",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133189.1",
+        "chromosome": "14",
+        "family": "CL2",
+        "start0": "22519151",
+        "end0": "24359569",
+        "span_bp": "1840418",
+        "supported_bp": "1828358",
+        "interruption_bp": "12060",
+        "support_fraction": "0.9934471408125762",
+        "source_records": "7",
+        "supported_tracts": "7",
+        "N_bp": "0",
+        "non_ACGT_bp": "37",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "22319151",
+        "plot_end0": "24559569",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133190.1.CL2.R002",
+      "matrix_cells": 10448,
+      "shared_limits0": [
+        7518911,
+        8604659
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 110,
+          "displayed_bins": 57,
+          "line_segments": 51,
+          "observed_CpGs": 3507,
+          "valid_observations": 30004
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 110,
+          "displayed_bins": 61,
+          "line_segments": 53,
+          "observed_CpGs": 3599,
+          "valid_observations": 36503
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 110,
+          "displayed_bins": 60,
+          "line_segments": 54,
+          "observed_CpGs": 3556,
+          "valid_observations": 22695
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 110,
+          "displayed_bins": 60,
+          "line_segments": 54,
+          "observed_CpGs": 3423,
+          "valid_observations": 37118
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 110,
+          "displayed_bins": 62,
+          "line_segments": 56,
+          "observed_CpGs": 3376,
+          "valid_observations": 35857
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 110,
+          "displayed_bins": 57,
+          "line_segments": 49,
+          "observed_CpGs": 3295,
+          "valid_observations": 26966
+        }
+      ],
+      "figure": "S4.29",
+      "array": {
+        "array_id": "TU.NC_133190.1.CL2.R002",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133190.1",
+        "chromosome": "15",
+        "family": "CL2",
+        "start0": "7718911",
+        "end0": "8404659",
+        "span_bp": "685748",
+        "supported_bp": "685537",
+        "interruption_bp": "211",
+        "support_fraction": "0.9996923067949159",
+        "source_records": "2",
+        "supported_tracts": "2",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "7518911",
+        "plot_end0": "8604659",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133190.1.CL1.R001",
+      "matrix_cells": 11931,
+      "shared_limits0": [
+        12585196,
+        13738589
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 116,
+          "displayed_bins": 113,
+          "line_segments": 110,
+          "observed_CpGs": 13958,
+          "valid_observations": 94774
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 116,
+          "displayed_bins": 114,
+          "line_segments": 111,
+          "observed_CpGs": 14275,
+          "valid_observations": 123187
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 116,
+          "displayed_bins": 116,
+          "line_segments": 115,
+          "observed_CpGs": 14504,
+          "valid_observations": 145629
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 116,
+          "displayed_bins": 41,
+          "line_segments": 36,
+          "observed_CpGs": 6366,
+          "valid_observations": 57619
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 116,
+          "displayed_bins": 40,
+          "line_segments": 34,
+          "observed_CpGs": 6357,
+          "valid_observations": 59400
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 116,
+          "displayed_bins": 41,
+          "line_segments": 36,
+          "observed_CpGs": 6369,
+          "valid_observations": 41165
+        }
+      ],
+      "figure": "S4.30",
+      "array": {
+        "array_id": "TU.NC_133190.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133190.1",
+        "chromosome": "15",
+        "family": "CL1",
+        "start0": "12785196",
+        "end0": "13538589",
+        "span_bp": "753393",
+        "supported_bp": "743448",
+        "interruption_bp": "9945",
+        "support_fraction": "0.9867997180754268",
+        "source_records": "3",
+        "supported_tracts": "3",
+        "N_bp": "0",
+        "non_ACGT_bp": "76",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "12585196",
+        "plot_end0": "13738589",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133190.1.CL2.R003",
+      "matrix_cells": 3993,
+      "shared_limits0": [
+        16593317,
+        17418743
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 83,
+          "displayed_bins": 44,
+          "line_segments": 42,
+          "observed_CpGs": 6597,
+          "valid_observations": 53196
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 83,
+          "displayed_bins": 44,
+          "line_segments": 42,
+          "observed_CpGs": 6627,
+          "valid_observations": 70169
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 83,
+          "displayed_bins": 44,
+          "line_segments": 41,
+          "observed_CpGs": 6457,
+          "valid_observations": 43000
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 83,
+          "displayed_bins": 45,
+          "line_segments": 42,
+          "observed_CpGs": 6586,
+          "valid_observations": 70245
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 83,
+          "displayed_bins": 44,
+          "line_segments": 42,
+          "observed_CpGs": 6597,
+          "valid_observations": 60271
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 83,
+          "displayed_bins": 44,
+          "line_segments": 42,
+          "observed_CpGs": 6401,
+          "valid_observations": 53776
+        }
+      ],
+      "figure": "S4.31",
+      "array": {
+        "array_id": "TU.NC_133190.1.CL2.R003",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133190.1",
+        "chromosome": "15",
+        "family": "CL2",
+        "start0": "16793317",
+        "end0": "17218743",
+        "span_bp": "425426",
+        "supported_bp": "419061",
+        "interruption_bp": "6365",
+        "support_fraction": "0.9850385260891436",
+        "source_records": "5",
+        "supported_tracts": "5",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "16593317",
+        "plot_end0": "17418743",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133191.1.CL1.R001",
+      "matrix_cells": 41582,
+      "shared_limits0": [
+        18043043,
+        19882702
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 185,
+          "displayed_bins": 46,
+          "line_segments": 42,
+          "observed_CpGs": 9502,
+          "valid_observations": 101312
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 185,
+          "displayed_bins": 46,
+          "line_segments": 43,
+          "observed_CpGs": 9554,
+          "valid_observations": 138975
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 185,
+          "displayed_bins": 42,
+          "line_segments": 40,
+          "observed_CpGs": 9404,
+          "valid_observations": 73067
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 185,
+          "displayed_bins": 45,
+          "line_segments": 42,
+          "observed_CpGs": 9606,
+          "valid_observations": 135784
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 185,
+          "displayed_bins": 46,
+          "line_segments": 43,
+          "observed_CpGs": 9657,
+          "valid_observations": 119376
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 185,
+          "displayed_bins": 44,
+          "line_segments": 41,
+          "observed_CpGs": 9394,
+          "valid_observations": 83749
+        }
+      ],
+      "figure": "S4.32",
+      "array": {
+        "array_id": "TU.NC_133191.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133191.1",
+        "chromosome": "16",
+        "family": "CL1",
+        "start0": "18243043",
+        "end0": "19682702",
+        "span_bp": "1439659",
+        "supported_bp": "1393239",
+        "interruption_bp": "46420",
+        "support_fraction": "0.9677562533905598",
+        "source_records": "9",
+        "supported_tracts": "9",
+        "N_bp": "0",
+        "non_ACGT_bp": "34",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "18043043",
+        "plot_end0": "19882702",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133191.1.CL2.R001",
+      "matrix_cells": 68484,
+      "shared_limits0": [
+        27018685,
+        29272757
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 227,
+          "displayed_bins": 223,
+          "line_segments": 221,
+          "observed_CpGs": 16617,
+          "valid_observations": 133542
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 227,
+          "displayed_bins": 226,
+          "line_segments": 224,
+          "observed_CpGs": 16797,
+          "valid_observations": 151079
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 227,
+          "displayed_bins": 227,
+          "line_segments": 226,
+          "observed_CpGs": 16922,
+          "valid_observations": 175990
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 227,
+          "displayed_bins": 226,
+          "line_segments": 224,
+          "observed_CpGs": 16835,
+          "valid_observations": 268026
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 227,
+          "displayed_bins": 227,
+          "line_segments": 226,
+          "observed_CpGs": 16901,
+          "valid_observations": 170458
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 227,
+          "displayed_bins": 50,
+          "line_segments": 44,
+          "observed_CpGs": 5994,
+          "valid_observations": 50358
+        }
+      ],
+      "figure": "S4.33",
+      "array": {
+        "array_id": "TU.NC_133191.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133191.1",
+        "chromosome": "16",
+        "family": "CL2",
+        "start0": "27218685",
+        "end0": "29072757",
+        "span_bp": "1854072",
+        "supported_bp": "1822387",
+        "interruption_bp": "31685",
+        "support_fraction": "0.9829105881540738",
+        "source_records": "8",
+        "supported_tracts": "8",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "27018685",
+        "plot_end0": "29272757",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133192.1.CL2.R001",
+      "matrix_cells": 37933,
+      "shared_limits0": [
+        41703187,
+        43473081
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 178,
+          "displayed_bins": 61,
+          "line_segments": 46,
+          "observed_CpGs": 5527,
+          "valid_observations": 36346
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 178,
+          "displayed_bins": 63,
+          "line_segments": 50,
+          "observed_CpGs": 5336,
+          "valid_observations": 47806
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 178,
+          "displayed_bins": 62,
+          "line_segments": 48,
+          "observed_CpGs": 5175,
+          "valid_observations": 32021
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 178,
+          "displayed_bins": 61,
+          "line_segments": 52,
+          "observed_CpGs": 5447,
+          "valid_observations": 44472
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 178,
+          "displayed_bins": 61,
+          "line_segments": 55,
+          "observed_CpGs": 5329,
+          "valid_observations": 41767
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 178,
+          "displayed_bins": 34,
+          "line_segments": 32,
+          "observed_CpGs": 3847,
+          "valid_observations": 26316
+        }
+      ],
+      "figure": "S4.34",
+      "array": {
+        "array_id": "TU.NC_133192.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133192.1",
+        "chromosome": "17",
+        "family": "CL2",
+        "start0": "41903187",
+        "end0": "43273081",
+        "span_bp": "1369894",
+        "supported_bp": "1356952",
+        "interruption_bp": "12942",
+        "support_fraction": "0.9905525537012353",
+        "source_records": "10",
+        "supported_tracts": "10",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "41703187",
+        "plot_end0": "43473081",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133192.1.CL1.R001",
+      "matrix_cells": 52051,
+      "shared_limits0": [
+        46065919,
+        48097152
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 204,
+          "displayed_bins": 48,
+          "line_segments": 44,
+          "observed_CpGs": 7624,
+          "valid_observations": 73418
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 204,
+          "displayed_bins": 51,
+          "line_segments": 46,
+          "observed_CpGs": 7517,
+          "valid_observations": 85577
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 204,
+          "displayed_bins": 45,
+          "line_segments": 43,
+          "observed_CpGs": 6807,
+          "valid_observations": 50928
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 204,
+          "displayed_bins": 49,
+          "line_segments": 45,
+          "observed_CpGs": 7513,
+          "valid_observations": 90233
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 204,
+          "displayed_bins": 51,
+          "line_segments": 47,
+          "observed_CpGs": 7650,
+          "valid_observations": 79431
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 204,
+          "displayed_bins": 49,
+          "line_segments": 44,
+          "observed_CpGs": 7433,
+          "valid_observations": 63532
+        }
+      ],
+      "figure": "S4.35",
+      "array": {
+        "array_id": "TU.NC_133192.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133192.1",
+        "chromosome": "17",
+        "family": "CL1",
+        "start0": "46265919",
+        "end0": "47897152",
+        "span_bp": "1631233",
+        "supported_bp": "1561246",
+        "interruption_bp": "69987",
+        "support_fraction": "0.957095644828176",
+        "source_records": "13",
+        "supported_tracts": "13",
+        "N_bp": "0",
+        "non_ACGT_bp": "91",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "46065919",
+        "plot_end0": "48097152",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133192.1.CL2.R003",
+      "matrix_cells": 45588,
+      "shared_limits0": [
+        51264965,
+        53168631
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 191,
+          "displayed_bins": 142,
+          "line_segments": 133,
+          "observed_CpGs": 8718,
+          "valid_observations": 64718
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 191,
+          "displayed_bins": 142,
+          "line_segments": 132,
+          "observed_CpGs": 8713,
+          "valid_observations": 69163
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 191,
+          "displayed_bins": 139,
+          "line_segments": 129,
+          "observed_CpGs": 7838,
+          "valid_observations": 70856
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 191,
+          "displayed_bins": 45,
+          "line_segments": 42,
+          "observed_CpGs": 5293,
+          "valid_observations": 47472
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 191,
+          "displayed_bins": 45,
+          "line_segments": 42,
+          "observed_CpGs": 5299,
+          "valid_observations": 40367
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 191,
+          "displayed_bins": 43,
+          "line_segments": 41,
+          "observed_CpGs": 4598,
+          "valid_observations": 29647
+        }
+      ],
+      "figure": "S4.36",
+      "array": {
+        "array_id": "TU.NC_133192.1.CL2.R003",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133192.1",
+        "chromosome": "17",
+        "family": "CL2",
+        "start0": "51464965",
+        "end0": "52968631",
+        "span_bp": "1503666",
+        "supported_bp": "1503666",
+        "interruption_bp": "0",
+        "support_fraction": "1.0",
+        "source_records": "1",
+        "supported_tracts": "1",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "51264965",
+        "plot_end0": "53168631",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133193.1.CL1.R001",
+      "matrix_cells": 33711,
+      "shared_limits0": [
+        32969978,
+        34667059
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 171,
+          "displayed_bins": 163,
+          "line_segments": 159,
+          "observed_CpGs": 16711,
+          "valid_observations": 163078
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 171,
+          "displayed_bins": 104,
+          "line_segments": 95,
+          "observed_CpGs": 12547,
+          "valid_observations": 169122
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 171,
+          "displayed_bins": 114,
+          "line_segments": 106,
+          "observed_CpGs": 12979,
+          "valid_observations": 112100
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 171,
+          "displayed_bins": 109,
+          "line_segments": 100,
+          "observed_CpGs": 13003,
+          "valid_observations": 167281
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 171,
+          "displayed_bins": 106,
+          "line_segments": 97,
+          "observed_CpGs": 12987,
+          "valid_observations": 165665
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 171,
+          "displayed_bins": 104,
+          "line_segments": 92,
+          "observed_CpGs": 12599,
+          "valid_observations": 111540
+        }
+      ],
+      "figure": "S4.37",
+      "array": {
+        "array_id": "TU.NC_133193.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133193.1",
+        "chromosome": "18",
+        "family": "CL1",
+        "start0": "33169978",
+        "end0": "34467059",
+        "span_bp": "1297081",
+        "supported_bp": "1275136",
+        "interruption_bp": "21945",
+        "support_fraction": "0.9830812416495192",
+        "source_records": "4",
+        "supported_tracts": "4",
+        "N_bp": "0",
+        "non_ACGT_bp": "165",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "32969978",
+        "plot_end0": "34667059",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133194.1.CL1.R001",
+      "matrix_cells": 26478,
+      "shared_limits0": [
+        19184418,
+        20731860
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 156,
+          "displayed_bins": 93,
+          "line_segments": 90,
+          "observed_CpGs": 11754,
+          "valid_observations": 117428
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 156,
+          "displayed_bins": 98,
+          "line_segments": 94,
+          "observed_CpGs": 11906,
+          "valid_observations": 171478
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 156,
+          "displayed_bins": 97,
+          "line_segments": 93,
+          "observed_CpGs": 11891,
+          "valid_observations": 118453
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 156,
+          "displayed_bins": 101,
+          "line_segments": 95,
+          "observed_CpGs": 11980,
+          "valid_observations": 142964
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 156,
+          "displayed_bins": 96,
+          "line_segments": 91,
+          "observed_CpGs": 11897,
+          "valid_observations": 147121
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 156,
+          "displayed_bins": 95,
+          "line_segments": 90,
+          "observed_CpGs": 11500,
+          "valid_observations": 106238
+        }
+      ],
+      "figure": "S4.38",
+      "array": {
+        "array_id": "TU.NC_133194.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133194.1",
+        "chromosome": "19",
+        "family": "CL1",
+        "start0": "19384418",
+        "end0": "20531860",
+        "span_bp": "1147442",
+        "supported_bp": "1112877",
+        "interruption_bp": "34565",
+        "support_fraction": "0.9698764730592048",
+        "source_records": "8",
+        "supported_tracts": "8",
+        "N_bp": "0",
+        "non_ACGT_bp": "224",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "19184418",
+        "plot_end0": "20731860",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133195.1.CL1.R001",
+      "matrix_cells": 24589,
+      "shared_limits0": [
+        12811848,
+        14261166
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 146,
+          "displayed_bins": 42,
+          "line_segments": 37,
+          "observed_CpGs": 7138,
+          "valid_observations": 63684
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 146,
+          "displayed_bins": 45,
+          "line_segments": 41,
+          "observed_CpGs": 7406,
+          "valid_observations": 75463
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 146,
+          "displayed_bins": 45,
+          "line_segments": 41,
+          "observed_CpGs": 7238,
+          "valid_observations": 56399
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 146,
+          "displayed_bins": 43,
+          "line_segments": 38,
+          "observed_CpGs": 7342,
+          "valid_observations": 86775
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 146,
+          "displayed_bins": 44,
+          "line_segments": 39,
+          "observed_CpGs": 7375,
+          "valid_observations": 85773
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 146,
+          "displayed_bins": 43,
+          "line_segments": 39,
+          "observed_CpGs": 7077,
+          "valid_observations": 51232
+        }
+      ],
+      "figure": "S4.39",
+      "array": {
+        "array_id": "TU.NC_133195.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133195.1",
+        "chromosome": "20",
+        "family": "CL1",
+        "start0": "13011848",
+        "end0": "14061166",
+        "span_bp": "1049318",
+        "supported_bp": "1030781",
+        "interruption_bp": "18537",
+        "support_fraction": "0.9823342399539511",
+        "source_records": "6",
+        "supported_tracts": "6",
+        "N_bp": "0",
+        "non_ACGT_bp": "87",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "12811848",
+        "plot_end0": "14261166",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133195.1.CL2.R002",
+      "matrix_cells": 32355,
+      "shared_limits0": [
+        18005511,
+        19699607
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 170,
+          "displayed_bins": 51,
+          "line_segments": 47,
+          "observed_CpGs": 7412,
+          "valid_observations": 51600
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 170,
+          "displayed_bins": 48,
+          "line_segments": 46,
+          "observed_CpGs": 7518,
+          "valid_observations": 66825
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 170,
+          "displayed_bins": 50,
+          "line_segments": 47,
+          "observed_CpGs": 7420,
+          "valid_observations": 40709
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 170,
+          "displayed_bins": 51,
+          "line_segments": 47,
+          "observed_CpGs": 7545,
+          "valid_observations": 69377
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 170,
+          "displayed_bins": 51,
+          "line_segments": 47,
+          "observed_CpGs": 7453,
+          "valid_observations": 64120
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 170,
+          "displayed_bins": 50,
+          "line_segments": 45,
+          "observed_CpGs": 7276,
+          "valid_observations": 59945
+        }
+      ],
+      "figure": "S4.40",
+      "array": {
+        "array_id": "TU.NC_133195.1.CL2.R002",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133195.1",
+        "chromosome": "20",
+        "family": "CL2",
+        "start0": "18205511",
+        "end0": "19499607",
+        "span_bp": "1294096",
+        "supported_bp": "1278642",
+        "interruption_bp": "15454",
+        "support_fraction": "0.9880580729714025",
+        "source_records": "3",
+        "supported_tracts": "3",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "18005511",
+        "plot_end0": "19699607",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133196.1.CL2.R001",
+      "matrix_cells": 53862,
+      "shared_limits0": [
+        27086516,
+        29130567
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 206,
+          "displayed_bins": 174,
+          "line_segments": 160,
+          "observed_CpGs": 10467,
+          "valid_observations": 120376
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 206,
+          "displayed_bins": 179,
+          "line_segments": 165,
+          "observed_CpGs": 10647,
+          "valid_observations": 138454
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 206,
+          "displayed_bins": 177,
+          "line_segments": 161,
+          "observed_CpGs": 10481,
+          "valid_observations": 96116
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 206,
+          "displayed_bins": 173,
+          "line_segments": 158,
+          "observed_CpGs": 10457,
+          "valid_observations": 144166
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 206,
+          "displayed_bins": 170,
+          "line_segments": 149,
+          "observed_CpGs": 10257,
+          "valid_observations": 105801
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 206,
+          "displayed_bins": 170,
+          "line_segments": 149,
+          "observed_CpGs": 10176,
+          "valid_observations": 104475
+        }
+      ],
+      "figure": "S4.41",
+      "array": {
+        "array_id": "TU.NC_133196.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133196.1",
+        "chromosome": "21",
+        "family": "CL2",
+        "start0": "27286516",
+        "end0": "28930567",
+        "span_bp": "1644051",
+        "supported_bp": "1609904",
+        "interruption_bp": "34147",
+        "support_fraction": "0.9792299630607566",
+        "source_records": "6",
+        "supported_tracts": "6",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "27086516",
+        "plot_end0": "29130567",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133196.1.CL1.R001",
+      "matrix_cells": 15959,
+      "shared_limits0": [
+        35951920,
+        37240381
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 130,
+          "displayed_bins": 48,
+          "line_segments": 44,
+          "observed_CpGs": 8008,
+          "valid_observations": 81827
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 130,
+          "displayed_bins": 124,
+          "line_segments": 120,
+          "observed_CpGs": 13715,
+          "valid_observations": 152032
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 130,
+          "displayed_bins": 130,
+          "line_segments": 129,
+          "observed_CpGs": 13996,
+          "valid_observations": 105033
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 130,
+          "displayed_bins": 48,
+          "line_segments": 43,
+          "observed_CpGs": 8038,
+          "valid_observations": 112126
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 130,
+          "displayed_bins": 112,
+          "line_segments": 110,
+          "observed_CpGs": 13109,
+          "valid_observations": 151202
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 130,
+          "displayed_bins": 128,
+          "line_segments": 126,
+          "observed_CpGs": 14061,
+          "valid_observations": 129878
+        }
+      ],
+      "figure": "S4.42",
+      "array": {
+        "array_id": "TU.NC_133196.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133196.1",
+        "chromosome": "21",
+        "family": "CL1",
+        "start0": "36151920",
+        "end0": "37040381",
+        "span_bp": "888461",
+        "supported_bp": "862244",
+        "interruption_bp": "26217",
+        "support_fraction": "0.9704916704278522",
+        "source_records": "9",
+        "supported_tracts": "9",
+        "N_bp": "0",
+        "non_ACGT_bp": "75",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "35951920",
+        "plot_end0": "37240381",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133197.1.CL2.R001",
+      "matrix_cells": 20090,
+      "shared_limits0": [
+        24134140,
+        25528943
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 140,
+          "displayed_bins": 45,
+          "line_segments": 43,
+          "observed_CpGs": 6144,
+          "valid_observations": 56708
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 140,
+          "displayed_bins": 45,
+          "line_segments": 43,
+          "observed_CpGs": 6420,
+          "valid_observations": 68840
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 140,
+          "displayed_bins": 44,
+          "line_segments": 42,
+          "observed_CpGs": 6011,
+          "valid_observations": 43640
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 140,
+          "displayed_bins": 45,
+          "line_segments": 43,
+          "observed_CpGs": 6172,
+          "valid_observations": 63100
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 140,
+          "displayed_bins": 45,
+          "line_segments": 43,
+          "observed_CpGs": 5941,
+          "valid_observations": 63283
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 140,
+          "displayed_bins": 43,
+          "line_segments": 41,
+          "observed_CpGs": 5552,
+          "valid_observations": 47859
+        }
+      ],
+      "figure": "S4.43",
+      "array": {
+        "array_id": "TU.NC_133197.1.CL2.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133197.1",
+        "chromosome": "22",
+        "family": "CL2",
+        "start0": "24334140",
+        "end0": "25328943",
+        "span_bp": "994803",
+        "supported_bp": "989724",
+        "interruption_bp": "5079",
+        "support_fraction": "0.994894466542622",
+        "source_records": "5",
+        "supported_tracts": "5",
+        "N_bp": "0",
+        "non_ACGT_bp": "0",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "24134140",
+        "plot_end0": "25528943",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133197.1.CL1.R001",
+      "matrix_cells": 22645,
+      "shared_limits0": [
+        28320593,
+        29778466
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 146,
+          "displayed_bins": 62,
+          "line_segments": 56,
+          "observed_CpGs": 8437,
+          "valid_observations": 59747
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 146,
+          "displayed_bins": 59,
+          "line_segments": 55,
+          "observed_CpGs": 8355,
+          "valid_observations": 77589
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 146,
+          "displayed_bins": 146,
+          "line_segments": 145,
+          "observed_CpGs": 14564,
+          "valid_observations": 106957
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 146,
+          "displayed_bins": 146,
+          "line_segments": 145,
+          "observed_CpGs": 14629,
+          "valid_observations": 155616
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 146,
+          "displayed_bins": 146,
+          "line_segments": 145,
+          "observed_CpGs": 14683,
+          "valid_observations": 158602
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 146,
+          "displayed_bins": 49,
+          "line_segments": 46,
+          "observed_CpGs": 6914,
+          "valid_observations": 43867
+        }
+      ],
+      "figure": "S4.44",
+      "array": {
+        "array_id": "TU.NC_133197.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133197.1",
+        "chromosome": "22",
+        "family": "CL1",
+        "start0": "28520593",
+        "end0": "29578466",
+        "span_bp": "1057873",
+        "supported_bp": "1032157",
+        "interruption_bp": "25716",
+        "support_fraction": "0.9756908437969397",
+        "source_records": "6",
+        "supported_tracts": "6",
+        "N_bp": "0",
+        "non_ACGT_bp": "129",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "28320593",
+        "plot_end0": "29778466",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133198.1.CL1.R001",
+      "matrix_cells": 43666,
+      "shared_limits0": [
+        12532857,
+        14400311
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 188,
+          "displayed_bins": 122,
+          "line_segments": 116,
+          "observed_CpGs": 12276,
+          "valid_observations": 121917
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 188,
+          "displayed_bins": 113,
+          "line_segments": 104,
+          "observed_CpGs": 11793,
+          "valid_observations": 124175
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 188,
+          "displayed_bins": 122,
+          "line_segments": 113,
+          "observed_CpGs": 12223,
+          "valid_observations": 93731
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 188,
+          "displayed_bins": 119,
+          "line_segments": 110,
+          "observed_CpGs": 12168,
+          "valid_observations": 136532
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 188,
+          "displayed_bins": 127,
+          "line_segments": 121,
+          "observed_CpGs": 12545,
+          "valid_observations": 140212
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 188,
+          "displayed_bins": 120,
+          "line_segments": 113,
+          "observed_CpGs": 12006,
+          "valid_observations": 91278
+        }
+      ],
+      "figure": "S4.45",
+      "array": {
+        "array_id": "TU.NC_133198.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133198.1",
+        "chromosome": "23",
+        "family": "CL1",
+        "start0": "12732857",
+        "end0": "14200311",
+        "span_bp": "1467454",
+        "supported_bp": "1452659",
+        "interruption_bp": "14795",
+        "support_fraction": "0.989917912248016",
+        "source_records": "7",
+        "supported_tracts": "7",
+        "N_bp": "0",
+        "non_ACGT_bp": "176",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "12532857",
+        "plot_end0": "14400311",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133198.1.CL2.R003",
+      "matrix_cells": 40134,
+      "shared_limits0": [
+        17318362,
+        19127089
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 182,
+          "displayed_bins": 42,
+          "line_segments": 39,
+          "observed_CpGs": 6916,
+          "valid_observations": 80649
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 182,
+          "displayed_bins": 41,
+          "line_segments": 39,
+          "observed_CpGs": 6914,
+          "valid_observations": 92080
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 182,
+          "displayed_bins": 41,
+          "line_segments": 39,
+          "observed_CpGs": 6871,
+          "valid_observations": 63050
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 182,
+          "displayed_bins": 155,
+          "line_segments": 140,
+          "observed_CpGs": 12590,
+          "valid_observations": 155026
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 182,
+          "displayed_bins": 42,
+          "line_segments": 39,
+          "observed_CpGs": 6922,
+          "valid_observations": 92202
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 182,
+          "displayed_bins": 41,
+          "line_segments": 39,
+          "observed_CpGs": 6856,
+          "valid_observations": 59715
+        }
+      ],
+      "figure": "S4.46",
+      "array": {
+        "array_id": "TU.NC_133198.1.CL2.R003",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133198.1",
+        "chromosome": "23",
+        "family": "CL2",
+        "start0": "17518362",
+        "end0": "18927089",
+        "span_bp": "1408727",
+        "supported_bp": "1408219",
+        "interruption_bp": "508",
+        "support_fraction": "0.9996393907407184",
+        "source_records": "3",
+        "supported_tracts": "3",
+        "N_bp": "0",
+        "non_ACGT_bp": "1",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "17318362",
+        "plot_end0": "19127089",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133199.1.CL1.R001",
+      "matrix_cells": 34788,
+      "shared_limits0": [
+        12492953,
+        14187188
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 170,
+          "displayed_bins": 161,
+          "line_segments": 156,
+          "observed_CpGs": 17548,
+          "valid_observations": 192184
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 170,
+          "displayed_bins": 160,
+          "line_segments": 158,
+          "observed_CpGs": 17409,
+          "valid_observations": 141315
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 170,
+          "displayed_bins": 163,
+          "line_segments": 160,
+          "observed_CpGs": 17626,
+          "valid_observations": 105075
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 170,
+          "displayed_bins": 165,
+          "line_segments": 161,
+          "observed_CpGs": 17787,
+          "valid_observations": 204618
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 170,
+          "displayed_bins": 162,
+          "line_segments": 159,
+          "observed_CpGs": 17844,
+          "valid_observations": 248755
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 170,
+          "displayed_bins": 145,
+          "line_segments": 140,
+          "observed_CpGs": 16453,
+          "valid_observations": 104528
+        }
+      ],
+      "figure": "S4.47",
+      "array": {
+        "array_id": "TU.NC_133199.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133199.1",
+        "chromosome": "24",
+        "family": "CL1",
+        "start0": "12692953",
+        "end0": "13987188",
+        "span_bp": "1294235",
+        "supported_bp": "1273723",
+        "interruption_bp": "20512",
+        "support_fraction": "0.9841512553747966",
+        "source_records": "10",
+        "supported_tracts": "10",
+        "N_bp": "0",
+        "non_ACGT_bp": "1421",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "12492953",
+        "plot_end0": "14187188",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133199.1.CL2.R002",
+      "matrix_cells": 118191,
+      "shared_limits0": [
+        17507734,
+        20349706
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 285,
+          "displayed_bins": 62,
+          "line_segments": 53,
+          "observed_CpGs": 7365,
+          "valid_observations": 74210
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 285,
+          "displayed_bins": 62,
+          "line_segments": 53,
+          "observed_CpGs": 7315,
+          "valid_observations": 84913
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 285,
+          "displayed_bins": 61,
+          "line_segments": 54,
+          "observed_CpGs": 7224,
+          "valid_observations": 53073
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 285,
+          "displayed_bins": 64,
+          "line_segments": 56,
+          "observed_CpGs": 7310,
+          "valid_observations": 93871
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 285,
+          "displayed_bins": 62,
+          "line_segments": 56,
+          "observed_CpGs": 7239,
+          "valid_observations": 86665
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 285,
+          "displayed_bins": 62,
+          "line_segments": 54,
+          "observed_CpGs": 7225,
+          "valid_observations": 65630
+        }
+      ],
+      "figure": "S4.48",
+      "array": {
+        "array_id": "TU.NC_133199.1.CL2.R002",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133199.1",
+        "chromosome": "24",
+        "family": "CL2",
+        "start0": "17707734",
+        "end0": "20149706",
+        "span_bp": "2441972",
+        "supported_bp": "2415089",
+        "interruption_bp": "26883",
+        "support_fraction": "0.988991274265225",
+        "source_records": "10",
+        "supported_tracts": "10",
+        "N_bp": "0",
+        "non_ACGT_bp": "1",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "17507734",
+        "plot_end0": "20349706",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    },
+    {
+      "array_id": "TU.NC_133200.1.CL1.R001",
+      "matrix_cells": 42361,
+      "shared_limits0": [
+        27096923,
+        28961108
+      ],
+      "samples": [
+        {
+          "run": "ERR16782314",
+          "total_bins": 188,
+          "displayed_bins": 42,
+          "line_segments": 37,
+          "observed_CpGs": 6553,
+          "valid_observations": 56750
+        },
+        {
+          "run": "ERR16782315",
+          "total_bins": 188,
+          "displayed_bins": 44,
+          "line_segments": 40,
+          "observed_CpGs": 6951,
+          "valid_observations": 86365
+        },
+        {
+          "run": "ERR16782316",
+          "total_bins": 188,
+          "displayed_bins": 40,
+          "line_segments": 36,
+          "observed_CpGs": 6999,
+          "valid_observations": 46226
+        },
+        {
+          "run": "ERR16782317",
+          "total_bins": 188,
+          "displayed_bins": 43,
+          "line_segments": 39,
+          "observed_CpGs": 6796,
+          "valid_observations": 78028
+        },
+        {
+          "run": "ERR16782318",
+          "total_bins": 188,
+          "displayed_bins": 38,
+          "line_segments": 35,
+          "observed_CpGs": 6539,
+          "valid_observations": 70451
+        },
+        {
+          "run": "ERR16782319",
+          "total_bins": 188,
+          "displayed_bins": 39,
+          "line_segments": 35,
+          "observed_CpGs": 6678,
+          "valid_observations": 50409
+        }
+      ],
+      "figure": "S4.49",
+      "array": {
+        "array_id": "TU.NC_133200.1.CL1.R001",
+        "species": "TU",
+        "assembly": "GCF_049306965.1",
+        "seqid": "NC_133200.1",
+        "chromosome": "25",
+        "family": "CL1",
+        "start0": "27296923",
+        "end0": "28761108",
+        "span_bp": "1464185",
+        "supported_bp": "1428116",
+        "interruption_bp": "36069",
+        "support_fraction": "0.9753658178440566",
+        "source_records": "9",
+        "supported_tracts": "9",
+        "N_bp": "0",
+        "non_ACGT_bp": "4",
+        "qualifies_large": "True",
+        "minimum_supported_bp": "50000",
+        "maximum_interruption_bp": "25000",
+        "plot_start0": "27096923",
+        "plot_end0": "28961108",
+        "boundary_scope": "operational region; observed source evidence; not a validated biological endpoint",
+        "census_scope": "complete TU source catalogue"
+      }
+    }
+  ],
+  "main_examples": [
+    "TU.NC_133178.1.CL2.R001",
+    "TU.NC_133178.1.CL1.R001",
+    "TU.NC_133178.1.CL2.R003",
+    "TU.NC_133196.1.CL2.R001",
+    "TU.NC_133196.1.CL1.R001"
+  ],
+  "bin_bp": 10000,
+  "min_observed_CpGs": 10,
+  "zero_is_display_only": true
+}

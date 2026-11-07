@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+/figures/
+/checks/
+.venv/
+*.bam
+*.bai
+*.fastq*
+*.sra

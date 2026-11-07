@@ -1,0 +1,10 @@
+window	seqid	start0	end0	family	anchored_reads_with_unit_calls	reads_with_at_least_4_alternating_units	maximum_units	runs_attaining_max	scope
+I1	NC_133186.1	16434169	16436169	CL1	0	0	0		selected local windows only; runs from assembly material; no whole-array or independent-individual validation
+I2	NC_133178.1	52600683	52602683	CL1	0	0	0		selected local windows only; runs from assembly material; no whole-array or independent-individual validation
+I3	NC_133184.1	16747912	16749912	CL1	0	0	0		selected local windows only; runs from assembly material; no whole-array or independent-individual validation
+I4	NC_133180.1	50348627	50350627	CL2	0	0	0		selected local windows only; runs from assembly material; no whole-array or independent-individual validation
+I5	NC_133180.1	50348627	50350627	CL2	0	0	0		selected local windows only; runs from assembly material; no whole-array or independent-individual validation
+I6	NC_133178.1	47460629	47462629	CL2	203	0	1	SRR30635742|SRR30635744|SRR30635745|SRR30635746|SRR30635747|SRR30635748|SRR30635749|SRR30635750|SRR30635751|SRR30635752	selected local windows only; runs from assembly material; no whole-array or independent-individual validation
+I7	NC_133196.1	28131182	28133182	CL2	0	0	0		selected local windows only; runs from assembly material; no whole-array or independent-individual validation
+I8	NC_133196.1	28086754	28088754	CL2	0	0	0		selected local windows only; runs from assembly material; no whole-array or independent-individual validation
+I9	NC_133196.1	28138340	28140340	CL2	174	118	7	SRR30635742|SRR30635744|SRR30635745|SRR30635746|SRR30635747|SRR30635748|SRR30635749|SRR30635750|SRR30635751|SRR30635752	selected local windows only; runs from assembly material; no whole-array or independent-individual validation

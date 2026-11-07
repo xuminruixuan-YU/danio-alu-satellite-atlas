@@ -1,0 +1,54 @@
+[
+  {
+    "assembly": "TU",
+    "tiles": 86,
+    "core_bp": 86000000,
+    "subtype_calls": {
+      "unknown": 315627,
+      "B": 20351,
+      "A": 19319,
+      "order_specific_coordinates": 140
+    },
+    "rotation_starts": {
+      "exact": 167554,
+      "82..102": 8883,
+      "other": 267,
+      "1..10": 73
+    }
+  },
+  {
+    "assembly": "SAT",
+    "tiles": 77,
+    "core_bp": 77000000,
+    "subtype_calls": {
+      "unknown": 275763,
+      "B": 16170,
+      "A": 15458,
+      "order_specific_coordinates": 121
+    },
+    "rotation_starts": {
+      "exact": 145096,
+      "other": 298,
+      "82..102": 7513,
+      "1..10": 65
+    }
+  },
+  {
+    "assembly": "Fish11",
+    "tiles": 83,
+    "core_bp": 83000000,
+    "subtype_calls": {
+      "unknown": 312164,
+      "B": 21116,
+      "A": 20970,
+      "order_specific_coordinates": 137
+    },
+    "rotation_starts": {
+      "exact": 166912,
+      "other": 271,
+      "82..102": 9003,
+      "1..10": 92,
+      "no_same_strand_CL2": 1
+    }
+  }
+]

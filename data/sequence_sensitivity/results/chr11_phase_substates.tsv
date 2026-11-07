@@ -1,0 +1,5 @@
+original_status	phase_state	equivalent_sequence	units
+normalized	unique	True	15
+source_family_only	offset_and_span_tie	False	3
+source_family_only	origin_not_covered	False	12
+source_family_only	span_tie	True	7683

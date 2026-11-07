@@ -1,0 +1,24 @@
+accession	type	role	url	redistributed
+GCF_049306965.1	assembly	primary TU reference; 25 nuclear chromosomes	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049306965.1/	no; retrieve this exact assembly version
+GCA_903798145.1	assembly	D. aesculapii nuclear reference	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_903798145.1/	no; retrieve this exact assembly version
+GCA_903798195.1	assembly	D. kyathit nuclear reference	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_903798195.1/	no; retrieve this exact assembly version
+GCA_944039275.1	assembly	SAT auxiliary structure comparison	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_944039275.1/	no; retrieve this exact assembly version
+GCA_033170195.3	assembly	Fish11 auxiliary structure comparison	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_033170195.3/	no; retrieve this exact assembly version
+ERR16782314	modBAM	PRJEB108899 adult TL forebrain	https://www.ebi.ac.uk/ena/browser/view/ERR16782314	no; retrieve submitted modBAM with MM/ML tags
+ERR16782315	modBAM	PRJEB108899 adult TL forebrain	https://www.ebi.ac.uk/ena/browser/view/ERR16782315	no; retrieve submitted modBAM with MM/ML tags
+ERR16782316	modBAM	PRJEB108899 adult TL forebrain	https://www.ebi.ac.uk/ena/browser/view/ERR16782316	no; retrieve submitted modBAM with MM/ML tags
+ERR16782317	modBAM	PRJEB108899 adult TL forebrain	https://www.ebi.ac.uk/ena/browser/view/ERR16782317	no; retrieve submitted modBAM with MM/ML tags
+ERR16782318	modBAM	PRJEB108899 adult TL forebrain	https://www.ebi.ac.uk/ena/browser/view/ERR16782318	no; retrieve submitted modBAM with MM/ML tags
+ERR16782319	modBAM	PRJEB108899 adult TL forebrain	https://www.ebi.ac.uk/ena/browser/view/ERR16782319	no; retrieve submitted modBAM with MM/ML tags
+SRR30635750	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635750	no; source data obtained via NCBI
+SRR30635742	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635742	no; source data obtained via NCBI
+SRR30635744	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635744	no; source data obtained via NCBI
+SRR30635745	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635745	no; source data obtained via NCBI
+SRR30635746	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635746	no; source data obtained via NCBI
+SRR30635747	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635747	no; source data obtained via NCBI
+SRR30635748	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635748	no; source data obtained via NCBI
+SRR30635749	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635749	no; source data obtained via NCBI
+SRR30635751	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635751	no; source data obtained via NCBI
+SRR30635752	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635752	no; source data obtained via NCBI
+M83125.1	historical_clone	AluI satellite identity	https://www.ebi.ac.uk/ena/browser/view/M83125.1	sequence relationships retained in derived alignment tables
+M83127.1	historical_clone	AluI satellite identity	https://www.ebi.ac.uk/ena/browser/view/M83127.1	sequence relationships retained in derived alignment tables

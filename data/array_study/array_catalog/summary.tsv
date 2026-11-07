@@ -1,0 +1,7 @@
+species	assembly	family	source_records	all_supported_regions	large_regions	large_chromosomes	small_regions	large_supported_bp	large_span_bp	unresolved_source_records
+TU	GCF_049306965.1	CL1	195	29	25	25	4	32680021	33494395	0
+TU	GCF_049306965.1	CL2	181	48	24	17	24	32909559	33204068	0
+aesculapii	GCA_903798145.1	CL1	17	5	0	0	5	0	0	416
+aesculapii	GCA_903798145.1	CL2	256	142	0	0	142	0	0	291
+kyathit	GCA_903798195.1	CL1	0	0	0	0	0	0	0	215
+kyathit	GCA_903798195.1	CL2	114	63	0	0	63	0	0	170

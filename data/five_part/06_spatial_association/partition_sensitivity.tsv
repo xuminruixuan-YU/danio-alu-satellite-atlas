@@ -1,0 +1,5 @@
+partition	total_loci	CL1_only	CL2_only	mixed_family_loci	interruption_bp	scope
+bridged	351	184	167	0	751	operational grouping only; family-covered coordinates unchanged
+split	376	195	181	0	0	operational grouping only; family-covered coordinates unchanged
+with_phase_bridges	347	184	163	0	767	operational grouping only; family-covered coordinates unchanged
+with_related_call_bridges	344	182	162	0	800	operational grouping only; family-covered coordinates unchanged

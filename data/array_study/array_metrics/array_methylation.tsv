@@ -1,0 +1,295 @@
+run	array_id	family	chromosome	callable_CpGs	valid_observations	median_CpG_depth	CpG_equal_5mC	observation_weighted_5mC	scope
+ERR16782314	TU.NC_133176.1.CL1.R001	CL1	1	95	189	2	0.7517543859649123	0.7407407407407407	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133177.1.CL1.R001	CL1	2	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133178.1.CL1.R001	CL1	3	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133179.1.CL1.R001	CL1	4	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133180.1.CL1.R001	CL1	5	3	3	1	1.0	1.0	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133181.1.CL1.R001	CL1	6	321	357	1	0.7819314641744548	0.7843137254901961	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133182.1.CL1.R002	CL1	7	274	499	1.0	0.869589271231607	0.8336673346693386	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133183.1.CL1.R002	CL1	8	22	22	1.0	0.8636363636363636	0.8636363636363636	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133184.1.CL1.R001	CL1	9	263	265	1	0.5855513307984791	0.5886792452830188	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133185.1.CL1.R001	CL1	10	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133186.1.CL1.R002	CL1	11	96	109	1.0	0.9600694444444444	0.9541284403669725	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133187.1.CL1.R001	CL1	12	183	183	1	0.9234972677595629	0.9234972677595629	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133188.1.CL1.R001	CL1	13	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133189.1.CL1.R001	CL1	14	312	474	1.0	0.8573717948717948	0.8502109704641351	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133190.1.CL1.R001	CL1	15	362	564	2.0	0.7992633517495396	0.7907801418439716	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133191.1.CL1.R001	CL1	16	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133192.1.CL1.R001	CL1	17	47	47	1	0.8723404255319149	0.8723404255319149	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133193.1.CL1.R001	CL1	18	116	168	1.0	0.7830459770114943	0.7857142857142857	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133194.1.CL1.R001	CL1	19	73	98	1	0.5547945205479452	0.5306122448979592	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133195.1.CL1.R001	CL1	20	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133196.1.CL1.R001	CL1	21	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133197.1.CL1.R001	CL1	22	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133198.1.CL1.R001	CL1	23	243	243	1	0.8765432098765432	0.8765432098765432	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133199.1.CL1.R001	CL1	24	174	287	2.0	0.8060344827586207	0.794425087108014	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133200.1.CL1.R001	CL1	25	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133177.1.CL2.R001	CL2	2	259	461	1	0.6435649935649935	0.6117136659436009	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133178.1.CL2.R001	CL2	3	22	76	4.0	0.5257575757575758	0.5	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133178.1.CL2.R003	CL2	3	1	2	2	0.5	0.5	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133179.1.CL2.R001	CL2	4	45	74	2	0.5444444444444444	0.5675675675675675	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133180.1.CL2.R001	CL2	5	3	3	1	0.0	0.0	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133180.1.CL2.R002	CL2	5	24	32	1.0	0.5625	0.53125	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133182.1.CL2.R001	CL2	7	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133182.1.CL2.R003	CL2	7	31	103	3	0.5284946236559139	0.5048543689320388	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133182.1.CL2.R004	CL2	7	34	49	1.0	0.7058823529411765	0.673469387755102	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133183.1.CL2.R003	CL2	8	68	206	3.0	0.6098039215686274	0.6407766990291263	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133183.1.CL2.R005	CL2	8	143	161	1	0.548951048951049	0.5590062111801242	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133185.1.CL2.R001	CL2	10	220	716	3.0	0.5113636363636364	0.5195530726256983	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133188.1.CL2.R002	CL2	13	183	244	1	0.680327868852459	0.6639344262295082	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133189.1.CL2.R003	CL2	14	65	129	1	0.6630769230769231	0.6046511627906976	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133190.1.CL2.R002	CL2	15	142	319	1.0	0.4280516431924883	0.45141065830721006	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133190.1.CL2.R003	CL2	15	23	23	1	0.4782608695652174	0.4782608695652174	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133191.1.CL2.R001	CL2	16	192	363	1.5	0.5911458333333334	0.6143250688705234	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133192.1.CL2.R001	CL2	17	11	11	1	0.7272727272727273	0.7272727272727273	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133192.1.CL2.R003	CL2	17	266	432	1.0	0.45457393483709274	0.4837962962962963	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133195.1.CL2.R002	CL2	20	116	137	1.0	0.5991379310344828	0.5766423357664233	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133196.1.CL2.R001	CL2	21	128	175	1.0	0.6083333333333333	0.5885714285714285	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133197.1.CL2.R001	CL2	22	42	61	1.0	0.7857142857142857	0.8032786885245902	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133198.1.CL2.R003	CL2	23	143	306	2	0.506993006993007	0.5163398692810458	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782314	TU.NC_133199.1.CL2.R002	CL2	24	70	122	2.0	0.5333333333333333	0.5163934426229508	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133176.1.CL1.R001	CL1	1	28	28	1.0	0.7142857142857143	0.7142857142857143	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133177.1.CL1.R001	CL1	2	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133178.1.CL1.R001	CL1	3	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133179.1.CL1.R001	CL1	4	9	9	1	1.0	1.0	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133180.1.CL1.R001	CL1	5	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133181.1.CL1.R001	CL1	6	112	144	1.0	0.8883928571428571	0.9027777777777778	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133182.1.CL1.R002	CL1	7	263	439	1	0.8814955640050697	0.8656036446469249	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133183.1.CL1.R002	CL1	8	39	118	3	0.8576923076923076	0.847457627118644	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133184.1.CL1.R001	CL1	9	222	274	1.0	0.8198198198198198	0.8138686131386861	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133185.1.CL1.R001	CL1	10	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133186.1.CL1.R002	CL1	11	239	285	1	0.9309623430962343	0.9192982456140351	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133187.1.CL1.R001	CL1	12	33	56	2	0.9242424242424242	0.9107142857142857	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133188.1.CL1.R001	CL1	13	6	6	1.0	0.6666666666666666	0.6666666666666666	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133189.1.CL1.R001	CL1	14	115	147	1	0.7913043478260869	0.7414965986394558	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133190.1.CL1.R001	CL1	15	58	58	1.0	0.6724137931034483	0.6724137931034483	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133191.1.CL1.R001	CL1	16	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133192.1.CL1.R001	CL1	17	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133193.1.CL1.R001	CL1	18	183	393	2	0.75591985428051	0.7175572519083969	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133194.1.CL1.R001	CL1	19	212	326	1.0	0.8617138364779874	0.8619631901840491	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133195.1.CL1.R001	CL1	20	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133196.1.CL1.R001	CL1	21	171	171	1	0.7543859649122807	0.7543859649122807	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133197.1.CL1.R001	CL1	22	35	35	1	0.6857142857142857	0.6857142857142857	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133198.1.CL1.R001	CL1	23	142	142	1.0	0.5211267605633803	0.5211267605633803	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133199.1.CL1.R001	CL1	24	166	234	1.0	0.8921686746987951	0.8504273504273504	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133200.1.CL1.R001	CL1	25	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133177.1.CL2.R001	CL2	2	149	172	1	0.7986577181208053	0.7906976744186046	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133178.1.CL2.R001	CL2	3	472	786	1.0	0.6016949152542372	0.6055979643765903	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133178.1.CL2.R003	CL2	3	247	528	2	0.5563427800269906	0.5776515151515151	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133179.1.CL2.R001	CL2	4	61	176	3	0.4773224043715847	0.45454545454545453	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133180.1.CL2.R001	CL2	5	14	25	2.0	0.5714285714285714	0.6	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133180.1.CL2.R002	CL2	5	23	28	1	0.41304347826086957	0.4642857142857143	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133182.1.CL2.R001	CL2	7	306	629	2.0	0.4520152505446623	0.4578696343402226	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133182.1.CL2.R003	CL2	7	73	121	1	0.5616438356164384	0.6033057851239669	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133182.1.CL2.R004	CL2	7	40	53	1.0	0.6458333333333334	0.6037735849056604	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133183.1.CL2.R003	CL2	8	90	208	2.0	0.5996296296296296	0.6009615384615384	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133183.1.CL2.R005	CL2	8	259	794	3	0.5396396396396397	0.5503778337531486	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133185.1.CL2.R001	CL2	10	122	402	2.0	0.5906287701369669	0.664179104477612	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133188.1.CL2.R002	CL2	13	42	129	3.0	0.6428571428571429	0.6434108527131783	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133189.1.CL2.R003	CL2	14	388	816	1.0	0.4344880134184258	0.4681372549019608	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133190.1.CL2.R002	CL2	15	84	257	3.0	0.5086451247165533	0.5914396887159533	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133190.1.CL2.R003	CL2	15	73	160	2	0.4726027397260274	0.475	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133191.1.CL2.R001	CL2	16	69	190	2	0.38816425120772946	0.4105263157894737	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133192.1.CL2.R001	CL2	17	30	30	1.0	0.6333333333333333	0.6333333333333333	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133192.1.CL2.R003	CL2	17	290	649	1.0	0.576027640941434	0.6117103235747303	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133195.1.CL2.R002	CL2	20	143	238	2	0.5034965034965035	0.4957983193277311	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133196.1.CL2.R001	CL2	21	114	272	2.0	0.5590643274853802	0.5992647058823529	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133197.1.CL2.R001	CL2	22	60	84	1.0	0.5666666666666667	0.6071428571428571	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133198.1.CL2.R003	CL2	23	168	536	3.0	0.5209183673469387	0.5186567164179104	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782315	TU.NC_133199.1.CL2.R002	CL2	24	82	241	3.0	0.6280487804878049	0.5767634854771784	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133176.1.CL1.R001	CL1	1	94	109	1.0	0.6648936170212766	0.6697247706422018	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133177.1.CL1.R001	CL1	2	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133178.1.CL1.R001	CL1	3	47	47	1	0.7446808510638298	0.7446808510638298	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133179.1.CL1.R001	CL1	4	24	24	1.0	0.9166666666666666	0.9166666666666666	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133180.1.CL1.R001	CL1	5	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133181.1.CL1.R001	CL1	6	360	687	1.0	0.7102843915343915	0.7583697234352256	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133182.1.CL1.R002	CL1	7	96	182	2.0	0.8541666666666666	0.8571428571428571	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133183.1.CL1.R002	CL1	8	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133184.1.CL1.R001	CL1	9	203	280	1	0.583743842364532	0.5857142857142857	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133185.1.CL1.R001	CL1	10	43	43	1	0.813953488372093	0.813953488372093	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133186.1.CL1.R002	CL1	11	323	443	1	0.7014963880288958	0.7268623024830699	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133187.1.CL1.R001	CL1	12	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133188.1.CL1.R001	CL1	13	19	19	1	1.0	1.0	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133189.1.CL1.R001	CL1	14	155	245	1	0.7419354838709677	0.7183673469387755	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133190.1.CL1.R001	CL1	15	344	755	2.0	0.8146802325581395	0.7947019867549668	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133191.1.CL1.R001	CL1	16	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133192.1.CL1.R001	CL1	17	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133193.1.CL1.R001	CL1	18	100	144	1.0	0.92	0.9236111111111112	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133194.1.CL1.R001	CL1	19	193	193	1	0.8549222797927462	0.8549222797927462	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133195.1.CL1.R001	CL1	20	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133196.1.CL1.R001	CL1	21	81	81	1	0.4567901234567901	0.4567901234567901	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133197.1.CL1.R001	CL1	22	132	132	1.0	0.9393939393939394	0.9393939393939394	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133198.1.CL1.R001	CL1	23	87	87	1	0.9195402298850575	0.9195402298850575	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133199.1.CL1.R001	CL1	24	28	28	1.0	0.8571428571428571	0.8571428571428571	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133200.1.CL1.R001	CL1	25	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133177.1.CL2.R001	CL2	2	50	50	1.0	0.58	0.58	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133178.1.CL2.R001	CL2	3	542	684	1.0	0.6060885608856088	0.6081871345029239	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133178.1.CL2.R003	CL2	3	2	2	1.0	0.5	0.5	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133179.1.CL2.R001	CL2	4	32	32	1.0	0.5	0.5	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133180.1.CL2.R001	CL2	5	50	85	2.0	0.5033333333333333	0.47058823529411764	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133180.1.CL2.R002	CL2	5	15	15	1	0.7333333333333333	0.7333333333333333	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133182.1.CL2.R001	CL2	7	209	253	1	0.361244019138756	0.35968379446640314	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133182.1.CL2.R003	CL2	7	62	107	1.0	0.39919354838709675	0.3644859813084112	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133182.1.CL2.R004	CL2	7	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133183.1.CL2.R003	CL2	8	79	121	1	0.6497890295358649	0.6859504132231405	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133183.1.CL2.R005	CL2	8	31	54	1	0.24731182795698925	0.35185185185185186	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133185.1.CL2.R001	CL2	10	322	749	2.0	0.49736024844720494	0.5020026702269693	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133188.1.CL2.R002	CL2	13	85	157	1	0.5196078431372549	0.6242038216560509	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133189.1.CL2.R003	CL2	14	262	576	2.0	0.6244910941475827	0.625	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133190.1.CL2.R002	CL2	15	171	467	3	0.46668059036480086	0.49464668094218417	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133190.1.CL2.R003	CL2	15	16	20	1.0	0.28125	0.3	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133191.1.CL2.R001	CL2	16	121	335	3	0.6590909090909091	0.6268656716417911	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133192.1.CL2.R001	CL2	17	46	48	1.0	0.5543478260869565	0.5416666666666666	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133192.1.CL2.R003	CL2	17	441	1230	3	0.586885865457294	0.5878048780487805	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133195.1.CL2.R002	CL2	20	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133196.1.CL2.R001	CL2	21	31	31	1	0.3548387096774194	0.3548387096774194	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133197.1.CL2.R001	CL2	22	47	87	2	0.6631205673758865	0.6896551724137931	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133198.1.CL2.R003	CL2	23	99	139	1	0.4292929292929293	0.4244604316546763	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782316	TU.NC_133199.1.CL2.R002	CL2	24	55	65	1	0.6454545454545455	0.6461538461538462	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133176.1.CL1.R001	CL1	1	50	100	2.0	0.8	0.77	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133177.1.CL1.R001	CL1	2	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133178.1.CL1.R001	CL1	3	80	80	1.0	0.8625	0.8625	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133179.1.CL1.R001	CL1	4	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133180.1.CL1.R001	CL1	5	1	1	1	1.0	1.0	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133181.1.CL1.R001	CL1	6	59	59	1	0.864406779661017	0.864406779661017	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133182.1.CL1.R002	CL1	7	102	146	1.0	0.7238562091503268	0.7054794520547946	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133183.1.CL1.R002	CL1	8	35	35	1	0.9428571428571428	0.9428571428571428	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133184.1.CL1.R001	CL1	9	22	22	1.0	0.45454545454545453	0.45454545454545453	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133185.1.CL1.R001	CL1	10	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133186.1.CL1.R002	CL1	11	68	68	1.0	0.7647058823529411	0.7647058823529411	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133187.1.CL1.R001	CL1	12	105	127	1	0.8333333333333334	0.8346456692913385	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133188.1.CL1.R001	CL1	13	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133189.1.CL1.R001	CL1	14	200	217	1.0	0.8425	0.8433179723502304	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133190.1.CL1.R001	CL1	15	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133191.1.CL1.R001	CL1	16	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133192.1.CL1.R001	CL1	17	15	15	1	0.8	0.8	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133193.1.CL1.R001	CL1	18	190	230	1.0	0.9140350877192982	0.8956521739130435	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133194.1.CL1.R001	CL1	19	95	192	2	0.6398245614035087	0.6770833333333334	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133195.1.CL1.R001	CL1	20	65	113	1	0.5858974358974359	0.6460176991150443	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133196.1.CL1.R001	CL1	21	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133197.1.CL1.R001	CL1	22	291	300	1	0.627147766323024	0.6266666666666667	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133198.1.CL1.R001	CL1	23	90	173	2.0	0.8425925925925926	0.8497109826589595	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133199.1.CL1.R001	CL1	24	32	42	1.0	0.5625	0.5238095238095238	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133200.1.CL1.R001	CL1	25	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133177.1.CL2.R001	CL2	2	59	74	1	0.7796610169491526	0.7432432432432432	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133178.1.CL2.R001	CL2	3	192	358	2.0	0.6177951388888889	0.6145251396648045	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133178.1.CL2.R003	CL2	3	225	279	1	0.6337037037037037	0.6236559139784946	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133179.1.CL2.R001	CL2	4	46	80	1.0	0.4692028985507246	0.475	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133180.1.CL2.R001	CL2	5	11	28	3	0.6363636363636364	0.6071428571428571	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133180.1.CL2.R002	CL2	5	18	46	3.0	0.5324074074074074	0.5434782608695652	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133182.1.CL2.R001	CL2	7	193	264	1	0.45768566493955093	0.5	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133182.1.CL2.R003	CL2	7	59	75	1	0.4830508474576271	0.5066666666666667	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133182.1.CL2.R004	CL2	7	42	101	2.0	0.5674603174603174	0.5247524752475248	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133183.1.CL2.R003	CL2	8	72	206	3.0	0.6296296296296297	0.6407766990291263	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133183.1.CL2.R005	CL2	8	158	301	2.0	0.4947257383966245	0.4850498338870432	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133185.1.CL2.R001	CL2	10	188	477	2.0	0.4179141337386018	0.46750524109014674	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133188.1.CL2.R002	CL2	13	68	214	3.0	0.45	0.514018691588785	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133189.1.CL2.R003	CL2	14	481	1085	2	0.6075091575091575	0.6184331797235023	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133190.1.CL2.R002	CL2	15	124	352	2.0	0.4939132104454685	0.5227272727272727	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133190.1.CL2.R003	CL2	15	75	216	3	0.42577777777777776	0.4305555555555556	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133191.1.CL2.R001	CL2	16	71	252	4	0.5204225352112676	0.5317460317460317	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133192.1.CL2.R001	CL2	17	47	52	1	0.4148936170212766	0.4230769230769231	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133192.1.CL2.R003	CL2	17	51	66	1	0.27450980392156865	0.30303030303030304	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133195.1.CL2.R002	CL2	20	148	259	2.0	0.5822072072072072	0.5714285714285714	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133196.1.CL2.R001	CL2	21	173	390	1	0.5812276355628957	0.6025641025641025	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133197.1.CL2.R001	CL2	22	67	121	2	0.7587064676616916	0.7603305785123967	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133198.1.CL2.R003	CL2	23	427	1006	1	0.6083006376917384	0.6013916500994035	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782317	TU.NC_133199.1.CL2.R002	CL2	24	66	134	2.0	0.6313131313131313	0.6417910447761194	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133176.1.CL1.R001	CL1	1	147	147	1	0.7619047619047619	0.7619047619047619	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133177.1.CL1.R001	CL1	2	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133178.1.CL1.R001	CL1	3	129	129	1	0.937984496124031	0.937984496124031	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133179.1.CL1.R001	CL1	4	18	28	1.0	0.8796296296296297	0.8571428571428571	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133180.1.CL1.R001	CL1	5	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133181.1.CL1.R001	CL1	6	235	416	1	0.8893617021276595	0.8966346153846154	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133182.1.CL1.R002	CL1	7	386	753	1.0	0.8894645941278065	0.8884462151394422	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133183.1.CL1.R002	CL1	8	34	47	1.0	0.8823529411764706	0.8936170212765957	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133184.1.CL1.R001	CL1	9	49	49	1	0.8775510204081632	0.8775510204081632	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133185.1.CL1.R001	CL1	10	119	119	1	0.7058823529411765	0.7058823529411765	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133186.1.CL1.R002	CL1	11	143	341	2	0.7456876456876457	0.7683284457478006	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133187.1.CL1.R001	CL1	12	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133188.1.CL1.R001	CL1	13	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133189.1.CL1.R001	CL1	14	174	338	2.0	0.6781609195402298	0.7218934911242604	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133190.1.CL1.R001	CL1	15	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133191.1.CL1.R001	CL1	16	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133192.1.CL1.R001	CL1	17	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133193.1.CL1.R001	CL1	18	121	191	1	0.6831955922865014	0.6858638743455497	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133194.1.CL1.R001	CL1	19	19	19	1	0.8947368421052632	0.8947368421052632	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133195.1.CL1.R001	CL1	20	54	54	1.0	0.7037037037037037	0.7037037037037037	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133196.1.CL1.R001	CL1	21	92	166	1.5	0.6612318840579711	0.6325301204819277	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133197.1.CL1.R001	CL1	22	47	47	1	0.574468085106383	0.574468085106383	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133198.1.CL1.R001	CL1	23	225	482	2	0.7907407407407407	0.7800829875518672	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133199.1.CL1.R001	CL1	24	54	92	1.0	0.7407407407407407	0.6956521739130435	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133200.1.CL1.R001	CL1	25	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133177.1.CL2.R001	CL2	2	91	172	2	0.6373626373626373	0.6569767441860465	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133178.1.CL2.R001	CL2	3	550	976	1.0	0.5110303030303031	0.5092213114754098	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133178.1.CL2.R003	CL2	3	42	44	1.0	0.4880952380952381	0.5	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133179.1.CL2.R001	CL2	4	62	106	1.0	0.46236559139784944	0.4056603773584906	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133180.1.CL2.R001	CL2	5	3	8	2	0.9166666666666666	0.875	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133180.1.CL2.R002	CL2	5	21	61	3	0.5793650793650793	0.6229508196721312	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133182.1.CL2.R001	CL2	7	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133182.1.CL2.R003	CL2	7	29	43	1	0.4281609195402299	0.3953488372093023	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133182.1.CL2.R004	CL2	7	26	26	1.0	0.5384615384615384	0.5384615384615384	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133183.1.CL2.R003	CL2	8	64	159	3.0	0.4479166666666667	0.4716981132075472	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133183.1.CL2.R005	CL2	8	221	326	1	0.502262443438914	0.5	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133185.1.CL2.R001	CL2	10	228	479	2.0	0.5413011695906432	0.5511482254697286	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133188.1.CL2.R002	CL2	13	132	262	2.0	0.3806818181818182	0.4083969465648855	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133189.1.CL2.R003	CL2	14	110	235	1.5	0.5533333333333333	0.548936170212766	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133190.1.CL2.R002	CL2	15	219	550	2	0.5253424657534247	0.4672727272727273	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133190.1.CL2.R003	CL2	15	73	134	2	0.3744292237442922	0.3880597014925373	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133191.1.CL2.R001	CL2	16	165	216	1	0.3797979797979798	0.39814814814814814	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133192.1.CL2.R001	CL2	17	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133192.1.CL2.R003	CL2	17	77	114	1	0.577922077922078	0.5877192982456141	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133195.1.CL2.R002	CL2	20	86	140	1.0	0.6918604651162791	0.65	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133196.1.CL2.R001	CL2	21	158	207	1.0	0.5485232067510548	0.5700483091787439	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133197.1.CL2.R001	CL2	22	68	137	2.0	0.6446078431372549	0.6715328467153284	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133198.1.CL2.R003	CL2	23	162	399	2.0	0.4996766607877719	0.5137844611528822	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782318	TU.NC_133199.1.CL2.R002	CL2	24	29	29	1	0.6206896551724138	0.6206896551724138	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133176.1.CL1.R001	CL1	1	71	71	1	0.5915492957746479	0.5915492957746479	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133177.1.CL1.R001	CL1	2	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133178.1.CL1.R001	CL1	3	158	347	2.0	0.8897679324894515	0.8703170028818443	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133179.1.CL1.R001	CL1	4	14	20	1.0	0.75	0.65	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133180.1.CL1.R001	CL1	5	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133181.1.CL1.R001	CL1	6	147	247	2	0.804875283446712	0.7854251012145749	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133182.1.CL1.R002	CL1	7	124	124	1.0	0.8951612903225806	0.8951612903225806	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133183.1.CL1.R002	CL1	8	36	51	1.0	0.9027777777777778	0.9215686274509803	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133184.1.CL1.R001	CL1	9	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133185.1.CL1.R001	CL1	10	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133186.1.CL1.R002	CL1	11	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133187.1.CL1.R001	CL1	12	31	47	2	0.9032258064516129	0.9148936170212766	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133188.1.CL1.R001	CL1	13	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133189.1.CL1.R001	CL1	14	195	386	2	0.7985470085470086	0.8031088082901554	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133190.1.CL1.R001	CL1	15	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133191.1.CL1.R001	CL1	16	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133192.1.CL1.R001	CL1	17	15	15	1	0.6666666666666666	0.6666666666666666	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133193.1.CL1.R001	CL1	18	34	50	1.0	0.6764705882352942	0.64	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133194.1.CL1.R001	CL1	19	100	100	1.0	0.81	0.81	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133195.1.CL1.R001	CL1	20	3	3	1	0.3333333333333333	0.3333333333333333	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133196.1.CL1.R001	CL1	21	90	141	2.0	0.6777777777777778	0.6666666666666666	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133197.1.CL1.R001	CL1	22	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133198.1.CL1.R001	CL1	23	80	80	1.0	0.8625	0.8625	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133199.1.CL1.R001	CL1	24	44	68	1.0	0.8068181818181818	0.7794117647058824	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133200.1.CL1.R001	CL1	25	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133177.1.CL2.R001	CL2	2	134	134	1.0	0.8208955223880597	0.8208955223880597	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133178.1.CL2.R001	CL2	3	692	955	1.0	0.4913294797687861	0.48900523560209425	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133178.1.CL2.R003	CL2	3	59	70	1	0.655367231638418	0.6714285714285714	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133179.1.CL2.R001	CL2	4	49	115	2	0.42517006802721086	0.4	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133180.1.CL2.R001	CL2	5	3	10	3	0.8888888888888888	0.9	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133180.1.CL2.R002	CL2	5	18	56	3.0	0.49907407407407406	0.5	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133182.1.CL2.R001	CL2	7	85	100	1	0.3411764705882353	0.37	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133182.1.CL2.R003	CL2	7	18	18	1.0	0.9444444444444444	0.9444444444444444	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133182.1.CL2.R004	CL2	7	38	74	2.0	0.4956140350877193	0.4594594594594595	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133183.1.CL2.R003	CL2	8	58	112	2.0	0.4324712643678161	0.44642857142857145	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133183.1.CL2.R005	CL2	8	192	313	1.0	0.6373263888888889	0.670926517571885	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133185.1.CL2.R001	CL2	10	92	120	1.0	0.5670289855072463	0.6	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133188.1.CL2.R002	CL2	13	44	83	2.0	0.7083333333333334	0.6746987951807228	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133189.1.CL2.R003	CL2	14	81	130	1	0.5709876543209876	0.6076923076923076	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133190.1.CL2.R002	CL2	15	30	30	1.0	0.6333333333333333	0.6333333333333333	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133190.1.CL2.R003	CL2	15	53	53	1	0.5660377358490566	0.5660377358490566	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133191.1.CL2.R001	CL2	16	52	77	1.0	0.4423076923076923	0.45454545454545453	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133192.1.CL2.R001	CL2	17	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133192.1.CL2.R003	CL2	17	61	136	2	0.41939890710382516	0.4411764705882353	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133195.1.CL2.R002	CL2	20	84	87	1.0	0.5892857142857143	0.5977011494252874	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133196.1.CL2.R001	CL2	21	192	234	1.0	0.5026041666666666	0.49572649572649574	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133197.1.CL2.R001	CL2	22	0	0				position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133198.1.CL2.R003	CL2	23	84	209	2.0	0.6958333333333333	0.6650717703349283	position-validated satellite read subset; unobserved sequence not imputed
+ERR16782319	TU.NC_133199.1.CL2.R002	CL2	24	97	179	1	0.6113402061855671	0.5977653631284916	position-validated satellite read subset; unobserved sequence not imputed

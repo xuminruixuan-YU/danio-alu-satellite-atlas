@@ -1,0 +1,53 @@
+{
+  "all_unit_records": 534022,
+  "regions": 49,
+  "primary_pool_counts_and_coverage_verified": true,
+  "baseline_49_region_counts_and_distances_reproduced": true,
+  "expanded_128": {
+    "CL1": 0.05289747324861225,
+    "CL2": 0.1364196497077912
+  },
+  "expanded_within_between": [
+    {
+      "family": "CL1",
+      "regions": 25,
+      "within4": 0.059423825005896956,
+      "between4": 0.08031271863583625
+    },
+    {
+      "family": "CL2",
+      "regions": 24,
+      "within4": 0.1323817813414298,
+      "between4": 0.14459266711873123
+    }
+  ],
+  "all_scenarios_AT_lower_than_GC": true,
+  "common_copy_values_identical": true,
+  "interpretation_common_copies": "Identical by construction when original unique-normalized copies are held fixed; new mean differences come from copy selection, not edits to those sequences.",
+  "chr11_substates": [
+    {
+      "status": "source_family_only",
+      "phase": "span_tie",
+      "equivalent": true,
+      "n": 7683
+    },
+    {
+      "status": "normalized",
+      "phase": "unique",
+      "equivalent": true,
+      "n": 15
+    },
+    {
+      "status": "source_family_only",
+      "phase": "origin_not_covered",
+      "equivalent": false,
+      "n": 12
+    },
+    {
+      "status": "source_family_only",
+      "phase": "offset_and_span_tie",
+      "equivalent": false,
+      "n": 3
+    }
+  ]
+}

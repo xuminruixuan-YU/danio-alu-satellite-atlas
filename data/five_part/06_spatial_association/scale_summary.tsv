@@ -1,0 +1,4 @@
+bins_per_chromosome	total_bins	bins_with_both_families	CL1_occupied_bins	CL2_occupied_bins
+10	250	9	32	43
+20	500	3	37	52
+50	1250	2	56	70

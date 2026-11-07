@@ -1,0 +1,33 @@
+panel	reference	locus	family	source_seqid	source_window_start0	source_window_end0	markers_tested	reciprocal_markers	sides	reliable_two_sided_span	scope	internal_orthologous_array	biological_absence_inferred
+pilot	GCA_903798145.1	D1	CL2	NC_133178.1	45574451	48483480	14	0		False	correspondence_unresolved	not_delimited	False
+pilot	GCA_903798145.1	D2	CL1	NC_133178.1	51466414	53795204	14	0		False	correspondence_unresolved	not_delimited	False
+pilot	GCA_903798145.1	D3	CL2	NC_133178.1	57395820	59605149	14	1	L	False	distal_single_side_only	not_delimited	False
+pilot	GCA_903798145.1	V4_28500000	CL1	NC_133179.1	28500000	28550000	14	0		False	correspondence_unresolved	not_delimited	False
+pilot	GCA_903798145.1	V4_30950000	CL2	NC_133179.1	30950000	31000000	14	0		False	correspondence_unresolved	not_delimited	False
+pilot	GCA_903798145.1	V7_55450000	CL2	NC_133182.1	55450000	55500000	14	1	L	False	distal_single_side_only	not_delimited	False
+pilot	GCA_903798145.1	V7_61800000	CL1	NC_133182.1	61800000	61850000	14	1	R	False	distal_single_side_only	not_delimited	False
+pilot	GCA_903798195.1	D1	CL2	NC_133178.1	45574451	48483480	14	0		False	correspondence_unresolved	not_delimited	False
+pilot	GCA_903798195.1	D2	CL1	NC_133178.1	51466414	53795204	14	0		False	correspondence_unresolved	not_delimited	False
+pilot	GCA_903798195.1	D3	CL2	NC_133178.1	57395820	59605149	14	0		False	correspondence_unresolved	not_delimited	False
+pilot	GCA_903798195.1	V4_28500000	CL1	NC_133179.1	28500000	28550000	14	0		False	correspondence_unresolved	not_delimited	False
+pilot	GCA_903798195.1	V4_30950000	CL2	NC_133179.1	30950000	31000000	14	0		False	correspondence_unresolved	not_delimited	False
+pilot	GCA_903798195.1	V7_55450000	CL2	NC_133182.1	55450000	55500000	14	1	L	False	distal_single_side_only	not_delimited	False
+pilot	GCA_903798195.1	V7_61800000	CL1	NC_133182.1	61800000	61850000	14	1	R	False	distal_single_side_only	not_delimited	False
+catalogue	GCA_903798145.1	TU.NC_133176.1.split.003	CL1	NC_133176.1	31524873	31786490	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798145.1	TU.NC_133180.1.split.001	CL2	NC_133180.1	48838679	51860575	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798145.1	TU.NC_133180.1.split.006	CL2	NC_133180.1	63884140	63884419	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798145.1	TU.NC_133184.1.split.004	CL1	NC_133184.1	16166978	16748896	14	1	L	False	distal_single_side_only	not_delimited	False
+catalogue	GCA_903798145.1	TU.NC_133185.1.split.015	CL2	NC_133185.1	19648083	21251828	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798145.1	TU.NC_133186.1.split.002	CL1	NC_133186.1	15715183	17155156	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798145.1	TU.NC_133189.1.split.012	CL2	NC_133189.1	23491875	24322682	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798145.1	TU.NC_133195.1.split.013	CL1	NC_133195.1	13796483	14032379	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798145.1	TU.NC_133198.1.split.008	CL1	NC_133198.1	14193218	14193946	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798195.1	TU.NC_133176.1.split.003	CL1	NC_133176.1	31524873	31786490	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798195.1	TU.NC_133180.1.split.001	CL2	NC_133180.1	48838679	51860575	14	1	L	False	distal_single_side_only	not_delimited	False
+catalogue	GCA_903798195.1	TU.NC_133180.1.split.006	CL2	NC_133180.1	63884140	63884419	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798195.1	TU.NC_133184.1.split.004	CL1	NC_133184.1	16166978	16748896	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798195.1	TU.NC_133185.1.split.015	CL2	NC_133185.1	19648083	21251828	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798195.1	TU.NC_133186.1.split.002	CL1	NC_133186.1	15715183	17155156	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798195.1	TU.NC_133189.1.split.012	CL2	NC_133189.1	23491875	24322682	14	1	R	False	distal_single_side_only	not_delimited	False
+catalogue	GCA_903798195.1	TU.NC_133195.1.split.013	CL1	NC_133195.1	13796483	14032379	14	0		False	correspondence_unresolved	not_delimited	False
+catalogue	GCA_903798195.1	TU.NC_133198.1.split.008	CL1	NC_133198.1	14193218	14193946	14	0		False	correspondence_unresolved	not_delimited	False

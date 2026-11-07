@@ -1,0 +1,24 @@
+{
+  "returncode": 0,
+  "records": 6494,
+  "records_touching_core": 6373,
+  "core_bp_scanned": 1000000,
+  "decompressed_sha256": {
+    "final_decomposition.tsv.gz": "dfb3ce634b1ed28b09ac1033f510bac8d5b248ba7722e5d6dcbb487108f51f44",
+    "final_decomposition_raw.tsv.gz": "a5d334545be2e2970723673837c714e189335520856ff2e4aedc1a41510873a9",
+    "final_decomposition_alt.tsv.gz": "3a56e16ffe38e5a31593fd4717caa183f035724429a53f9808d736a696088dbe"
+  },
+  "command": [
+    "stringdecomposer",
+    "working.fa",
+    "../../reverse.fa",
+    "-t",
+    "4",
+    "-i",
+    "0",
+    "--second-best",
+    "-o",
+    "reverse"
+  ],
+  "common_input_sha256": "5af5d13cf8cbad2530188c5e5151582851cf8486f5ff841459cc2007312626cd"
+}

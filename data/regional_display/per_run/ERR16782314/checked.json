@@ -1,0 +1,10 @@
+{
+  "run": "ERR16782314",
+  "CpG_rows_reproduced": 452754,
+  "all_site_class_counts_identical": true,
+  "window_observation_counts_identical": true,
+  "new_unique_contributing_reads": 57911,
+  "old_unique_contributing_reads": 166,
+  "elapsed_seconds": 509.80010199546814,
+  "read_metadata_rows": 57911
+}

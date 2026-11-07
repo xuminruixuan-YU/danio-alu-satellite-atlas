@@ -1,0 +1,10 @@
+{
+  "decoder": "code/regional_methylation/decode_regional_cpg.py",
+  "entry_point": "python code/regional_methylation/decode_regional_cpg.py --reference REFERENCE.fa --regions data/regional_methylation/arrays.json --run RUN --primary-bam preserved_primary.mod.bam --parents complete_parent_alignments.tsv.gz --output OUTPUT",
+  "alignment_preparation": "minimap2 map-ont options in metadata/regional_methylation.json; preserve forward sequence, quality, MM/ML/MN tags when transferring raw calls to primary alignments; include secondary and supplementary rows in parent records; inputs for a sample must be disjoint by read ID",
+  "figures": "python reproduce.py plot tu; python reproduce.py plot aesculapii; python reproduce.py plot kyathit",
+  "note": "Whole raw BAMs are available in PRJEB108899. The figure-ready CpG tables are included; starting from them requires no alignment or raw download.",
+  "separate_output": "render_groups.py tu --output OUTPUT writes only the body and main figure to OUTPUT; cover joining uses the default figures directory.",
+  "baseline_aggregation": "python code/regional_methylation/reproduce_windows.py",
+  "aggregation": "python code/regional_display/reproduce.py --output /tmp/danio-regional-reproduction"
+}

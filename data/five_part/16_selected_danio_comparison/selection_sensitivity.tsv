@@ -1,0 +1,151 @@
+species	family	review_tier	condition	family_cutoff	local_cutoff	windows	comparable_windows	window_equal_mean	scope
+TU	AT	family_relation_unresolved	original			1	1	0.10714285714285714	conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.6	0.6	1	1	0.10714285714285714	conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.6	0.7	1	1	0.10714285714285714	conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.6	0.8	1	1	0.10714285714285714	conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.65	0.6	1	0		conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.65	0.7	1	0		conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.65	0.8	1	0		conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.7	0.6	1	0		conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.7	0.7	1	0		conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.7	0.8	1	0		conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.75	0.6	1	0		conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.75	0.7	1	0		conditional copy filtering; not family admission
+TU	AT	family_relation_unresolved	original	0.75	0.8	1	0		conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original			189	188	0.0620687029420336	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.6	0.6	189	188	0.06132208625498745	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.6	0.7	189	188	0.06132208625498745	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.6	0.8	189	188	0.06120738419944003	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.65	0.6	189	188	0.06132208625498745	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.65	0.7	189	188	0.06132208625498745	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.65	0.8	189	188	0.06120738419944003	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.7	0.6	189	188	0.06132208625498745	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.7	0.7	189	188	0.06132208625498745	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.7	0.8	189	188	0.06120738419944003	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.75	0.6	189	188	0.0611550025000885	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.75	0.7	189	188	0.0611550025000885	conditional copy filtering; not family admission
+TU	AT	historical_annotation_supported	original	0.75	0.8	189	188	0.061040300444541076	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original			185	184	0.14726181794889187	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.6	0.6	185	184	0.14710281889434584	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.6	0.7	185	184	0.14703727471525857	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.6	0.8	185	184	0.14489564738915992	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.65	0.6	185	184	0.14692587854998718	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.65	0.7	185	184	0.14692587854998718	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.65	0.8	185	184	0.14489564738915992	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.7	0.6	185	184	0.14680906551369485	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.7	0.7	185	184	0.14680906551369485	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.7	0.8	185	184	0.14489564738915992	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.75	0.6	185	183	0.1435091563685727	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.75	0.7	185	183	0.1435091563685727	conditional copy filtering; not family admission
+TU	GC	historical_annotation_supported	original	0.75	0.8	185	182	0.1421225455009718	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original			13	13	0.24275004001566697	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.6	0.6	13	13	0.24275004001566697	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.6	0.7	13	13	0.23751095813503503	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.6	0.8	13	11	0.2139104742036132	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.65	0.6	13	13	0.23735260424451027	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.65	0.7	13	13	0.23371709269532964	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.65	0.8	13	10	0.20954301807404652	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.7	0.6	13	7	0.20988236366874333	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.7	0.7	13	7	0.20988236366874333	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.7	0.8	13	6	0.20016889269433386	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.75	0.6	13	3	0.18084721485390404	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.75	0.7	13	3	0.18084721485390404	conditional copy filtering; not family admission
+TU	GC	sequence_supported_expanded	original	0.75	0.8	13	3	0.17137015051706903	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	exclude_overlapping_placements			2	2	0.11003169277366318	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	exclude_overlapping_placements	0.6	0.6	1	1	0.1370328079440491	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	exclude_overlapping_placements	0.6	0.7	1	1	0.1370328079440491	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	exclude_overlapping_placements	0.6	0.8	1	1	0.1370328079440491	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	exclude_overlapping_placements	0.65	0.6	1	1	0.10007322431047108	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	exclude_overlapping_placements	0.65	0.7	1	1	0.10007322431047108	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	exclude_overlapping_placements	0.65	0.8	1	1	0.10007322431047108	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original			241	228	0.08540443233616615	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.6	0.6	241	228	0.0843330423338285	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.6	0.7	241	228	0.0843330423338285	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.6	0.8	241	228	0.08418841345367668	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.65	0.6	241	177	0.06967651418450502	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.65	0.7	241	177	0.06967651418450502	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.65	0.8	241	177	0.06962856405888052	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.7	0.6	241	4	0.021712012803615136	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.7	0.7	241	4	0.021712012803615136	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.7	0.8	241	4	0.021712012803615136	conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.75	0.6	241	0		conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.75	0.7	241	0		conditional copy filtering; not family admission
+aesculapii	AT	family_relation_unresolved	original	0.75	0.8	241	0		conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original			17	14	0.09994360246181633	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.6	0.6	17	14	0.09994360246181633	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.6	0.7	17	14	0.09994360246181633	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.6	0.8	17	14	0.09994360246181633	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.65	0.6	17	14	0.09994360246181633	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.65	0.7	17	14	0.09994360246181633	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.65	0.8	17	14	0.09994360246181633	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.7	0.6	17	13	0.09039112842483149	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.7	0.7	17	13	0.09039112842483149	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.7	0.8	17	13	0.09039112842483149	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.75	0.6	17	9	0.05592762297101723	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.75	0.7	17	9	0.05592762297101723	conditional copy filtering; not family admission
+aesculapii	AT	sequence_supported_expanded	original	0.75	0.8	17	9	0.05592762297101723	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original			89	89	0.18839131198294484	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.6	0.6	89	89	0.18828469071899398	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.6	0.7	89	89	0.18828469071899398	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.6	0.8	89	83	0.1783658327286635	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.65	0.6	89	88	0.18667128846346323	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.65	0.7	89	88	0.18667128846346323	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.65	0.8	89	83	0.17837845956516685	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.7	0.6	89	88	0.1838933346029654	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.7	0.7	89	88	0.1838933346029654	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.7	0.8	89	83	0.17753229951494245	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.75	0.6	89	81	0.17118679889243138	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.75	0.7	89	81	0.17118679889243138	conditional copy filtering; not family admission
+aesculapii	GC	historical_annotation_supported	original	0.75	0.8	89	80	0.16879089765045446	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original			145	144	0.1449803638236684	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.6	0.6	145	143	0.1425889284720655	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.6	0.7	145	143	0.14226228294175358	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.6	0.8	145	141	0.13258291108389064	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.65	0.6	145	142	0.13637545542751278	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.65	0.7	145	142	0.13634318415758834	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.65	0.8	145	139	0.12803685684259256	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.7	0.6	145	109	0.10335527193151929	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.7	0.7	145	109	0.10330663945672162	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.7	0.8	145	106	0.09708860714547154	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.75	0.6	145	10	0.10508916169359574	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.75	0.7	145	10	0.10508916169359574	conditional copy filtering; not family admission
+aesculapii	GC	sequence_supported_expanded	original	0.75	0.8	145	9	0.07364973982979897	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original			149	142	0.05484728790986157	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.6	0.6	149	142	0.05403713863156654	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.6	0.7	149	142	0.05403713863156654	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.6	0.8	149	142	0.05390521900267672	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.65	0.6	149	141	0.05132393004063786	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.65	0.7	149	141	0.05132393004063786	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.65	0.8	149	141	0.05132393004063786	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.7	0.6	149	7	0.023098417849530747	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.7	0.7	149	7	0.023098417849530747	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.7	0.8	149	7	0.023098417849530747	conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.75	0.6	149	0		conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.75	0.7	149	0		conditional copy filtering; not family admission
+kyathit	AT	family_relation_unresolved	original	0.75	0.8	149	0		conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original			76	75	0.1927459081589364	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.6	0.6	76	75	0.19193665885345276	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.6	0.7	76	75	0.19193665885345276	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.6	0.8	76	74	0.18231657318995131	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.65	0.6	76	75	0.18865013392985705	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.65	0.7	76	75	0.18865013392985705	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.65	0.8	76	74	0.1817262622752123	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.7	0.6	76	72	0.16842930837369804	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.7	0.7	76	72	0.16842930837369804	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.7	0.8	76	72	0.1665552044805767	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.75	0.6	76	64	0.1335797207527741	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.75	0.7	76	64	0.1335797207527741	conditional copy filtering; not family admission
+kyathit	GC	historical_annotation_supported	original	0.75	0.8	76	64	0.1326404367580014	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original			32	31	0.18791258577339487	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.6	0.6	32	31	0.18670770263478734	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.6	0.7	32	31	0.18670770263478734	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.6	0.8	32	31	0.1734419887991602	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.65	0.6	32	30	0.1817035774174522	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.65	0.7	32	30	0.1817035774174522	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.65	0.8	32	30	0.171983430449829	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.7	0.6	32	27	0.1593457930477191	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.7	0.7	32	27	0.1593457930477191	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.7	0.8	32	27	0.1527580024689507	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.75	0.6	32	12	0.10906040041610798	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.75	0.7	32	12	0.10906040041610798	conditional copy filtering; not family admission
+kyathit	GC	sequence_supported_expanded	original	0.75	0.8	32	12	0.10840151319545016	conditional copy filtering; not family admission

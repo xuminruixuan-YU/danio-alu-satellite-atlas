@@ -1,0 +1,18 @@
+{
+  "core": [
+    "OX063303.1",
+    24000000,
+    25000000,
+    23990000,
+    25010000
+  ],
+  "working_sha256": "b2ff83a77c51424797a91cba25b0fe233123be4a8dc54c72f2dd80d778bfed2a",
+  "subtype_calls": {
+    "unknown": 718,
+    "A": 7
+  },
+  "rotation_nearest_same_strand": {
+    "exact": 360
+  },
+  "scope": "family coverage counts use mutually exclusive winning families and common core, diagnostic subtype/shift use CL2 rows >=75 with start owned by core; distance alone does not diagnose phase or establish a dimer"
+}

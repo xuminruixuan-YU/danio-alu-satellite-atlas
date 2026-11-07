@@ -1,0 +1,79 @@
+{
+  "chr11_array": "TU.NC_133186.1.CL1.R002",
+  "source_rows": 8077,
+  "raw_tie_rows": 7725,
+  "tie_rows_reclassified_as_overlap": 27,
+  "prior_chr11_wide_tie_count": 7726,
+  "prior_count_scope_difference": "One tie row belongs to a shorter chr11 AT region outside the large array; not part of these 8077 rows.",
+  "final_source_family_only": 7698,
+  "final_eligible": 15,
+  "normalization_code": "catalog_units.py: normalize compares both directions with Edlib HW against three tandem templates; stores (start modulo template length, aligned target span); >1 best pair yields cycle_offset_or_span_tie.",
+  "confirmed": "All 7698 non-overlap family-only rows carry this narrower stored substatus.",
+  "unresolved": "Combined status does not separate start-only, span-only or both; it does not establish a biological cause. No alignment or threshold/phase rerun performed.",
+  "coverage": [
+    {
+      "family": "CL1",
+      "regions": 25,
+      "min_percent": 0.18591472114462523,
+      "median_percent": 16.160816619952197,
+      "max_percent": 89.99174014684861,
+      "regions_below_1pct": 1,
+      "regions_below_10pct": 9
+    },
+    {
+      "family": "CL2",
+      "regions": 24,
+      "min_percent": 66.13627808781894,
+      "median_percent": 84.0477320847643,
+      "max_percent": 93.44306531867558,
+      "regions_below_1pct": 0,
+      "regions_below_10pct": 0
+    }
+  ],
+  "AB_diagnostic_positions": [
+    {
+      "position1": 6,
+      "A": "G",
+      "B": "A"
+    },
+    {
+      "position1": 49,
+      "A": "T",
+      "B": "C"
+    }
+  ],
+  "AB_scope": "Two diagnostic-base classes, not two unique full-length sequences; phase.rawcall uses 82..102 bp, ACGT, both global alignments concordant.",
+  "track_unit": "Distinct reference C positions within each individual and 10 kb bin, each with at least one callable observation; count is not read observations. panel_helpers.summarize asserts unique positions.",
+  "existing_window_records_checked": 52074,
+  "window_states": {
+    "no_observation": 50739,
+    "low_CpG_count": 236,
+    "display": 1099
+  },
+  "sources": [
+    {
+      "path": "data/sequence_sensitivity/inputs/frozen_units/NC_133186.1/units.tsv.gz",
+      "sha256": "c92b3b6c4b4da7aecf1ad9166e344d07567ccdf4aed56b898228ec352ff0d65e"
+    },
+    {
+      "path": "data/manuscript_evidence/chr11_and_units/catalog_units.py",
+      "sha256": "f0760f49ef2c7edd285dd671cb6d1ee18a3200a7c49d95b6952132fe91e5449d"
+    },
+    {
+      "path": "data/manuscript_evidence/chr11_and_units/phase.py",
+      "sha256": "1d2c892b8a821f7739ce97604f2f68522207f77137ae71d887797567b330b0e6"
+    },
+    {
+      "path": "data/manuscript_evidence/chr11_and_units/three.fa",
+      "sha256": "4c51170d152d816787d1da0e91b7a178c1990a4971dee2632d6a16aedef398bf"
+    },
+    {
+      "path": "archive:panel_helpers.py",
+      "sha256": "f98d11e4145dad261b917959bf2ab1787e970294af4b2de4d9e90ccacaf69f0f"
+    },
+    {
+      "path": "data/figure_source/methylation_windows.tsv",
+      "sha256": "8284c51c7ce7e440f6847acf4fee97a6171e985e30eed18995eb5fd93ac22b59"
+    }
+  ]
+}

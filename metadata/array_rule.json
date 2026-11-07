@@ -1,0 +1,23 @@
+{
+  "minimum_supported_bp": 50000,
+  "maximum_interruption_bp": 25000,
+  "unknown_N_or_opposite_family_interruptions": "do not bridge",
+  "rationale": "lowest tested50..200kb size range with stable TU large-region counts; gap25/50kb stability and source interruption quality checked; analyst operational rule, not a published universal array boundary",
+  "secondary_thresholds_bp": [
+    10000,
+    25000,
+    100000,
+    200000
+  ],
+  "secondary_max_gaps_bp": [
+    10000,
+    50000
+  ],
+  "family_coverage_excludes_interruptions": true,
+  "counts_not_forced": true,
+  "limitations": [
+    "congener short regions retained, not biological absence",
+    "a large region may contain multiple tandem tracts",
+    "family-sequence evidence is not centromere activity"
+  ]
+}

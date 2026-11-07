@@ -1,0 +1,62 @@
+[
+  {
+    "run": "ERR16782314",
+    "CpG_rows_reproduced": 452754,
+    "all_site_class_counts_identical": true,
+    "window_observation_counts_identical": true,
+    "new_unique_contributing_reads": 57911,
+    "old_unique_contributing_reads": 166,
+    "elapsed_seconds": 509.80010199546814,
+    "read_metadata_rows": 57911
+  },
+  {
+    "run": "ERR16782315",
+    "CpG_rows_reproduced": 483323,
+    "all_site_class_counts_identical": true,
+    "window_observation_counts_identical": true,
+    "new_unique_contributing_reads": 76844,
+    "old_unique_contributing_reads": 224,
+    "elapsed_seconds": 612.4868602752686,
+    "read_metadata_rows": 76844
+  },
+  {
+    "run": "ERR16782316",
+    "CpG_rows_reproduced": 484682,
+    "all_site_class_counts_identical": true,
+    "window_observation_counts_identical": true,
+    "new_unique_contributing_reads": 38816,
+    "old_unique_contributing_reads": 152,
+    "elapsed_seconds": 463.4045195579529,
+    "read_metadata_rows": 38816
+  },
+  {
+    "run": "ERR16782317",
+    "CpG_rows_reproduced": 472658,
+    "all_site_class_counts_identical": true,
+    "window_observation_counts_identical": true,
+    "new_unique_contributing_reads": 82060,
+    "old_unique_contributing_reads": 204,
+    "elapsed_seconds": 728.138457775116,
+    "read_metadata_rows": 82060
+  },
+  {
+    "run": "ERR16782318",
+    "CpG_rows_reproduced": 462291,
+    "all_site_class_counts_identical": true,
+    "window_observation_counts_identical": true,
+    "new_unique_contributing_reads": 63173,
+    "old_unique_contributing_reads": 181,
+    "elapsed_seconds": 600.2018225193024,
+    "read_metadata_rows": 63173
+  },
+  {
+    "run": "ERR16782319",
+    "CpG_rows_reproduced": 418397,
+    "all_site_class_counts_identical": true,
+    "window_observation_counts_identical": true,
+    "new_unique_contributing_reads": 54799,
+    "old_unique_contributing_reads": 132,
+    "elapsed_seconds": 467.8172433376312,
+    "read_metadata_rows": 54799
+  }
+]

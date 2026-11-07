@@ -1,0 +1,97 @@
+species	family	minimum_supported_bp	panel	copy_screen	regions	regions_with_panel	comparable_arrays	eligible_copies	sampled_copies	array_equal_edit_distance	array_equal_event_distance	scope
+aesculapii	CL1	5000	fixed	matched_TU	3	3	3	76	59	0.052473678532780406	0.05182790751768546	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	5000	fixed	without_copy_family_screen	3	3	3	115	68	0.07094146991004366	0.06644734323094278	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	5000	local	matched_TU	3	3	3	78	67	0.057750108738843876	0.05680037397243883	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	5000	local	without_copy_family_screen	3	3	3	207	96	0.07758881270584954	0.07078025212137007	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	10000	fixed	matched_TU	3	3	3	76	59	0.052473678532780406	0.05182790751768546	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	10000	fixed	without_copy_family_screen	3	3	3	115	68	0.07094146991004366	0.06644734323094278	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	10000	local	matched_TU	3	3	3	78	67	0.057750108738843876	0.05680037397243883	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	10000	local	without_copy_family_screen	3	3	3	207	96	0.07758881270584954	0.07078025212137007	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	15000	fixed	matched_TU	3	3	3	76	59	0.052473678532780406	0.05182790751768546	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	15000	fixed	without_copy_family_screen	3	3	3	115	68	0.07094146991004366	0.06644734323094278	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	15000	local	matched_TU	3	3	3	78	67	0.057750108738843876	0.05680037397243883	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	15000	local	without_copy_family_screen	3	3	3	207	96	0.07758881270584954	0.07078025212137007	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	20000	fixed	matched_TU	1	1	1	49	32	0.07788342734354016	0.07623284894266265	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	20000	fixed	without_copy_family_screen	1	1	1	79	32	0.10826411826956996	0.09531650983746792	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	20000	local	matched_TU	1	1	1	11	11	0.08702393642794845	0.0845747236905334	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	20000	local	without_copy_family_screen	1	1	1	52	32	0.1038726492121684	0.08731100395136447	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	25000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	25000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	25000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	25000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	50000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	50000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	50000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL1	50000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	5000	fixed	matched_TU	66	66	49	1571	1013	0.17104168371623465	0.16546264605372984	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	5000	fixed	without_copy_family_screen	66	66	66	5642	2106	0.14057104635155662	0.13492596125939163	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	5000	local	matched_TU	66	66	46	1082	814	0.18191993902554426	0.17489823840819368	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	5000	local	without_copy_family_screen	66	66	65	5146	1883	0.1446081121055179	0.13878203151185095	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	10000	fixed	matched_TU	23	23	19	775	412	0.18197363428220606	0.17553898714244773	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	10000	fixed	without_copy_family_screen	23	23	23	3029	736	0.1300533526837276	0.12467429866841129	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	10000	local	matched_TU	23	23	20	514	359	0.1871652231348718	0.1787108988363771	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	10000	local	without_copy_family_screen	23	23	23	2696	688	0.13855292649935627	0.1328667535701203	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	15000	fixed	matched_TU	6	6	5	289	100	0.1787243753614227	0.17174111950526855	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	15000	fixed	without_copy_family_screen	6	6	6	1140	192	0.07604657418305161	0.07250677145596739	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	15000	local	matched_TU	6	6	5	158	122	0.17762712943292341	0.17132936547708874	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	15000	local	without_copy_family_screen	6	6	6	1021	192	0.06904203218423352	0.06739662602364152	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	20000	fixed	matched_TU	1	1	1	221	32	0.20009496471197635	0.1898466983646404	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	20000	fixed	without_copy_family_screen	1	1	1	222	32	0.20009496471197635	0.1898466983646404	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	20000	local	matched_TU	1	1	1	67	32	0.17527495173431093	0.1698483040736322	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	20000	local	without_copy_family_screen	1	1	1	69	32	0.18062312166223432	0.17463114319074408	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	25000	fixed	matched_TU	1	1	1	221	32	0.20009496471197635	0.1898466983646404	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	25000	fixed	without_copy_family_screen	1	1	1	222	32	0.20009496471197635	0.1898466983646404	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	25000	local	matched_TU	1	1	1	67	32	0.17527495173431093	0.1698483040736322	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	25000	local	without_copy_family_screen	1	1	1	69	32	0.18062312166223432	0.17463114319074408	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	50000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	50000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	50000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+aesculapii	CL2	50000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	5000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	5000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	5000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	5000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	10000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	10000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	10000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	10000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	15000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	15000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	15000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	15000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	20000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	20000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	20000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	20000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	25000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	25000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	25000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	25000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	50000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	50000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	50000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL1	50000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	5000	fixed	matched_TU	22	22	22	721	600	0.16633540438702696	0.1564911567029466	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	5000	fixed	without_copy_family_screen	22	22	22	1289	693	0.20986586637590102	0.19325769196752543	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	5000	local	matched_TU	22	22	22	835	600	0.16315237742362623	0.15767188229096948	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	5000	local	without_copy_family_screen	22	22	22	1700	661	0.21288684633170082	0.19767402217537072	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	10000	fixed	matched_TU	9	9	9	377	265	0.1699457902434462	0.15938630690719408	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	10000	fixed	without_copy_family_screen	9	9	9	704	288	0.21488453400982588	0.19830176929661492	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	10000	local	matched_TU	9	9	9	381	223	0.16895091294253348	0.16358448973185613	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	10000	local	without_copy_family_screen	9	9	9	819	253	0.21906301464740913	0.20380580836302264	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	15000	fixed	matched_TU	3	3	3	187	96	0.1708687097162769	0.1600680188418823	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	15000	fixed	without_copy_family_screen	3	3	3	381	96	0.22141805606480716	0.19945034895893482	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	15000	local	matched_TU	3	3	3	203	93	0.17333502548333637	0.16713374948746088	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	15000	local	without_copy_family_screen	3	3	3	457	96	0.22061095254366322	0.20663138122015584	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	20000	fixed	matched_TU	2	2	2	132	64	0.17210479227639763	0.15996922329334715	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	20000	fixed	without_copy_family_screen	2	2	2	289	64	0.22203474579735993	0.19897272698200347	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	20000	local	matched_TU	2	2	2	174	64	0.17283831961973795	0.1672257268107068	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	20000	local	without_copy_family_screen	2	2	2	397	64	0.22041626677595716	0.2068994689524138	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	25000	fixed	matched_TU	1	1	1	61	32	0.16539774218955106	0.15773642068816274	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	25000	fixed	without_copy_family_screen	1	1	1	171	32	0.23075766363773065	0.20766752714782497	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	25000	local	matched_TU	1	1	1	93	32	0.16563079271617054	0.1618206434143511	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	25000	local	without_copy_family_screen	1	1	1	239	32	0.23131496096950876	0.21883351007423119	recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	50000	fixed	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	50000	fixed	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	50000	local	matched_TU	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons
+kyathit	CL2	50000	local	without_copy_family_screen	0	0	0	0	0			recoverable assembly copies; species-specific size strata not quantitative abundance comparisons

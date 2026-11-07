@@ -1,0 +1,5 @@
+{
+  "CL1": "AT-rich AluI satellite; the internal analysis label CL1 refers to the 186 bp representative",
+  "CL2": "GC-rich AluI/RFAS-related satellite; the internal analysis label CL2 groups the 92 bp subunits and the 184 bp representative",
+  "coordinate_convention": "Table columns start0/end0 use 0-based half-open intervals; printed figure coordinates use 1-based closed intervals."
+}
