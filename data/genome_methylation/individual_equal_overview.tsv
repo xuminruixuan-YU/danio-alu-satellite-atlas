@@ -1,0 +1,11 @@
+scope	individuals	individual_equal_CpG_equal_5mC	individual_equal_observation_weighted_5mC	min_individual_CpG_equal_5mC	max_individual_CpG_equal_5mC	note
+25_nuclear_chromosomes	6	0.7070220433359596	0.7023569934702317	0.7007314432934577	0.711131861598912	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample
+25_nuclear_chromosomes|CL1_AT_fragments	6	0.7803496723199701	0.7786169432497455	0.770524143083258	0.7919900650556665	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample
+25_nuclear_chromosomes|CL2_GC_fragments	6	0.5172942586327375	0.5196807688211881	0.5058763101299825	0.540338558997431	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample
+25_nuclear_chromosomes|catalog_family_overlap	0	nan	nan	nan	nan	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample
+25_nuclear_chromosomes|outside_CL1_CL2_fragment_catalog	6	0.7072811828774302	0.7026006928427299	0.7009878327423233	0.7113381564289042	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample
+mitochondrion	6	7.711085589633877e-05	7.963607393140171e-05	4.875182523627517e-05	0.0001160031134171	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample
+mitochondrion|CL1_AT_fragments	0	nan	nan	nan	nan	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample
+mitochondrion|CL2_GC_fragments	0	nan	nan	nan	nan	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample
+mitochondrion|catalog_family_overlap	0	nan	nan	nan	nan	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample
+mitochondrion|outside_CL1_CL2_fragment_catalog	6	7.711085589633877e-05	7.963607393140171e-05	4.875182523627517e-05	0.0001160031134171	individual estimates first; read/CpG/window are not biological replicates; no pooled individual sample

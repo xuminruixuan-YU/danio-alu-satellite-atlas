@@ -1,0 +1,12 @@
+{
+  "reference": "GCF_049306965.1",
+  "reference_records": 26,
+  "nuclear_chromosomes": 25,
+  "displayed_scales_bp": [
+    200000
+  ],
+  "scientific_interpretation": "Methylation differences motivate testing chromatin function with protein occupancy and cytological localization.",
+  "reproduction_scope": "Summary checks and chromosome methylation figures from deposited tables.",
+  "regional_flank_bp": 500000,
+  "parameters": "data/genome_methylation/parameters.json"
+}

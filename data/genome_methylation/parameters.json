@@ -1,0 +1,406 @@
+{
+  "assembly": "GCF_049306965.1",
+  "reference_records": [
+    {
+      "reference": "NC_133176.1",
+      "chromosome": "1",
+      "length": 63108402,
+      "nuclear": true,
+      "reference_CpGs": 1067222
+    },
+    {
+      "reference": "NC_133177.1",
+      "chromosome": "2",
+      "length": 63578853,
+      "nuclear": true,
+      "reference_CpGs": 1122817
+    },
+    {
+      "reference": "NC_133178.1",
+      "chromosome": "3",
+      "length": 67698726,
+      "nuclear": true,
+      "reference_CpGs": 1164040
+    },
+    {
+      "reference": "NC_133179.1",
+      "chromosome": "4",
+      "length": 76376419,
+      "nuclear": true,
+      "reference_CpGs": 1482777
+    },
+    {
+      "reference": "NC_133180.1",
+      "chromosome": "5",
+      "length": 78929807,
+      "nuclear": true,
+      "reference_CpGs": 1293667
+    },
+    {
+      "reference": "NC_133181.1",
+      "chromosome": "6",
+      "length": 63407686,
+      "nuclear": true,
+      "reference_CpGs": 1105405
+    },
+    {
+      "reference": "NC_133182.1",
+      "chromosome": "7",
+      "length": 80416488,
+      "nuclear": true,
+      "reference_CpGs": 1345164
+    },
+    {
+      "reference": "NC_133183.1",
+      "chromosome": "8",
+      "length": 64512798,
+      "nuclear": true,
+      "reference_CpGs": 1101861
+    },
+    {
+      "reference": "NC_133184.1",
+      "chromosome": "9",
+      "length": 59035420,
+      "nuclear": true,
+      "reference_CpGs": 1015582
+    },
+    {
+      "reference": "NC_133185.1",
+      "chromosome": "10",
+      "length": 50855184,
+      "nuclear": true,
+      "reference_CpGs": 872407
+    },
+    {
+      "reference": "NC_133186.1",
+      "chromosome": "11",
+      "length": 47978265,
+      "nuclear": true,
+      "reference_CpGs": 825032
+    },
+    {
+      "reference": "NC_133187.1",
+      "chromosome": "12",
+      "length": 51766578,
+      "nuclear": true,
+      "reference_CpGs": 875753
+    },
+    {
+      "reference": "NC_133188.1",
+      "chromosome": "13",
+      "length": 56637657,
+      "nuclear": true,
+      "reference_CpGs": 957384
+    },
+    {
+      "reference": "NC_133189.1",
+      "chromosome": "14",
+      "length": 58912081,
+      "nuclear": true,
+      "reference_CpGs": 995104
+    },
+    {
+      "reference": "NC_133190.1",
+      "chromosome": "15",
+      "length": 52006389,
+      "nuclear": true,
+      "reference_CpGs": 925124
+    },
+    {
+      "reference": "NC_133191.1",
+      "chromosome": "16",
+      "length": 59833720,
+      "nuclear": true,
+      "reference_CpGs": 1035781
+    },
+    {
+      "reference": "NC_133192.1",
+      "chromosome": "17",
+      "length": 59639751,
+      "nuclear": true,
+      "reference_CpGs": 993331
+    },
+    {
+      "reference": "NC_133193.1",
+      "chromosome": "18",
+      "length": 54272776,
+      "nuclear": true,
+      "reference_CpGs": 942061
+    },
+    {
+      "reference": "NC_133194.1",
+      "chromosome": "19",
+      "length": 51759963,
+      "nuclear": true,
+      "reference_CpGs": 900200
+    },
+    {
+      "reference": "NC_133195.1",
+      "chromosome": "20",
+      "length": 59305174,
+      "nuclear": true,
+      "reference_CpGs": 1027828
+    },
+    {
+      "reference": "NC_133196.1",
+      "chromosome": "21",
+      "length": 50219970,
+      "nuclear": true,
+      "reference_CpGs": 859652
+    },
+    {
+      "reference": "NC_133197.1",
+      "chromosome": "22",
+      "length": 41392508,
+      "nuclear": true,
+      "reference_CpGs": 783350
+    },
+    {
+      "reference": "NC_133198.1",
+      "chromosome": "23",
+      "length": 50457056,
+      "nuclear": true,
+      "reference_CpGs": 871952
+    },
+    {
+      "reference": "NC_133199.1",
+      "chromosome": "24",
+      "length": 46235565,
+      "nuclear": true,
+      "reference_CpGs": 749190
+    },
+    {
+      "reference": "NC_133200.1",
+      "chromosome": "25",
+      "length": 40454730,
+      "nuclear": true,
+      "reference_CpGs": 746485
+    },
+    {
+      "reference": "NC_002333.2",
+      "chromosome": "MT",
+      "length": 16596,
+      "nuclear": false,
+      "reference_CpGs": 402
+    }
+  ],
+  "mapping_version": "2.26-r1175",
+  "mapping_options": [
+    "-ax",
+    "map-ont",
+    "-Y",
+    "--secondary=yes",
+    "-N",
+    "100",
+    "-p",
+    "0.5",
+    "-I",
+    "8G",
+    "-K",
+    "50M"
+  ],
+  "MAPQ": 20,
+  "score_fraction": 0.8,
+  "secondary_cap": 100,
+  "baseQ": 10,
+  "state_probability": 0.8,
+  "counts": [
+    "C",
+    "m",
+    "h",
+    "unknown",
+    "quantization_tie",
+    "low_confidence",
+    "below_Q10"
+  ],
+  "whole_window_display": {
+    "min_valid_CpGs": 10,
+    "min_distinct_reads": 3,
+    "stronger_distinct_reads": 5
+  },
+  "items": [
+    {
+      "run": "ERR16782314",
+      "sample": "SAMEA121824610",
+      "metadata": {
+        "run": "ERR16782314",
+        "sample": "SAMEA121824610",
+        "title": "zf_rep01",
+        "description": "zebrafish WT replicate01",
+        "attributes": {
+          "strain": "TL",
+          "ENA-CHECKLIST": "ERC000011:1.3",
+          "organism": "Danio rerio",
+          "collection date": "2024-04",
+          "sex": "M",
+          "length": "2.55",
+          "weight": "0.31",
+          "scientific_name": "Danio rerio",
+          "collected_by": "Maeva Pinget, Magda Teles",
+          "common name": "zebrafish",
+          "dev_stage": "adult",
+          "tissue_type": "brain",
+          "geographic location (country and/or sea)": "Portugal"
+        },
+        "source": "https://www.ebi.ac.uk/ena/browser/api/xml/SAMEA121824610"
+      },
+      "official_md5": "e66598a782370ac30b56c992c5406fee"
+    },
+    {
+      "run": "ERR16782315",
+      "sample": "SAMEA121824611",
+      "metadata": {
+        "run": "ERR16782315",
+        "sample": "SAMEA121824611",
+        "title": "zf_rep02",
+        "description": "zebrafish WT replicate02",
+        "attributes": {
+          "strain": "TL",
+          "ENA-CHECKLIST": "ERC000011:1.3",
+          "organism": "Danio rerio",
+          "collection date": "2024-04",
+          "sex": "M",
+          "length": "2.5",
+          "weight": "0.29",
+          "scientific_name": "Danio rerio",
+          "collected_by": "Maeva Pinget, Magda Teles",
+          "common name": "zebrafish",
+          "dev_stage": "adult",
+          "tissue_type": "brain",
+          "geographic location (country and/or sea)": "Portugal"
+        },
+        "source": "https://www.ebi.ac.uk/ena/browser/api/xml/SAMEA121824611"
+      },
+      "official_md5": "1efe53ff0bfc459a56c711ef014122d7"
+    },
+    {
+      "run": "ERR16782316",
+      "sample": "SAMEA121824612",
+      "metadata": {
+        "run": "ERR16782316",
+        "sample": "SAMEA121824612",
+        "title": "zf_rep03",
+        "description": "zebrafish WT replicate03",
+        "attributes": {
+          "strain": "TL",
+          "ENA-CHECKLIST": "ERC000011:1.3",
+          "organism": "Danio rerio",
+          "collection date": "2024-04",
+          "sex": "M",
+          "length": "2.45",
+          "weight": "0.27",
+          "scientific_name": "Danio rerio",
+          "collected_by": "Maeva Pinget, Magda Teles",
+          "common name": "zebrafish",
+          "dev_stage": "adult",
+          "tissue_type": "brain",
+          "geographic location (country and/or sea)": "Portugal"
+        },
+        "source": "https://www.ebi.ac.uk/ena/browser/api/xml/SAMEA121824612"
+      },
+      "official_md5": "8bca8718c0b2bf47c513737cb75833b9"
+    },
+    {
+      "run": "ERR16782317",
+      "sample": "SAMEA121824613",
+      "metadata": {
+        "run": "ERR16782317",
+        "sample": "SAMEA121824613",
+        "title": "zf_rep04",
+        "description": "zebrafish WT replicate04",
+        "attributes": {
+          "strain": "TL",
+          "ENA-CHECKLIST": "ERC000011:1.3",
+          "organism": "Danio rerio",
+          "collection date": "2024-04",
+          "sex": "F",
+          "length": "2.6",
+          "weight": "0.32",
+          "scientific_name": "Danio rerio",
+          "collected_by": "Maeva Pinget, Magda Teles",
+          "common name": "zebrafish",
+          "dev_stage": "adult",
+          "tissue_type": "brain",
+          "geographic location (country and/or sea)": "Portugal"
+        },
+        "source": "https://www.ebi.ac.uk/ena/browser/api/xml/SAMEA121824613"
+      },
+      "official_md5": "25a7b4beaf91c8eee2671476e87e5bb6"
+    },
+    {
+      "run": "ERR16782318",
+      "sample": "SAMEA121824614",
+      "metadata": {
+        "run": "ERR16782318",
+        "sample": "SAMEA121824614",
+        "title": "zf_rep05",
+        "description": "zebrafish WT replicate05",
+        "attributes": {
+          "strain": "TL",
+          "ENA-CHECKLIST": "ERC000011:1.3",
+          "organism": "Danio rerio",
+          "collection date": "2024-04",
+          "sex": "M",
+          "length": "2.7",
+          "weight": "0.33",
+          "scientific_name": "Danio rerio",
+          "collected_by": "Maeva Pinget, Magda Teles",
+          "common name": "zebrafish",
+          "dev_stage": "adult",
+          "tissue_type": "brain",
+          "geographic location (country and/or sea)": "Portugal"
+        },
+        "source": "https://www.ebi.ac.uk/ena/browser/api/xml/SAMEA121824614"
+      },
+      "official_md5": "05b4c574eb4258aa154573cbd14aa827"
+    },
+    {
+      "run": "ERR16782319",
+      "sample": "SAMEA121824615",
+      "metadata": {
+        "run": "ERR16782319",
+        "sample": "SAMEA121824615",
+        "title": "zf_rep06",
+        "description": "zebrafish WT replicate06",
+        "attributes": {
+          "strain": "TL",
+          "ENA-CHECKLIST": "ERC000011:1.3",
+          "organism": "Danio rerio",
+          "collection date": "2024-04",
+          "sex": "F",
+          "length": "2.4",
+          "weight": "0.28",
+          "scientific_name": "Danio rerio",
+          "collected_by": "Maeva Pinget, Magda Teles",
+          "common name": "zebrafish",
+          "dev_stage": "adult",
+          "tissue_type": "brain",
+          "geographic location (country and/or sea)": "Portugal"
+        },
+        "source": "https://www.ebi.ac.uk/ena/browser/api/xml/SAMEA121824615"
+      },
+      "official_md5": "c4206a9ccd05083df7f243af2b15fe00"
+    }
+  ],
+  "summary": "per-individual reference-CpG equal; observation-weighted counterpart; nuclear and MT separated",
+  "main_figure_chromosomes": [
+    3,
+    21
+  ],
+  "main_window_bp": 200000,
+  "window_bp": [
+    200000
+  ],
+  "shade_alpha": 0.75,
+  "shade_gap_max_bp": 50000,
+  "shade_gap_scope": "drawing only; source intervals and statistical masks unchanged",
+  "candidate_scope": "only candidates returned by the aligner; not exhaustive whole-genome uniqueness",
+  "distinct_from_Fig3": "no mandatory family markers or independent noncatalog anchor; requires reference CG projection",
+  "history": "20,000 reads per individual reuse minimap2 2.30; remaining retained and recovered alignments use 2.26",
+  "publication_display": {
+    "chromosome_window_bp": 200000,
+    "region_flank_bp": 500000,
+    "region_window_bp": 20000,
+    "region_step_bp": 5000
+  }
+}
