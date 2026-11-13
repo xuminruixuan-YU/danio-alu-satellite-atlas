@@ -150,7 +150,9 @@ def main():
         metrics()
     else:
         subprocess.run([sys.executable, str(ROOT / 'code/figures/render_groups.py'), args.part], cwd=ROOT, check=True)
-        subprocess.run([sys.executable, str(ROOT / 'code/figures/supplement_covers.py'), args.part], cwd=ROOT, check=True)
+        # The TU renderer includes its own 500 kb caption page.
+        if args.part != 'tu':
+            subprocess.run([sys.executable, str(ROOT / 'code/figures/supplement_covers.py'), args.part], cwd=ROOT, check=True)
 
 
 if __name__ == '__main__':

@@ -1,4 +1,6 @@
-"""Figure 4: unsmoothed per-sample CpG means in 10 kb bins.
+"""Reconstruct the 10 kb regional baseline (supplementary tables S58 and S59).
+
+Current Figure 4 and Figure S7 use code/genome_methylation/render_regional_500kb.py.
 
 The minimum 10 observed CpGs is a display-only choice, not an inferential
 coverage standard. Scientific missing values are kept separate from their plotting placeholders.

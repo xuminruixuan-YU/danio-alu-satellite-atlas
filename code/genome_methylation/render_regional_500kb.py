@@ -1,4 +1,4 @@
-"""Reproduce Figure 4 and S4 from validated 500 kb flank tables and BEDPEs."""
+"""Reproduce Figure 4 and S7 from validated 500 kb flank tables and BEDPEs."""
 from pathlib import Path
 import os,sys,json
 import pandas as pd
@@ -19,7 +19,7 @@ def main():
     labels=json.loads((T/'labels.json').read_text());g=pd.read_csv(T/'windows.tsv.gz',sep='\t')
     members=pd.read_csv(T/'array_catalog/membership.tsv',sep='\t')
     from matplotlib.backends.backend_pdf import PdfPages
-    body=OUT/'S4_body.pdf'
+    body=OUT/'S7_body.pdf'
     with PdfPages(body) as pdf:
         for chrom in sorted({int(m['array']['chromosome']) for m in metas}):
             sub=[m for m in metas if int(m['array']['chromosome'])==chrom];count=len(sub)
@@ -29,9 +29,9 @@ def main():
             for (x,top),m in zip(slots,sub):heat=rr.tu_panel(fig,T,m,g,members,x,top,2.95,labels[m['array']['array_id']])
             bar=fig.colorbar(heat,cax=fig.add_axes([.95,.79,.01,.12]));bar.ax.set_title('相似度\n（%）',fontsize=7,pad=5);bar.ax.tick_params(labelsize=7)
             rr.legend(fig,.055);pdf.savefig(fig,dpi=240,facecolor='white');rr.plt.close(fig)
-            print('S4 chr',chrom,flush=True)
+            print('S7 chr',chrom,flush=True)
     rr.repair_pdf(body)
-    dest=OUT/'Supplementary_FigS4_TU_array_panels.pdf';append_cover(body,dest,4);rr.repair_pdf(dest)
+    dest=OUT/'Supplementary_FigS7_TU_array_panels.pdf';append_cover(body,dest,4);rr.repair_pdf(dest)
     assert len(rr.GEOMETRY)==49 and len(main_geometry)==5
     for x in rr.LINES+main_lines:
         q=g[(g.array_id==x['array_id'])&(g.run==x['run'])]

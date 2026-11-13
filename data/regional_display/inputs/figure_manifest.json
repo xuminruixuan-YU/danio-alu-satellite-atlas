@@ -1,11 +1,11 @@
 {
   "groups": [
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "1",
       "stem": "grouped_panels/S4_chr01",
       "figures": [
-        "S4.1"
+        "S7.1"
       ],
       "regions": [
         {
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "2",
       "stem": "grouped_panels/S4_chr02",
       "figures": [
-        "S4.2",
-        "S4.3"
+        "S7.2",
+        "S7.3"
       ],
       "regions": [
         {
@@ -97,13 +97,13 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "3",
       "stem": "grouped_panels/S4_chr03",
       "figures": [
-        "S4.4",
-        "S4.5",
-        "S4.6"
+        "S7.4",
+        "S7.5",
+        "S7.6"
       ],
       "regions": [
         {
@@ -184,12 +184,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "4",
       "stem": "grouped_panels/S4_chr04",
       "figures": [
-        "S4.7",
-        "S4.8"
+        "S7.7",
+        "S7.8"
       ],
       "regions": [
         {
@@ -245,13 +245,13 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "5",
       "stem": "grouped_panels/S4_chr05",
       "figures": [
-        "S4.9",
-        "S4.10",
-        "S4.11"
+        "S7.9",
+        "S7.10",
+        "S7.11"
       ],
       "regions": [
         {
@@ -332,11 +332,11 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "6",
       "stem": "grouped_panels/S4_chr06",
       "figures": [
-        "S4.12"
+        "S7.12"
       ],
       "regions": [
         {
@@ -367,14 +367,14 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "7",
       "stem": "grouped_panels/S4_chr07",
       "figures": [
-        "S4.13",
-        "S4.14",
-        "S4.15",
-        "S4.16"
+        "S7.13",
+        "S7.14",
+        "S7.15",
+        "S7.16"
       ],
       "regions": [
         {
@@ -480,13 +480,13 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "8",
       "stem": "grouped_panels/S4_chr08",
       "figures": [
-        "S4.17",
-        "S4.18",
-        "S4.19"
+        "S7.17",
+        "S7.18",
+        "S7.19"
       ],
       "regions": [
         {
@@ -567,11 +567,11 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "9",
       "stem": "grouped_panels/S4_chr09",
       "figures": [
-        "S4.20"
+        "S7.20"
       ],
       "regions": [
         {
@@ -602,12 +602,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "10",
       "stem": "grouped_panels/S4_chr10",
       "figures": [
-        "S4.21",
-        "S4.22"
+        "S7.21",
+        "S7.22"
       ],
       "regions": [
         {
@@ -663,11 +663,11 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "11",
       "stem": "grouped_panels/S4_chr11",
       "figures": [
-        "S4.23"
+        "S7.23"
       ],
       "regions": [
         {
@@ -698,11 +698,11 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "12",
       "stem": "grouped_panels/S4_chr12",
       "figures": [
-        "S4.24"
+        "S7.24"
       ],
       "regions": [
         {
@@ -733,12 +733,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "13",
       "stem": "grouped_panels/S4_chr13",
       "figures": [
-        "S4.25",
-        "S4.26"
+        "S7.25",
+        "S7.26"
       ],
       "regions": [
         {
@@ -794,12 +794,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "14",
       "stem": "grouped_panels/S4_chr14",
       "figures": [
-        "S4.27",
-        "S4.28"
+        "S7.27",
+        "S7.28"
       ],
       "regions": [
         {
@@ -855,13 +855,13 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "15",
       "stem": "grouped_panels/S4_chr15",
       "figures": [
-        "S4.29",
-        "S4.30",
-        "S4.31"
+        "S7.29",
+        "S7.30",
+        "S7.31"
       ],
       "regions": [
         {
@@ -942,12 +942,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "16",
       "stem": "grouped_panels/S4_chr16",
       "figures": [
-        "S4.32",
-        "S4.33"
+        "S7.32",
+        "S7.33"
       ],
       "regions": [
         {
@@ -1003,13 +1003,13 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "17",
       "stem": "grouped_panels/S4_chr17",
       "figures": [
-        "S4.34",
-        "S4.35",
-        "S4.36"
+        "S7.34",
+        "S7.35",
+        "S7.36"
       ],
       "regions": [
         {
@@ -1090,11 +1090,11 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "18",
       "stem": "grouped_panels/S4_chr18",
       "figures": [
-        "S4.37"
+        "S7.37"
       ],
       "regions": [
         {
@@ -1125,11 +1125,11 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "19",
       "stem": "grouped_panels/S4_chr19",
       "figures": [
-        "S4.38"
+        "S7.38"
       ],
       "regions": [
         {
@@ -1160,12 +1160,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "20",
       "stem": "grouped_panels/S4_chr20",
       "figures": [
-        "S4.39",
-        "S4.40"
+        "S7.39",
+        "S7.40"
       ],
       "regions": [
         {
@@ -1221,12 +1221,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "21",
       "stem": "grouped_panels/S4_chr21",
       "figures": [
-        "S4.41",
-        "S4.42"
+        "S7.41",
+        "S7.42"
       ],
       "regions": [
         {
@@ -1282,12 +1282,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "22",
       "stem": "grouped_panels/S4_chr22",
       "figures": [
-        "S4.43",
-        "S4.44"
+        "S7.43",
+        "S7.44"
       ],
       "regions": [
         {
@@ -1343,12 +1343,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "23",
       "stem": "grouped_panels/S4_chr23",
       "figures": [
-        "S4.45",
-        "S4.46"
+        "S7.45",
+        "S7.46"
       ],
       "regions": [
         {
@@ -1404,12 +1404,12 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "24",
       "stem": "grouped_panels/S4_chr24",
       "figures": [
-        "S4.47",
-        "S4.48"
+        "S7.47",
+        "S7.48"
       ],
       "regions": [
         {
@@ -1465,11 +1465,11 @@
       ]
     },
     {
-      "group": "S4",
+      "group": "S7",
       "chromosome": "25",
       "stem": "grouped_panels/S4_chr25",
       "figures": [
-        "S4.49"
+        "S7.49"
       ],
       "regions": [
         {
@@ -1558,7 +1558,7 @@
           "valid_observations": 85849
         }
       ],
-      "figure": "S4.1",
+      "figure": "S7.1",
       "array": {
         "array_id": "TU.NC_133176.1.CL1.R001",
         "species": "TU",
@@ -1642,7 +1642,7 @@
           "valid_observations": 81707
         }
       ],
-      "figure": "S4.2",
+      "figure": "S7.2",
       "array": {
         "array_id": "TU.NC_133177.1.CL1.R001",
         "species": "TU",
@@ -1726,7 +1726,7 @@
           "valid_observations": 68459
         }
       ],
-      "figure": "S4.3",
+      "figure": "S7.3",
       "array": {
         "array_id": "TU.NC_133177.1.CL2.R001",
         "species": "TU",
@@ -1810,7 +1810,7 @@
           "valid_observations": 164782
         }
       ],
-      "figure": "S4.4",
+      "figure": "S7.4",
       "array": {
         "array_id": "TU.NC_133178.1.CL2.R001",
         "species": "TU",
@@ -1894,7 +1894,7 @@
           "valid_observations": 66684
         }
       ],
-      "figure": "S4.5",
+      "figure": "S7.5",
       "array": {
         "array_id": "TU.NC_133178.1.CL1.R001",
         "species": "TU",
@@ -1978,7 +1978,7 @@
           "valid_observations": 69261
         }
       ],
-      "figure": "S4.6",
+      "figure": "S7.6",
       "array": {
         "array_id": "TU.NC_133178.1.CL2.R003",
         "species": "TU",
@@ -2062,7 +2062,7 @@
           "valid_observations": 94147
         }
       ],
-      "figure": "S4.7",
+      "figure": "S7.7",
       "array": {
         "array_id": "TU.NC_133179.1.CL1.R001",
         "species": "TU",
@@ -2146,7 +2146,7 @@
           "valid_observations": 26906
         }
       ],
-      "figure": "S4.8",
+      "figure": "S7.8",
       "array": {
         "array_id": "TU.NC_133179.1.CL2.R001",
         "species": "TU",
@@ -2230,7 +2230,7 @@
           "valid_observations": 38185
         }
       ],
-      "figure": "S4.9",
+      "figure": "S7.9",
       "array": {
         "array_id": "TU.NC_133180.1.CL2.R001",
         "species": "TU",
@@ -2314,7 +2314,7 @@
           "valid_observations": 15487
         }
       ],
-      "figure": "S4.10",
+      "figure": "S7.10",
       "array": {
         "array_id": "TU.NC_133180.1.CL1.R001",
         "species": "TU",
@@ -2398,7 +2398,7 @@
           "valid_observations": 31381
         }
       ],
-      "figure": "S4.11",
+      "figure": "S7.11",
       "array": {
         "array_id": "TU.NC_133180.1.CL2.R002",
         "species": "TU",
@@ -2482,7 +2482,7 @@
           "valid_observations": 99239
         }
       ],
-      "figure": "S4.12",
+      "figure": "S7.12",
       "array": {
         "array_id": "TU.NC_133181.1.CL1.R001",
         "species": "TU",
@@ -2566,7 +2566,7 @@
           "valid_observations": 60958
         }
       ],
-      "figure": "S4.13",
+      "figure": "S7.13",
       "array": {
         "array_id": "TU.NC_133182.1.CL2.R001",
         "species": "TU",
@@ -2650,7 +2650,7 @@
           "valid_observations": 40792
         }
       ],
-      "figure": "S4.14",
+      "figure": "S7.14",
       "array": {
         "array_id": "TU.NC_133182.1.CL2.R003",
         "species": "TU",
@@ -2734,7 +2734,7 @@
           "valid_observations": 80400
         }
       ],
-      "figure": "S4.15",
+      "figure": "S7.15",
       "array": {
         "array_id": "TU.NC_133182.1.CL1.R002",
         "species": "TU",
@@ -2818,7 +2818,7 @@
           "valid_observations": 36918
         }
       ],
-      "figure": "S4.16",
+      "figure": "S7.16",
       "array": {
         "array_id": "TU.NC_133182.1.CL2.R004",
         "species": "TU",
@@ -2902,7 +2902,7 @@
           "valid_observations": 47168
         }
       ],
-      "figure": "S4.17",
+      "figure": "S7.17",
       "array": {
         "array_id": "TU.NC_133183.1.CL2.R003",
         "species": "TU",
@@ -2986,7 +2986,7 @@
           "valid_observations": 95409
         }
       ],
-      "figure": "S4.18",
+      "figure": "S7.18",
       "array": {
         "array_id": "TU.NC_133183.1.CL1.R002",
         "species": "TU",
@@ -3070,7 +3070,7 @@
           "valid_observations": 79954
         }
       ],
-      "figure": "S4.19",
+      "figure": "S7.19",
       "array": {
         "array_id": "TU.NC_133183.1.CL2.R005",
         "species": "TU",
@@ -3154,7 +3154,7 @@
           "valid_observations": 100294
         }
       ],
-      "figure": "S4.20",
+      "figure": "S7.20",
       "array": {
         "array_id": "TU.NC_133184.1.CL1.R001",
         "species": "TU",
@@ -3238,7 +3238,7 @@
           "valid_observations": 103580
         }
       ],
-      "figure": "S4.21",
+      "figure": "S7.21",
       "array": {
         "array_id": "TU.NC_133185.1.CL1.R001",
         "species": "TU",
@@ -3322,7 +3322,7 @@
           "valid_observations": 57313
         }
       ],
-      "figure": "S4.22",
+      "figure": "S7.22",
       "array": {
         "array_id": "TU.NC_133185.1.CL2.R001",
         "species": "TU",
@@ -3406,7 +3406,7 @@
           "valid_observations": 75158
         }
       ],
-      "figure": "S4.23",
+      "figure": "S7.23",
       "array": {
         "array_id": "TU.NC_133186.1.CL1.R002",
         "species": "TU",
@@ -3490,7 +3490,7 @@
           "valid_observations": 66773
         }
       ],
-      "figure": "S4.24",
+      "figure": "S7.24",
       "array": {
         "array_id": "TU.NC_133187.1.CL1.R001",
         "species": "TU",
@@ -3574,7 +3574,7 @@
           "valid_observations": 49495
         }
       ],
-      "figure": "S4.25",
+      "figure": "S7.25",
       "array": {
         "array_id": "TU.NC_133188.1.CL1.R001",
         "species": "TU",
@@ -3658,7 +3658,7 @@
           "valid_observations": 72315
         }
       ],
-      "figure": "S4.26",
+      "figure": "S7.26",
       "array": {
         "array_id": "TU.NC_133188.1.CL2.R002",
         "species": "TU",
@@ -3742,7 +3742,7 @@
           "valid_observations": 71301
         }
       ],
-      "figure": "S4.27",
+      "figure": "S7.27",
       "array": {
         "array_id": "TU.NC_133189.1.CL1.R001",
         "species": "TU",
@@ -3826,7 +3826,7 @@
           "valid_observations": 71999
         }
       ],
-      "figure": "S4.28",
+      "figure": "S7.28",
       "array": {
         "array_id": "TU.NC_133189.1.CL2.R003",
         "species": "TU",
@@ -3910,7 +3910,7 @@
           "valid_observations": 26966
         }
       ],
-      "figure": "S4.29",
+      "figure": "S7.29",
       "array": {
         "array_id": "TU.NC_133190.1.CL2.R002",
         "species": "TU",
@@ -3994,7 +3994,7 @@
           "valid_observations": 41165
         }
       ],
-      "figure": "S4.30",
+      "figure": "S7.30",
       "array": {
         "array_id": "TU.NC_133190.1.CL1.R001",
         "species": "TU",
@@ -4078,7 +4078,7 @@
           "valid_observations": 53776
         }
       ],
-      "figure": "S4.31",
+      "figure": "S7.31",
       "array": {
         "array_id": "TU.NC_133190.1.CL2.R003",
         "species": "TU",
@@ -4162,7 +4162,7 @@
           "valid_observations": 83749
         }
       ],
-      "figure": "S4.32",
+      "figure": "S7.32",
       "array": {
         "array_id": "TU.NC_133191.1.CL1.R001",
         "species": "TU",
@@ -4246,7 +4246,7 @@
           "valid_observations": 50358
         }
       ],
-      "figure": "S4.33",
+      "figure": "S7.33",
       "array": {
         "array_id": "TU.NC_133191.1.CL2.R001",
         "species": "TU",
@@ -4330,7 +4330,7 @@
           "valid_observations": 26316
         }
       ],
-      "figure": "S4.34",
+      "figure": "S7.34",
       "array": {
         "array_id": "TU.NC_133192.1.CL2.R001",
         "species": "TU",
@@ -4414,7 +4414,7 @@
           "valid_observations": 63532
         }
       ],
-      "figure": "S4.35",
+      "figure": "S7.35",
       "array": {
         "array_id": "TU.NC_133192.1.CL1.R001",
         "species": "TU",
@@ -4498,7 +4498,7 @@
           "valid_observations": 29647
         }
       ],
-      "figure": "S4.36",
+      "figure": "S7.36",
       "array": {
         "array_id": "TU.NC_133192.1.CL2.R003",
         "species": "TU",
@@ -4582,7 +4582,7 @@
           "valid_observations": 111540
         }
       ],
-      "figure": "S4.37",
+      "figure": "S7.37",
       "array": {
         "array_id": "TU.NC_133193.1.CL1.R001",
         "species": "TU",
@@ -4666,7 +4666,7 @@
           "valid_observations": 106238
         }
       ],
-      "figure": "S4.38",
+      "figure": "S7.38",
       "array": {
         "array_id": "TU.NC_133194.1.CL1.R001",
         "species": "TU",
@@ -4750,7 +4750,7 @@
           "valid_observations": 51232
         }
       ],
-      "figure": "S4.39",
+      "figure": "S7.39",
       "array": {
         "array_id": "TU.NC_133195.1.CL1.R001",
         "species": "TU",
@@ -4834,7 +4834,7 @@
           "valid_observations": 59945
         }
       ],
-      "figure": "S4.40",
+      "figure": "S7.40",
       "array": {
         "array_id": "TU.NC_133195.1.CL2.R002",
         "species": "TU",
@@ -4918,7 +4918,7 @@
           "valid_observations": 104475
         }
       ],
-      "figure": "S4.41",
+      "figure": "S7.41",
       "array": {
         "array_id": "TU.NC_133196.1.CL2.R001",
         "species": "TU",
@@ -5002,7 +5002,7 @@
           "valid_observations": 129878
         }
       ],
-      "figure": "S4.42",
+      "figure": "S7.42",
       "array": {
         "array_id": "TU.NC_133196.1.CL1.R001",
         "species": "TU",
@@ -5086,7 +5086,7 @@
           "valid_observations": 47859
         }
       ],
-      "figure": "S4.43",
+      "figure": "S7.43",
       "array": {
         "array_id": "TU.NC_133197.1.CL2.R001",
         "species": "TU",
@@ -5170,7 +5170,7 @@
           "valid_observations": 43867
         }
       ],
-      "figure": "S4.44",
+      "figure": "S7.44",
       "array": {
         "array_id": "TU.NC_133197.1.CL1.R001",
         "species": "TU",
@@ -5254,7 +5254,7 @@
           "valid_observations": 91278
         }
       ],
-      "figure": "S4.45",
+      "figure": "S7.45",
       "array": {
         "array_id": "TU.NC_133198.1.CL1.R001",
         "species": "TU",
@@ -5338,7 +5338,7 @@
           "valid_observations": 59715
         }
       ],
-      "figure": "S4.46",
+      "figure": "S7.46",
       "array": {
         "array_id": "TU.NC_133198.1.CL2.R003",
         "species": "TU",
@@ -5422,7 +5422,7 @@
           "valid_observations": 104528
         }
       ],
-      "figure": "S4.47",
+      "figure": "S7.47",
       "array": {
         "array_id": "TU.NC_133199.1.CL1.R001",
         "species": "TU",
@@ -5506,7 +5506,7 @@
           "valid_observations": 65630
         }
       ],
-      "figure": "S4.48",
+      "figure": "S7.48",
       "array": {
         "array_id": "TU.NC_133199.1.CL2.R002",
         "species": "TU",
@@ -5590,7 +5590,7 @@
           "valid_observations": 50409
         }
       ],
-      "figure": "S4.49",
+      "figure": "S7.49",
       "array": {
         "array_id": "TU.NC_133200.1.CL1.R001",
         "species": "TU",

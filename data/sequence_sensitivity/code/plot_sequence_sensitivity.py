@@ -1,4 +1,4 @@
-"""Render sequence-only supplementary figure S7 from frozen regional results."""
+"""Render sequence-only supplementary figure S6 from frozen regional results."""
 from pathlib import Path
 import csv
 import matplotlib
@@ -19,5 +19,5 @@ for fam,col in [('CL1','#266b91'),('CL2','#bd612b')]:
  for ax in axs:ax.plot([],[],color=col,label='富AT' if fam=='CL1' else '富GC')
 for ax,title,y in zip(axs,['A  可比较拷贝池覆盖','B  阵列内序列差异'],['占区域卫星覆盖（%）','归一化编辑距离（%）']):
  ax.set_xticks([0,1],['严格标准化','等价序列合并']);ax.set_ylabel(y);ax.set_title(title,fontsize=11);ax.legend(frameon=False);ax.spines[['top','right']].set_visible(False)
-for ext in ['pdf','png','svg']:fig.savefig(O/f'Supplementary_FigS7_sequence_sensitivity.{ext}',dpi=220)
+for ext in ['pdf','png','svg']:fig.savefig(O/f'Supplementary_FigS6_sequence_sensitivity.{ext}',dpi=220)
 plt.close(fig)

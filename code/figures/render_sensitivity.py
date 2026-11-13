@@ -24,9 +24,9 @@ with PdfPages(F/'Supplementary_FigS8_window_comparison.pdf') as pdf:
          '红标：窗内有效CpG分布不均；灰线：阵列边界。缺测处断线，实测0%保留，孤立窗口显示短横线。']
   if aid==rep[0]:
    lines+=['各页样本14—19对应ERR16782314—ERR16782319，均值为有效参考CpG等权平均。',
-           '重叠窗口共享观测，宽窗口可合并短缺口并降低空间分辨率；定位及红标判据见补充方法15、16。',
-           '逐窗覆盖和连续性见表S54—S56，区域与侧翼均值见表S57；完整图注见补充资料图S8。']
+           '重叠窗口共享观测，宽窗口可合并短缺口并降低空间分辨率；定位及红标判据见补充方法11、12。',
+           '逐窗覆盖和连续性见表S41、S60、S61，区域与侧翼均值见表S42；完整图注见补充资料图S8。']
   for j,line in enumerate(lines):fig.text(.075,.15-j*.025,line,fontsize=8)
   pdf.savefig(fig,dpi=240);fig.savefig(F/f'S8_representative_{rep.index(aid)+1}.png',dpi=150);m.plt.close(fig)
 m.repair_pdf(F/'Supplementary_FigS8_window_comparison.pdf')
-print('S8: five representative arrays; 3 scales; 3 support conditions')
+print('Figure S8: five representative arrays; 3 scales; 3 support conditions')

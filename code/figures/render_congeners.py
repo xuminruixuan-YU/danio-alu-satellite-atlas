@@ -38,6 +38,6 @@ def main():
     a.set_xticks([1]);a.set_xlim(.5,1.5)
     a.annotate(f'{v[0]/1000:.3f} kb',(1,v[0]/1000),xytext=(8,8),textcoords='offset points',color=COL[fam],fontsize=9)
    a.axhline(10,color='black',ls='--',lw=.8)
-   a.set_title(f'D. {sp} · '+['富AT','富GC'][i],fontsize=10);a.set_ylabel('卫星支持覆盖（kb）');a.set_xlabel('区域序号（按支持覆盖降序）');a.set_ylim(0,30)
+   a.set_title(f'Danio {sp} · '+['富AT','富GC'][i],fontsize=10,fontstyle='italic');a.set_ylabel('卫星支持覆盖（kb）');a.set_xlabel('区域序号（按支持覆盖降序）');a.set_ylim(0,30)
  output(fig,'Supplementary_FigS3_region_sizes',240)
 if __name__=='__main__':main()

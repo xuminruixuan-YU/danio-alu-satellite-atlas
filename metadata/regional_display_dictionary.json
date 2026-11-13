@@ -11,7 +11,7 @@
   "support5": "display3 and reads>=5",
   "opaque_fraction": "model-name-limited valid observations / all valid window observations",
   "missing": "NaN display value; measured zero kept only with valid support",
-  "S53": "model_name_limited_observations / total_valid_observations; 10 kb baseline",
+  "S63": "model_name_limited_observations / total_valid_observations; 10 kb baseline",
   "gap_coordinates": "B chr3 [52190000,52860000); C chr3 [58500000,58920000)",
   "anchor": "independent sequence tract outside the satellite fragment catalogue, including possible internal interruptions"
 }

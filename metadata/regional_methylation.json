@@ -72,7 +72,7 @@
   "stronger_support_read_IDs": 5,
   "spatial_flag": "longest no-valid-CpG interval > half actual window length OR no CpG in central half",
   "source": "data/regional_display/per_run/ERR*/valid_observations.tsv.gz",
-  "baseline": "data/regional_methylation/windows.tsv retains 10 kb baseline, S31/S51",
+  "baseline": "data/regional_methylation/windows.tsv retains 10 kb baseline, S58、S59",
   "window_data": "data/regional_display/regional_windows_20kb_step5kb.tsv.gz",
   "support": "Counts apply to whole windows, not uniform depth at every CpG; overlapping windows share measurements"
 }

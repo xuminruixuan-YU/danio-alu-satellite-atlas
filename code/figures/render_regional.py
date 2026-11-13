@@ -136,17 +136,17 @@ def tu(args):
         for (x,top),m in zip(slots,sub):heat=tu_panel(fig,args.assets,m,g,members,x,top,cw,labels[m['array']['array_id']])
         bar=fig.colorbar(heat,cax=fig.add_axes([.95,.79,.01,.12]));bar.ax.set_title('相似度\n(%)',fontsize=7,pad=5);bar.ax.tick_params(labelsize=7)
         legend(fig,.055)
-        name=f'S4_chr{int(chrom):02d}';save(fig,args.out/'grouped_panels',name);paths.append(args.out/'grouped_panels'/(name+'.pdf'));groups.append(dict(chromosome=chrom,arrays=[m['array']['array_id'] for m in sub],figure=name))
+        name=f'S7_chr{int(chrom):02d}';save(fig,args.out/'grouped_panels',name);paths.append(args.out/'grouped_panels'/(name+'.pdf'));groups.append(dict(chromosome=chrom,arrays=[m['array']['array_id'] for m in sub],figure=name))
     join(paths,args.out/'Supplementary_TU_array_structure_methylation.pdf')
     (args.out/'tu_group_manifest.json').write_text(json.dumps(dict(groups=groups,main_examples=[m['array']['array_id'] for m in reps],window_bp=20000,step_bp=5000,min_CpGs=10,min_reads=3,support_mark_reads=5,missing='NaN line breaks',means='equal effective reference CpG',triangles='equal physical scale'),ensure_ascii=False,indent=2))
 def congeners(args):
-    species=args.part;old=json.load(open(args.labels/'congener_panel_manifest.json'));rr=[r for r in old if r['region']['species']==species];group='S5' if species=='aesculapii' else 'S6';paths=[];groups=[]
+    species=args.part;old=json.load(open(args.labels/'congener_panel_manifest.json'));rr=[r for r in old if r['region']['species']==species];group='S4' if species=='aesculapii' else 'S5';paths=[];groups=[]
     for ch in sorted({r['region']['chromosome'] for r in rr},key=lambda c:(not c.isdigit(),int(c) if c.isdigit() else 0)):
         subset=sorted([r for r in rr if r['region']['chromosome']==ch],key=lambda x:(x['region']['seqid'],int(x['region']['start0'])))
         for offset in range(0,len(subset),6):
             batch=subset[offset:offset+6];nc=min(3,len(batch));nr=math.ceil(len(batch)/nc);cw=3.15 if nc==3 else 3.8 if nc==2 else 5.0
             fw=.6+nc*cw+(nc-1)*.55+.85;rowheight=cw+1.90;fh=.65+nr*rowheight+.35;fig=plt.figure(figsize=(fw,fh))
-            fig.suptitle(f'Danio {species} · '+(f'第{ch}号染色体' if ch.isdigit() else '未定位序列')+(f' · {offset//6+1}' if len(subset)>6 else ''),fontsize=12,y=1-.1/fh,va='top')
+            fig.suptitle(f'Danio {species} · '+(f'第{ch}号染色体' if ch.isdigit() else '未定位序列')+(f' · {offset//6+1}' if len(subset)>6 else ''),fontsize=12,fontstyle='italic',y=1-.1/fh,va='top')
             for i,item in enumerate(batch):
                 r=item['region'];data=json.load(open(args.assets/'congener_structure'/r['array_id']/'checked.json'));x=.6+(i%nc)*(cw+.55);top=fh-.57-(i//nc)*rowheight
                 kind='较大阵列' if r['qualifies_large']=='True' else '较短区段';fig.text(x/fw,top/fh,f"{item['figure']}  {LAB[r['family']]} · {kind}\n{r['seqid']}: {int(r['start0'])+1}–{r['end0']} bp",fontsize=8.5,va='top',linespacing=1.5)
