@@ -1,0 +1,106 @@
+{
+  "assembly": "GCF_049306965.1",
+  "coordinate_system": "0-based half-open",
+  "family_codes": {
+    "CL1": "AT-rich",
+    "CL2": "GC-rich"
+  },
+  "threshold_columns": [
+    "maximum_interruption_bp",
+    "minimum_supported_satellite_bp"
+  ],
+  "threshold_combinations_bp": [
+    [
+      10000,
+      50000
+    ],
+    [
+      25000,
+      25000
+    ],
+    [
+      25000,
+      50000
+    ],
+    [
+      25000,
+      100000
+    ],
+    [
+      25000,
+      200000
+    ],
+    [
+      50000,
+      50000
+    ]
+  ],
+  "main_threshold_combination_bp": [
+    25000,
+    50000
+  ],
+  "runs": [
+    "ERR16782314",
+    "ERR16782315",
+    "ERR16782316",
+    "ERR16782317",
+    "ERR16782318",
+    "ERR16782319"
+  ],
+  "flank_bp": 500000,
+  "window_bp": 20000,
+  "window_step_bp": 5000,
+  "minimum_effective_CpGs": 10,
+  "minimum_independent_reads": 3,
+  "minimum_individuals_for_interval": 3,
+  "interval_quantiles": [
+    0.025,
+    0.975
+  ],
+  "interval_method": "Percentile bootstrap of the paired individual differences, enumerating all ordered samples of n individuals drawn with replacement from n evaluable individuals.",
+  "inputs": {
+    "threshold_catalogs": "data/array_study/array_catalog/variants/TU_gap{maximum_interruption_bp}/regions.tsv",
+    "threshold_count_check": "data/array_study/array_catalog/threshold_sensitivity.tsv",
+    "window_estimates": "data/regional_500kb/windows.tsv.gz",
+    "cpg_equal_estimates": "data/array_comparisons/zone_backgrounds.tsv",
+    "representative_estimate_check": "data/regional_display/representative_CpG_equal_backgrounds.tsv",
+    "baseline_window_check": "data/regional_display/regional_windows_20kb_step5kb.tsv.gz"
+  },
+  "fields": {
+    "maximum_gap_kb": "Maximum allowed interruption in the array catalog, in kb.",
+    "minimum_supported_kb": "Minimum nonoverlapping satellite coverage within a region, in kb.",
+    "regions": "Number of regions meeting the thresholds for the row's family and scope.",
+    "chromosomes": "Number of nuclear chromosomes containing at least one qualifying region.",
+    "chromosomes_one / chromosomes_multiple / chromosomes_zero": "Number of nuclear chromosomes with one, more than one, or zero qualifying regions.",
+    "supported_bp": "Sum of satellite bases covered by the qualifying regions, excluding interruptions.",
+    "array_id": "Array identifier using CL1 or CL2; the corresponding workbook labels are AT or GC. Coordinates match data/region_id_mapping.tsv.",
+    "run": "Sequencing run accession identifying one individual.",
+    "left / inside / right": "For array [start0,end0) and flank f=flank_bp, the zones are [start0-f,start0), [start0,end0), and [end0,end0+f), in ascending reference coordinate order.",
+    "window_equal": "Average the CpG-equal 5mC percentages of all qualifying full 20 kb windows wholly inside the zone.",
+    "reference_CpG_equal": "Average 5mC percentages directly across effective reference CpGs in the zone. The minimum CpG and read counts apply to the zone as a whole.",
+    "*_mean_pct": "Zone-level 5mC percentage for the specified estimator.",
+    "*_total_windows / *_valid_windows": "Number of complete windows wholly in the zone and number of those windows meeting the CpG and read criteria, respectively.",
+    "*_flagged_windows": "Number of qualifying windows whose longest gap without a valid CpG exceeds half the window or whose central half has no valid CpG.",
+    "*_effective_CpGs / *_observations / *_independent_reads": "Distinct reference CpGs, valid read\u2013CpG observations, and distinct read IDs, each counted within a zone. These fields accompany the reference-CpG estimate.",
+    "*_max_unobserved_bp": "Longest gap without a valid reference CpG in the zone, in bp. Includes terminal unobserved spans.",
+    "inside_minus_left_pp / inside_minus_right_pp / inside_minus_both_pp": "Paired difference in percentage points within one individual. For both sides, average the two flank means equally before subtraction.",
+    "comparison": "Left, right, or equal mean of both flanks.",
+    "evaluable_individuals": "Individuals with estimates in both parts of the stated comparison.",
+    "median_difference_pp / ci95_low_pp / ci95_high_pp": "Median paired difference and nominal 95% percentile interval, in percentage points. Negative values indicate lower methylation inside the array.",
+    "individuals_below": "Evaluable individuals with a negative paired difference.",
+    "resampling_unit / bootstrap_ordered_resamples": "Individual and number of ordered bootstrap draws. Zero draws indicates that only descriptive estimates are reported.",
+    "flank_bp": "Background extent on each side: 500000 bp for the main comparison; 200000 bp for the sensitivity comparison."
+  },
+  "missing_values": "Empty fields indicate insufficient support or a field that does not apply to the estimator. Measured zero remains a valid value.",
+  "supplementary_tables": {
+    "S67": "data/array_comparisons/threshold_summary.tsv",
+    "S68": "data/array_comparisons/threshold_by_chromosome.tsv",
+    "S69": "data/array_comparisons/methylation_individual_contrasts.tsv",
+    "S70": "data/array_comparisons/methylation_contrast_summary.tsv"
+  },
+  "sensitivity_flank_bp": [
+    200000
+  ],
+  "background_definition": "Fixed adjacent reference intervals, with no additional exclusion of other annotated satellites; these are not assumed to be repeat-free.",
+  "source_calls": "Accepted whole-genome reference-CpG projections underlying the 500 kb display, with unchanged alignment, coordinate-competition and modification filters. Distinct read IDs in the validated 200 kb observation ledger are combined by set union with IDs obtained by replaying only the outer 300 kb of each 500 kb background. Primary alignments and all returned candidate records use the unchanged projection filters. Replayed outer observation totals must match the accepted CpG counts; 200 kb counts, means and IDs are independently regrouped from the deposited observation ledger."
+}

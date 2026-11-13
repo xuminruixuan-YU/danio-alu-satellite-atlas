@@ -23,3 +23,7 @@ S31 当前轨道	data/regional_methylation/windows.tsv	全读段区域窗口；�
 S51	data/regional_methylation/array_coverage.tsv	逐阵列逐个体覆盖及读段数
 S52	data/regional_methylation/coordinate_example/coordinate_sensitivity_quantification.tsv	指定窗口在扩大竞争搜索后的坐标及比例敏感性
 S53	data/regional_methylation/model_metadata_limited_windows.tsv	模型名称受限观测占多数的窗口；version=new对应区域轨道
+S67	data/array_comparisons/threshold_summary.tsv	TU六组间断和覆盖阈值下的区域数、染色体数及卫星覆盖
+S68	data/array_comparisons/threshold_by_chromosome.tsv	TU六组阈值下各家族的逐染色体区域数
+S69	data/array_comparisons/methylation_individual_contrasts.tsv	各个体的阵列内部与左右各500 kb背景的甲基化均值、覆盖与配对差值；flank_bp=200000为范围敏感性对照
+S70	data/array_comparisons/methylation_contrast_summary.tsv	按个体汇总的配对差值中位数及95%区间；500 kb主比较及200 kb范围敏感性对照

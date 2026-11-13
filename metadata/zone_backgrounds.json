@@ -1,0 +1,42 @@
+{
+  "reference": "GCF_049306965.1",
+  "coordinate_system": "0-based half-open; CpG represented by reference C position",
+  "samples": [
+    "ERR16782314",
+    "ERR16782315",
+    "ERR16782316",
+    "ERR16782317",
+    "ERR16782318",
+    "ERR16782319"
+  ],
+  "flanks_bp": [
+    500000,
+    200000
+  ],
+  "counts_order": [
+    "C",
+    "m",
+    "h",
+    "unknown",
+    "quantization_tie",
+    "low_confidence",
+    "below_Q10"
+  ],
+  "eligible_states": [
+    "C",
+    "m",
+    "h"
+  ],
+  "CpG_equal_percentage": "100 * mean(m / (C + m + h)) over sites with positive valid depth",
+  "input_relationship": "Accepted chromosome-level CpG class counts also underlie regional_500kb/windows.tsv.gz. The 200 kb zone statistics are checked against regional_display/results/background.tsv.",
+  "read_count_replay": "Distinct read IDs in the validated 200 kb observation ledger are combined by set union with IDs obtained by replaying only the outer 300 kb of each 500 kb background. Primary alignments and all returned candidate records use the unchanged projection filters. Replayed outer observation totals must match the accepted CpG counts; 200 kb counts, means and IDs are independently regrouped from the deposited observation ledger.",
+  "filters": {
+    "MAPQ": 20,
+    "score_fraction": 0.8,
+    "secondary_cap": 100,
+    "baseQ": 10,
+    "state_probability": 0.8
+  },
+  "independence": "An individual is the biological resampling unit; overlapping windows share observations.",
+  "backgrounds": "Reference-adjacent intervals. No additional removal of other repeat annotations."
+}
