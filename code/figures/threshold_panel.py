@@ -33,7 +33,7 @@ def plot_threshold_panel(ax, source, family, primary, *, title_loc='left'):
         offset = (index - (len(categories) - 1) / 2) * width
         positions = [i + offset for i in range(len(SETTINGS))]
         values = [counts[n] for counts in distribution]
-        ax.bar(positions, values, width * .9, label=f'{n}个区域',
+        ax.bar(positions, values, width * .9, label=f'{n}个阵列',
                color=COLORS.get(n), edgecolor='#324F61', linewidth=.65, zorder=3)
         for pos, value in zip(positions, values):
             if value:
@@ -48,9 +48,9 @@ def plot_threshold_panel(ax, source, family, primary, *, title_loc='left'):
     ax.set_xlim(-.52, len(SETTINGS) - .48)
     ax.set_ylim(0, 29.5)
     ax.yaxis.set_major_locator(MultipleLocator(5))
-    ax.set_xlabel('间断上限／卫星覆盖下限（kb）', fontsize=10)
+    ax.set_xlabel('最大间隔 / 最低卫星覆盖（kb）', fontsize=10)
     ax.set_ylabel('染色体数', fontsize=10)
-    ax.set_title('C  不同阈值下富AT大型区域数', loc=title_loc, pad=20)
+    ax.set_title('C  不同划分条件下富AT大型阵列的染色体分布', loc=title_loc, pad=20)
     ax.tick_params(axis='x', length=0, pad=3)
     ax.tick_params(axis='y', labelsize=10, pad=2, length=3)
     ax.grid(axis='y', color='#DCE3E7', linewidth=.55, zorder=0)

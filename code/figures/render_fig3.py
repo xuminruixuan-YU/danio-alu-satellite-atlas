@@ -27,7 +27,7 @@ def main():
             ys=[100*float(next(x for x in data if x['run']==run and x['family']==fam)[field]) for fam in COL];ax[j].plot([0,1],ys,color='#999',lw=.9,zorder=0)
             for i,fam in enumerate(COL):ax[j].scatter(i,ys[i],color=COL[fam],s=22)
         ax[j].set_xticks([0,1],[LAB[f] for f in COL]);ax[j].set_xlim(-.35,1.35);ax[j].set_ylim(35,90);ax[j].set_ylabel('5mC比例（%）');ax[j].grid(axis='y',alpha=.15)
-        ax[j].set_title(['A  家族归属读段','B  锚定读段的阵列等权估计'][j],loc='left',pad=15)
+        ax[j].set_title(['A  按家族归类的读段','B  用于阵列定位的读段'][j],loc='left',pad=15)
     output(fig,'Fig3_methylation')
 
 if __name__=="__main__":main()

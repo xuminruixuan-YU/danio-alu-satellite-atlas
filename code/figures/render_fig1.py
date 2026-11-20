@@ -28,7 +28,7 @@ def main():
         for r in [x for x in regions if x['seqid']==ch['seqid']]:
             y=i+(-.14 if r['family']=='CL1' else .14)
             for x in [v for v in members if v['array_id']==r['array_id']]:a.plot([int(x['start0'])/1e6,int(x['end0'])/1e6],[y,y],color=COL[x['family']],lw=2.7,solid_capstyle='butt')
-    a.set_yticks(range(25),range(1,26));a.invert_yaxis();a.set_ylabel('染色体');a.set_xlabel('TU参考坐标（Mb）');a.set_xlim(-.5,82);a.set_title('A  大型阵列区域的分布',loc='left',pad=30)
+    a.set_yticks(range(25),range(1,26));a.invert_yaxis();a.set_ylabel('染色体');a.set_xlabel('TU参考坐标（Mb）');a.set_xlim(-.5,82);a.set_title('A  大型阵列的染色体分布',loc='left',pad=30)
     a.legend(handles=[Patch(color=COL[f],label=LAB[f]) for f in COL],loc='lower right',bbox_to_anchor=(1,1.015),ncol=2,frameon=False)
     for j,fam in enumerate(COL):
         b.axhline(j,color='#ddd',lw=1)

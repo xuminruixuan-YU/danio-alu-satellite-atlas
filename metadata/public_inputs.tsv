@@ -22,3 +22,4 @@ SRR30635751	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.
 SRR30635752	long_reads	PRJNA1159317 TU isolate6; structural support	https://www.ncbi.nlm.nih.gov/sra/SRR30635752	no; source data obtained via NCBI
 M83125.1	historical_clone	AluI satellite identity	https://www.ebi.ac.uk/ena/browser/view/M83125.1	sequence relationships retained in derived alignment tables
 M83127.1	historical_clone	AluI satellite identity	https://www.ebi.ac.uk/ena/browser/view/M83127.1	sequence relationships retained in derived alignment tables
+GCA_054507245.2	assembly	Rasbora lateristriata outgroup; all nuclear sequences for local BLASTN; 25 chromosomes for TRASH pattern screening	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_054507245.2/	no; retrieve this exact assembly version

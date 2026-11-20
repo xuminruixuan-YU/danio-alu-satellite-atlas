@@ -6,6 +6,8 @@ Reproducible sequence, structural and methylation analyses of AT-rich and GC-ric
 
 Install the Python packages in `requirements.txt`; external tools and input accessions are listed in `metadata/software.json` and `metadata/public_inputs.tsv`. Plotting uses an installed CJK font (Droid Sans Fallback) plus DejaVu Sans.
 
+The [NCBI checksum list](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/049/306/965/GCF_049306965.1_GRCz12tu/md5checksums.txt) gives MD5 `eb074402543deba98a52a1ae726398e3` for the compressed source FASTA `GCF_049306965.1_GRCz12tu_genomic.fna.gz`. Satellite annotation uses the 25 nuclear chromosomes. The methylation alignment reference also includes the mitochondrial sequence `NC_002333.2` from that file.
+
 ```sh
 python code/figures/render_fig1.py
 python code/figures/render_fig2.py
@@ -30,7 +32,7 @@ The full parameter atlases can be redrawn after the regional reconstruction:
 DANIO_COMPARISON_DIR=/tmp/danio-regional-reproduction python code/regional_display/summarize_plot.py
 ```
 
-The deposited `results/` tables include the window comparison. For reference-CpG census checks, `code/regional_display/reference_coverage.py` accepts `DANIO_REFERENCE_FASTA` pointing to the original GCF_049306965.1 FASTA. The window comparison uses 200 kb flanks (Tables S60 and S61; Figure S8). Figures 4 and S7 use the 500 kb flank data (Tables S21 and S22).
+The deposited `results/` tables include the window comparison. For reference-CpG census checks, `code/regional_display/reference_coverage.py` accepts `DANIO_REFERENCE_FASTA` pointing to the original GCF_049306965.1 FASTA. The window comparison uses 200 kb flanks (Tables S41 and S42; Figure S8). Figures 4 and S7 use the 500 kb flank data (Tables S21 and S22).
 
 ## Regional tracks: 500 kb flanks
 
@@ -123,6 +125,27 @@ Black lines average valid reference-CpG fractions equally. Orange dashed lines p
 
 The 200 kb tables provide CpG and observation summaries, distinct-read bounds, and exact read counts for the 95 windows that required them to determine three-read support. The commands above reproduce figures and check the deposited summaries. Source read accessions and projection settings are listed in `data/genome_methylation/parameters.json`.
 
-In the callable set, GC-rich satellites have lower methylation than AT-rich satellites and sequence outside the two-family catalogue across all six individuals. This supports a hypothesis of differentiated chromatin states and a possible association of GC-rich regions with active centromeric chromatin. It does not establish functional inactivity of AT-rich arrays. TU reference structure and TL forebrain methylation come from different genetic backgrounds; protein occupancy and cytological localization in matched material are needed to assign centromere function.
+In the callable set, GC-rich satellites have lower methylation than AT-rich satellites and sequence outside the two-family catalogue across all six individuals. These are differences in measured methylation. Sequence comparisons also show greater internal uniformity in AT-rich arrays and lower within-array than between-array divergence in both families. Homogenization mechanisms and relationships to centromere function are separate hypotheses. TU reference structure and TL forebrain methylation come from different genetic backgrounds; functional assignment requires protein occupancy and cytological localization in matched material.
 
 Supplementary-table titles are listed in `metadata/supplementary_table_index.tsv`; `metadata/supplementary_evidence.tsv` links supporting source data.
+
+
+## Local Cypriniformes assembly comparison
+
+`data/local_assembly_blast/` contains the fixed four-query BLASTN results for TU GCF_049306965.1, *Danio aesculapii* GCA_903798145.1, *Danio kyathit* GCA_903798195.1 and the outgroup *Rasbora lateristriata* GCA_054507245.2. These are selected chromosome-level or complete assemblies, not an exhaustive survey of every Cypriniformes species. Full nuclear sequences, including unplaced records, were searched with the same parameters. This local search is separate from the earlier online nt controls in `data/cypriniformes_blast/`.
+
+The per-assembly summaries record BLASTN settings, sequence inventories and maximum query coverage. `array_supported_matches.tsv` links representative long matches to the fixed-template family fragments; the HSP itself is not an array count. `rasbora_candidate_distances.tsv.gz` records 1722 complete-unit comparisons of 861 TRASH patterns from the 25 outgroup chromosomes, using the TU representatives in `rasbora_screen_references.fasta`. Both families lack a pattern passing normalized circular/RC distance <=0.30 in that set. The outgroup's short BLAST matches provide no supported >=10-kb family region under these checks. This negative result is conditional on query, discovery and reference coverage, rather than evidence of absence from all other genera. Existing Danio array counts and distances retain their original catalogue definitions.
+
+Verify deposited HSP summaries and inventories without running a new search:
+
+```sh
+python code/local_blast/reproduce.py
+```
+
+To repeat a local search, supply the exact gzipped source FASTA listed in `assemblies.json` and a new output directory:
+
+```sh
+python code/local_blast/reproduce.py --accession GCA_054507245.2 --fasta /path/to/Rasbora_lateristriata.fna.gz --output /tmp/rasbora-local-blast
+```
+
+BLASTN 2.12.0+ used word size 11, E-value 10, reward/penalty 2/-3, gap-open/extension 5/2, no low-complexity masking, at most 5000 targets and 3 HSPs per query–subject pair. No identity hard cutoff was applied. The exact circular alignment implementation is retained in `code/local_blast/exact_circular_alignment.py`; candidate sequences and distance numerators/denominators are in the pattern table.

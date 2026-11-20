@@ -1,0 +1,3 @@
+family	query	query_covered_bp	query_cover	subject	start1	end1	array_id
+CL1	CL1_186nt	172	0.924731	LR812534.1	18378564	18378734	kyathit.LR812534.1.CL1.R001
+CL2	CL2_half2	92	1.000000	LR812535.1	47397905	47397997	kyathit.LR812535.1.CL2.R001

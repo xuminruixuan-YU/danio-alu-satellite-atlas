@@ -1,0 +1,38 @@
+[
+  {
+    "organism": "Danio rerio",
+    "assembly": "GCF_049306965.1",
+    "assembly_level": "Complete Genome",
+    "source": "Danio_rerio.GRCz12tu.fna.gz",
+    "md5": "eb074402543deba98a52a1ae726398e3",
+    "nuclear_records": 25,
+    "nuclear_bp": 1448791966
+  },
+  {
+    "organism": "Danio aesculapii",
+    "assembly": "GCA_903798145.1",
+    "assembly_level": "Chromosome",
+    "source": "Danio_aesculapii.fna.gz",
+    "md5": "f2bd306db08d220ee4ae835c919f8b1f",
+    "nuclear_records": 342,
+    "nuclear_bp": 1381485597
+  },
+  {
+    "organism": "Danio kyathit",
+    "assembly": "GCA_903798195.1",
+    "assembly_level": "Chromosome",
+    "source": "Danio_kyathit.fna.gz",
+    "md5": "cf1945517c295d72316ae38717c675eb",
+    "nuclear_records": 739,
+    "nuclear_bp": 1708446541
+  },
+  {
+    "organism": "Rasbora lateristriata",
+    "assembly": "GCA_054507245.2",
+    "assembly_level": "Chromosome",
+    "source": "Rasbora_lateristriata.fna.gz",
+    "md5": "e7a5de52809254632d4992c4a2597cd5",
+    "nuclear_records": 10399,
+    "nuclear_bp": 975805920
+  }
+]

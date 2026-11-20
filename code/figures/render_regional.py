@@ -93,9 +93,15 @@ def tu_panel(fig,assets,m,g,members,x,top,cw,label,large=False):
     for other in axes:
         assert np.allclose([other.get_position().x0,other.get_position().x1],[tri.get_position().x0,tri.get_position().x1])
     return heat
-def legend(fig,y=.10,intro_y=None):
-    fw,fh=fig.get_size_inches();fig.text(.06,y+.055 if intro_y is None else intro_y,'黑线：≥3条读段；蓝线：≥5条。红标：窗内有效CpG分布不均。',fontsize=9)
-    for row,(title,palette,labels) in enumerate([('C 有效CpG数',CPG_COL,['0','1–9','10–19','20–49','50–99','≥100']),('R 独立读段数',READ_COL,['0','1–2','3–4','5–9','10–19','≥20'])]):
+def legend(fig, y=.10, intro_y=None, *, main_figure=False):
+    if main_figure:
+        intro = '黑线：≥3条不同读段。蓝线：≥5条。红标：窗内可测位点分布不均。'
+        cpg_label, read_label = 'C  可测CpG位点数', 'R  不同读段数'
+    else:
+        intro = '黑线：≥3条读段；蓝线：≥5条。红标：窗内有效CpG分布不均。'
+        cpg_label, read_label = 'C 有效CpG数', 'R 独立读段数'
+    fig.text(.06, y + .055 if intro_y is None else intro_y, intro, fontsize=9)
+    for row,(title,palette,labels) in enumerate([(cpg_label,CPG_COL,['0','1–9','10–19','20–49','50–99','≥100']),(read_label,READ_COL,['0','1–2','3–4','5–9','10–19','≥20'])]):
         yy=y-row*.028;fig.text(.06,yy,title,fontsize=8,va='center')
         for i,(col,txt) in enumerate(zip(palette,labels)):
             xx=.23+i*.115;ax=fig.add_axes([xx,yy-.006,.018,.012]);ax.set_facecolor(col);ax.set_xticks([]);ax.set_yticks([])
@@ -120,7 +126,9 @@ def tu(args):
         fig=plt.figure(figsize=(9.0,11.15));slots=[(.80,10.85),(3.50,10.85),(6.20,10.85),(2.15,5.95),(4.85,5.95)]
         for i,(m,(x,t)) in enumerate(zip(reps,slots)):heat=tu_panel(fig,args.assets,m,g,members,x,t,2.05,chr(65+i),True)
         bar=fig.colorbar(heat,cax=fig.add_axes([.95,.88,.010,.075]));bar.ax.set_title('相似度\n(%)',fontsize=7,pad=5);bar.ax.tick_params(labelsize=7)
-        legend(fig,.072,intro_y=.112);fig.text(.012,.62,'CpG 5mC比例（%）',rotation=90,fontsize=10);fig.text(.06,.015,'20 kb窗口 / 5 kb步长；≥10个有效CpG。留白为支持不足；真实0%保留。',fontsize=9)
+        legend(fig, .072, intro_y=.112, main_figure=True)
+        fig.text(.012, .62, 'CpG 5mC比例（%）', rotation=90, fontsize=10)
+        fig.text(.06, .015, '20 kb窗口，5 kb步长。每窗至少10个可测CpG位点。留白为观测不足。', fontsize=9)
         # Validate every footer line after actual font layout, rather than relying on spacing constants.
         fig.canvas.draw();footer=[t for t in fig.texts if t.get_position()[1]<.15 and t.get_rotation()==0];boxes=[t.get_window_extent(fig.canvas.get_renderer()) for t in footer]
         pairs=[(i,j) for i in range(len(boxes)) for j in range(i+1,len(boxes)) if boxes[i].overlaps(boxes[j])]

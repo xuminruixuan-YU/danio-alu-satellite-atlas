@@ -69,11 +69,11 @@ for col,chrom in enumerate([3,21]):
     bottom.set(ylim=(5.5,-.5),yticks=range(6),yticklabels=[r[-2:] for r in runs],xlabel='TU参考坐标（Mb）')
     bottom.set_ylabel('可测CpG',fontsize=7.5)
 fig.text(.019,.52,'CpG 5mC比例（%）',rotation=90,va='center',fontsize=9)
-fig.legend(handles=[Line2D([0],[0],color='black',label='CpG等权'),Line2D([0],[0],color='#d07a28',ls='--',label='观测加权'),
+fig.legend(handles=[Line2D([0],[0],color='black',label='各CpG位点平均'),Line2D([0],[0],color='#d07a28',ls='--',label='按观测数加权'),
     Patch(facecolor=colors['CL1'],alpha=.75,label='富AT'),Patch(facecolor=colors['CL2'],alpha=.75,label='富GC')],
     loc='lower center',bbox_to_anchor=(.5,.069),frameon=False,ncol=4,fontsize=8)
-fig.text(.50,.048,'200 kb非重叠窗口；每窗≥10个有效CpG、≥3条独立读段；支持不足处断线。',ha='center',fontsize=7)
-fig.text(.50,.027,'红标：窗内有效CpG分布不均。下方色带：有效CpG占参考CpG的比例。',ha='center',fontsize=7)
+fig.text(.50,.048,'200 kb非重叠窗口。每窗至少10个可测CpG位点和3条不同读段。',ha='center',fontsize=7)
+fig.text(.50,.027,'红标：窗内可测位点分布不均。底部色带：可测位点占参考CpG的比例。',ha='center',fontsize=7)
 cax=fig.add_axes([.36,.124,.28,.013]);fig.colorbar(im,cax=cax,orientation='horizontal',ticks=[0,50,100])
 cax.tick_params(labelsize=6,pad=1)
 fig.subplots_adjust(left=.105,right=.975,top=.95,bottom=.21)
