@@ -17,7 +17,7 @@ for fam,col in [('CL1','#266b91'),('CL2','#bd612b')]:
   z=[next(r for r in rr if r['array_id']==aid and r['scenario']==n) for n in ['score75_margin10_strict','score75_margin10_equivalent']]
   for ax,k in zip(axs,['retained_fraction','normalized_edit_distance']):ax.plot([0,1],[100*float(r[k]) for r in z],color=col,alpha=.5,marker='o',ms=3,lw=.7)
  for ax in axs:ax.plot([],[],color=col,label='富AT' if fam=='CL1' else '富GC')
-for ax,title,y in zip(axs,['A  可比较拷贝池覆盖','B  阵列内序列差异'],['占区域卫星覆盖（%）','归一化编辑距离（%）']):
+for ax,title,y in zip(axs,['(a)  可比较拷贝池覆盖','(b)  阵列内序列差异'],['占区域卫星覆盖（%）','归一化编辑距离（%）']):
  ax.set_xticks([0,1],['严格标准化','等价序列合并']);ax.set_ylabel(y);ax.set_title(title,fontsize=11);ax.legend(frameon=False);ax.spines[['top','right']].set_visible(False)
 for ext in ['pdf','png','svg']:fig.savefig(O/f'Supplementary_FigS6_sequence_sensitivity.{ext}',dpi=220)
 plt.close(fig)

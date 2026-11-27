@@ -111,7 +111,7 @@ The summary plotters read frozen tables; they do not rerun genome annotation or 
 
 ## Genome-wide TL forebrain methylation
 
-The six TL adult forebrain datasets ERR16782314–ERR16782319 are projected onto the full 26-sequence TU GCF_049306965.1 reference. Nuclear chromosome statistics cover 25 sequences; mitochondrial statistics remain separate. Chromosome-wide projection is distinct from Fig. 3A family-assigned read observations and from independently anchored array estimates. It uses reference-CG agreement, the existing MAPQ, modification-state and returned-candidate coordinate filters. Returned candidates are not an exhaustive enumeration of potential matches.
+The six TL adult forebrain datasets ERR16782314–ERR16782319 are projected onto the full 26-sequence TU GCF_049306965.1 reference. Nuclear chromosome statistics cover 25 sequences; mitochondrial statistics remain separate. Chromosome-wide projection is distinct from Fig. 3(a) family-assigned read observations and from independently anchored array estimates. It uses reference-CG agreement, the existing MAPQ, modification-state and returned-candidate coordinate filters. Returned candidates are not an exhaustive enumeration of potential matches.
 
 `data/genome_methylation/` contains individual summaries, 200 kb non-overlapping windows, denominators and display masks. `parameters.json` records the reference, samples, software versions and filters. `column_dictionary.json` links the source columns to S25–S30. Figure 5 shows chromosomes 3 and 21. S9 covers all 25 nuclear chromosomes.
 

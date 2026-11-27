@@ -50,7 +50,7 @@ def plot_threshold_panel(ax, source, family, primary, *, title_loc='left'):
     ax.yaxis.set_major_locator(MultipleLocator(5))
     ax.set_xlabel('最大间隔 / 最低卫星覆盖（kb）', fontsize=10)
     ax.set_ylabel('染色体数', fontsize=10)
-    ax.set_title('C  不同划分条件下富AT大型阵列的染色体分布', loc=title_loc, pad=20)
+    ax.set_title('(c)  不同划分条件下富AT大型阵列的染色体分布', loc=title_loc, pad=20)
     ax.tick_params(axis='x', length=0, pad=3)
     ax.tick_params(axis='y', labelsize=10, pad=2, length=3)
     ax.grid(axis='y', color='#DCE3E7', linewidth=.55, zorder=0)

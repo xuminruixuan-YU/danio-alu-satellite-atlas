@@ -124,7 +124,8 @@ def tu(args):
     g=pd.read_csv(args.windows,sep='\t');members=pd.read_csv(args.assets/'array_catalog/membership.tsv',sep='\t');reps=[m for m in metas if m['array']['chromosome'] in ['3','21']]
     if not args.supplement_only:
         fig=plt.figure(figsize=(9.0,11.15));slots=[(.80,10.85),(3.50,10.85),(6.20,10.85),(2.15,5.95),(4.85,5.95)]
-        for i,(m,(x,t)) in enumerate(zip(reps,slots)):heat=tu_panel(fig,args.assets,m,g,members,x,t,2.05,chr(65+i),True)
+        for m, (x, t), label in zip(reps, slots, 'abcde'):
+            heat = tu_panel(fig, args.assets, m, g, members, x, t, 2.05, f'({label})', True)
         bar=fig.colorbar(heat,cax=fig.add_axes([.95,.88,.010,.075]));bar.ax.set_title('相似度\n(%)',fontsize=7,pad=5);bar.ax.tick_params(labelsize=7)
         legend(fig, .072, intro_y=.112, main_figure=True)
         fig.text(.012, .62, 'CpG 5mC比例（%）', rotation=90, fontsize=10)

@@ -28,14 +28,14 @@ def main():
         for r in [x for x in regions if x['seqid']==ch['seqid']]:
             y=i+(-.14 if r['family']=='CL1' else .14)
             for x in [v for v in members if v['array_id']==r['array_id']]:a.plot([int(x['start0'])/1e6,int(x['end0'])/1e6],[y,y],color=COL[x['family']],lw=2.7,solid_capstyle='butt')
-    a.set_yticks(range(25),range(1,26));a.invert_yaxis();a.set_ylabel('染色体');a.set_xlabel('TU参考坐标（Mb）');a.set_xlim(-.5,82);a.set_title('A  大型阵列的染色体分布',loc='left',pad=30)
+    a.set_yticks(range(25),range(1,26));a.invert_yaxis();a.set_ylabel('染色体');a.set_xlabel('TU参考坐标（Mb）');a.set_xlim(-.5,82);a.set_title('(a)  大型阵列的染色体分布',loc='left',pad=30)
     a.legend(handles=[Patch(color=COL[f],label=LAB[f]) for f in COL],loc='lower right',bbox_to_anchor=(1,1.015),ncol=2,frameon=False)
     for j,fam in enumerate(COL):
         b.axhline(j,color='#ddd',lw=1)
         rr=[x for x in regions if x['chromosome']=='3' and x['family']==fam]
         for k,x in enumerate(sorted(rr,key=lambda x:int(x['start0'])),1):
             lo,hi=int(x['start0'])/1e6,int(x['end0'])/1e6;b.plot([lo,hi],[j,j],color=COL[fam],lw=8,solid_capstyle='butt');b.text((lo+hi)/2,j+.18,('AT' if fam=='CL1' else 'GC')+str(k),ha='center',fontsize=8)
-    b.set_yticks([0,1],[LAB[f] for f in COL]);b.set_ylim(-.55,1.6);b.set_xlim(45,60);b.set_xlabel('第3号染色体参考坐标（Mb）');b.set_title('B  第3号染色体的富GC—富AT—富GC排列',loc='left',pad=12)
+    b.set_yticks([0,1],[LAB[f] for f in COL]);b.set_ylim(-.55,1.6);b.set_xlim(45,60);b.set_xlabel('第3号染色体参考坐标（Mb）');b.set_title('(b)  第3号染色体的富GC—富AT—富GC排列',loc='left',pad=12)
     plot_threshold_panel(c, P / 'data/array_comparisons/threshold_by_chromosome.tsv', 'CL1', (25, 50))
     output(fig,'Fig1_distribution')
 

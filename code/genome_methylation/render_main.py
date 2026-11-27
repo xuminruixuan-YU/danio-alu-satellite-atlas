@@ -33,7 +33,7 @@ def merged(bounds,other):
 fig=plt.figure(figsize=(7.5,8.1))
 grid=fig.add_gridspec(8,2,height_ratios=[.5,1,1,1,1,1,1,1.25],hspace=.26,wspace=.27)
 audit=[]
-for col,chrom in enumerate([3,21]):
+for col, (label, chrom) in enumerate([('(a)', 3), ('(b)', 21)]):
     meta=next(r for r in cfg['reference_records'] if str(r['chromosome'])==str(chrom) and r['nuclear'])
     ref=meta['reference'];length=meta['length'];top=fig.add_subplot(grid[0,col]);f=fr[fr.seqid==ref]
     bounds={fam:list(zip(f.loc[f.family==fam,'start0'],f.loc[f.family==fam,'end0'])) for fam in colors}
@@ -42,7 +42,7 @@ for col,chrom in enumerate([3,21]):
         top.broken_barh([(a/1e6,(b-a)/1e6) for a,b in bounds[fam]],(y,.6),facecolors=colors[fam],linewidths=0)
     top.set(ylim=(-.1,1.8),xlim=(0,length/1e6),yticks=[1.3,.3],yticklabels=['富AT','富GC'])
     top.tick_params(axis='x',bottom=False,labelbottom=False)
-    top.set_title(f'{"AB"[col]}  第{chrom}号染色体',loc='left',fontsize=10,pad=7)
+    top.set_title(f'{label}  第{chrom}号染色体',loc='left',fontsize=10,pad=7)
     coverage=[]
     for i,run in enumerate(runs):
         q=win[(win.run==run)&(win.reference==ref)].sort_values('start0')
